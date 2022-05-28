@@ -1,0 +1,4241 @@
+Continent,Pays,Annee,Importations de vin,Unite
+Asie,Afghanistan,2003,1,1000hl
+Asie,Afghanistan,2004,1,1000hl
+Asie,Afghanistan,2005,1,1000hl
+Asie,Afghanistan,2006,9,1000hl
+Asie,Afghanistan,2007,10,1000hl
+Asie,Afghanistan,2008,1,1000hl
+Asie,Afghanistan,2009,3,1000hl
+Asie,Afghanistan,2010,2,1000hl
+Asie,Afghanistan,2011,1,1000hl
+Asie,Afghanistan,2012,1,1000hl
+Asie,Afghanistan,2014,1,1000hl
+Asie,Afghanistan,2015,1,1000hl
+Asie,Afghanistan,2016,1,1000hl
+Asie,Afghanistan,2017,1,1000hl
+Asie,Afghanistan,2018,1,1000hl
+Asie,Afghanistan,2019,1,1000hl
+Afrique,Afrique Du Sud,1995,44,1000hl
+Afrique,Afrique Du Sud,1996,165,1000hl
+Afrique,Afrique Du Sud,1997,197,1000hl
+Afrique,Afrique Du Sud,1998,114,1000hl
+Afrique,Afrique Du Sud,1999,110,1000hl
+Afrique,Afrique Du Sud,2000,78,1000hl
+Afrique,Afrique Du Sud,2001,43,1000hl
+Afrique,Afrique Du Sud,2002,53,1000hl
+Afrique,Afrique Du Sud,2003,68,1000hl
+Afrique,Afrique Du Sud,2004,27,1000hl
+Afrique,Afrique Du Sud,2005,196,1000hl
+Afrique,Afrique Du Sud,2006,191,1000hl
+Afrique,Afrique Du Sud,2007,141,1000hl
+Afrique,Afrique Du Sud,2008,181,1000hl
+Afrique,Afrique Du Sud,2009,202,1000hl
+Afrique,Afrique Du Sud,2010,178,1000hl
+Afrique,Afrique Du Sud,2011,106,1000hl
+Afrique,Afrique Du Sud,2012,170,1000hl
+Afrique,Afrique Du Sud,2013,181,1000hl
+Afrique,Afrique Du Sud,2014,111,1000hl
+Afrique,Afrique Du Sud,2015,158,1000hl
+Afrique,Afrique Du Sud,2016,169,1000hl
+Afrique,Afrique Du Sud,2017,237,1000hl
+Afrique,Afrique Du Sud,2018,175,1000hl
+Afrique,Afrique Du Sud,2019,354,1000hl
+Europe,Albanie,1995,17,1000hl
+Europe,Albanie,1996,17,1000hl
+Europe,Albanie,1997,2,1000hl
+Europe,Albanie,1998,2,1000hl
+Europe,Albanie,1999,4,1000hl
+Europe,Albanie,2000,3,1000hl
+Europe,Albanie,2001,4,1000hl
+Europe,Albanie,2002,7,1000hl
+Europe,Albanie,2003,15,1000hl
+Europe,Albanie,2004,12,1000hl
+Europe,Albanie,2005,20,1000hl
+Europe,Albanie,2006,19,1000hl
+Europe,Albanie,2007,23,1000hl
+Europe,Albanie,2008,24,1000hl
+Europe,Albanie,2009,25,1000hl
+Europe,Albanie,2010,25,1000hl
+Europe,Albanie,2011,27,1000hl
+Europe,Albanie,2012,26,1000hl
+Europe,Albanie,2013,22,1000hl
+Europe,Albanie,2014,16,1000hl
+Europe,Albanie,2015,84,1000hl
+Europe,Albanie,2016,41,1000hl
+Europe,Albanie,2017,47,1000hl
+Europe,Albanie,2018,46,1000hl
+Europe,Albanie,2019,49,1000hl
+Afrique,Algerie,1995,1,1000hl
+Afrique,Algerie,1999,55,1000hl
+Afrique,Algerie,2000,3,1000hl
+Afrique,Algerie,2001,8,1000hl
+Afrique,Algerie,2002,61,1000hl
+Afrique,Algerie,2003,79,1000hl
+Afrique,Algerie,2005,3,1000hl
+Afrique,Algerie,2006,9,1000hl
+Afrique,Algerie,2007,7,1000hl
+Afrique,Algerie,2008,29,1000hl
+Afrique,Algerie,2009,25,1000hl
+Afrique,Algerie,2010,17,1000hl
+Afrique,Algerie,2011,24,1000hl
+Afrique,Algerie,2012,38,1000hl
+Afrique,Algerie,2013,56,1000hl
+Afrique,Algerie,2014,75,1000hl
+Afrique,Algerie,2015,85,1000hl
+Afrique,Algerie,2016,113,1000hl
+Afrique,Algerie,2017,90,1000hl
+Afrique,Algerie,2018,94,1000hl
+Afrique,Algerie,2019,56,1000hl
+Europe,Allemagne,1995,8771,1000hl
+Europe,Allemagne,1996,10719,1000hl
+Europe,Allemagne,1997,9855,1000hl
+Europe,Allemagne,1998,11631,1000hl
+Europe,Allemagne,1999,11854,1000hl
+Europe,Allemagne,2000,9922,1000hl
+Europe,Allemagne,2001,11268,1000hl
+Europe,Allemagne,2002,11710,1000hl
+Europe,Allemagne,2003,11906,1000hl
+Europe,Allemagne,2004,13043,1000hl
+Europe,Allemagne,2005,13262,1000hl
+Europe,Allemagne,2006,13772,1000hl
+Europe,Allemagne,2007,14553,1000hl
+Europe,Allemagne,2008,13708,1000hl
+Europe,Allemagne,2009,14110,1000hl
+Europe,Allemagne,2010,14778,1000hl
+Europe,Allemagne,2011,16133,1000hl
+Europe,Allemagne,2012,15374,1000hl
+Europe,Allemagne,2013,15274,1000hl
+Europe,Allemagne,2014,15482,1000hl
+Europe,Allemagne,2015,15420,1000hl
+Europe,Allemagne,2016,14851,1000hl
+Europe,Allemagne,2017,15230,1000hl
+Europe,Allemagne,2018,14656,1000hl
+Europe,Allemagne,2019,14802,1000hl
+Afrique,Angola,1995,255,1000hl
+Afrique,Angola,1996,280,1000hl
+Afrique,Angola,1997,458,1000hl
+Afrique,Angola,1998,539,1000hl
+Afrique,Angola,1999,236,1000hl
+Afrique,Angola,2000,258,1000hl
+Afrique,Angola,2001,357,1000hl
+Afrique,Angola,2002,398,1000hl
+Afrique,Angola,2003,499,1000hl
+Afrique,Angola,2004,579,1000hl
+Afrique,Angola,2005,782,1000hl
+Afrique,Angola,2006,970,1000hl
+Afrique,Angola,2007,1028,1000hl
+Afrique,Angola,2008,1160,1000hl
+Afrique,Angola,2009,798,1000hl
+Afrique,Angola,2010,868,1000hl
+Afrique,Angola,2011,948,1000hl
+Afrique,Angola,2012,1031,1000hl
+Afrique,Angola,2013,1003,1000hl
+Afrique,Angola,2014,1686,1000hl
+Afrique,Angola,2015,1015,1000hl
+Afrique,Angola,2016,850,1000hl
+Afrique,Angola,2017,700,1000hl
+Afrique,Angola,2018,416,1000hl
+Afrique,Angola,2019,371,1000hl
+Amerique,Antigua-et-barbuda,1995,2,1000hl
+Amerique,Antigua-et-barbuda,1996,2,1000hl
+Amerique,Antigua-et-barbuda,1997,3,1000hl
+Amerique,Antigua-et-barbuda,1998,3,1000hl
+Amerique,Antigua-et-barbuda,1999,3,1000hl
+Amerique,Antigua-et-barbuda,2000,5,1000hl
+Amerique,Antigua-et-barbuda,2001,5,1000hl
+Amerique,Antigua-et-barbuda,2002,5,1000hl
+Amerique,Antigua-et-barbuda,2003,4,1000hl
+Amerique,Antigua-et-barbuda,2004,6,1000hl
+Amerique,Antigua-et-barbuda,2005,13,1000hl
+Amerique,Antigua-et-barbuda,2006,10,1000hl
+Amerique,Antigua-et-barbuda,2007,10,1000hl
+Amerique,Antigua-et-barbuda,2008,8,1000hl
+Amerique,Antigua-et-barbuda,2009,7,1000hl
+Amerique,Antigua-et-barbuda,2010,8,1000hl
+Amerique,Antigua-et-barbuda,2011,8,1000hl
+Amerique,Antigua-et-barbuda,2012,15,1000hl
+Amerique,Antigua-et-barbuda,2013,19,1000hl
+Amerique,Antigua-et-barbuda,2014,19,1000hl
+Amerique,Antigua-et-barbuda,2015,13,1000hl
+Amerique,Antigua-et-barbuda,2016,28,1000hl
+Amerique,Antigua-et-barbuda,2017,23,1000hl
+Amerique,Antigua-et-barbuda,2018,25,1000hl
+Amerique,Antigua-et-barbuda,2019,15,1000hl
+Amerique,Antilles Neerlandaises,1995,9,1000hl
+Amerique,Antilles Neerlandaises,1996,9,1000hl
+Amerique,Antilles Neerlandaises,1997,8,1000hl
+Amerique,Antilles Neerlandaises,1998,7,1000hl
+Amerique,Antilles Neerlandaises,1999,7,1000hl
+Amerique,Antilles Neerlandaises,2000,15,1000hl
+Amerique,Antilles Neerlandaises,2001,14,1000hl
+Amerique,Antilles Neerlandaises,2002,12,1000hl
+Amerique,Antilles Neerlandaises,2003,15,1000hl
+Amerique,Antilles Neerlandaises,2004,15,1000hl
+Amerique,Antilles Neerlandaises,2005,17,1000hl
+Amerique,Antilles Neerlandaises,2006,16,1000hl
+Amerique,Antilles Neerlandaises,2007,22,1000hl
+Amerique,Antilles Neerlandaises,2008,20,1000hl
+Amerique,Antilles Neerlandaises,2009,30,1000hl
+Amerique,Antilles Neerlandaises,2010,32,1000hl
+Amerique,Antilles Neerlandaises,2011,32,1000hl
+Amerique,Antilles Neerlandaises,2012,33,1000hl
+Amerique,Antilles Neerlandaises,2013,33,1000hl
+Asie,Arabie Saoudite,2003,1,1000hl
+Amerique,Argentine,1995,51,1000hl
+Amerique,Argentine,1996,44,1000hl
+Amerique,Argentine,1997,75,1000hl
+Amerique,Argentine,1998,87,1000hl
+Amerique,Argentine,1999,97,1000hl
+Amerique,Argentine,2000,59,1000hl
+Amerique,Argentine,2001,65,1000hl
+Amerique,Argentine,2002,2,1000hl
+Amerique,Argentine,2003,2,1000hl
+Amerique,Argentine,2004,2,1000hl
+Amerique,Argentine,2005,3,1000hl
+Amerique,Argentine,2006,2,1000hl
+Amerique,Argentine,2007,4,1000hl
+Amerique,Argentine,2008,4,1000hl
+Amerique,Argentine,2009,113,1000hl
+Amerique,Argentine,2010,288,1000hl
+Amerique,Argentine,2011,74,1000hl
+Amerique,Argentine,2012,6,1000hl
+Amerique,Argentine,2013,7,1000hl
+Amerique,Argentine,2014,3,1000hl
+Amerique,Argentine,2015,5,1000hl
+Amerique,Argentine,2016,93,1000hl
+Amerique,Argentine,2017,810,1000hl
+Amerique,Argentine,2018,26,1000hl
+Amerique,Argentine,2019,3,1000hl
+Asie,Armenie,1995,3,1000hl
+Asie,Armenie,1996,8,1000hl
+Asie,Armenie,1997,7,1000hl
+Asie,Armenie,1998,1,1000hl
+Asie,Armenie,1999,1,1000hl
+Asie,Armenie,2000,1,1000hl
+Asie,Armenie,2001,1,1000hl
+Asie,Armenie,2002,1,1000hl
+Asie,Armenie,2004,1,1000hl
+Asie,Armenie,2005,2,1000hl
+Asie,Armenie,2006,2,1000hl
+Asie,Armenie,2007,2,1000hl
+Asie,Armenie,2008,2,1000hl
+Asie,Armenie,2009,1,1000hl
+Asie,Armenie,2010,5,1000hl
+Asie,Armenie,2011,6,1000hl
+Asie,Armenie,2012,4,1000hl
+Asie,Armenie,2013,4,1000hl
+Asie,Armenie,2014,3,1000hl
+Asie,Armenie,2015,4,1000hl
+Asie,Armenie,2016,3,1000hl
+Asie,Armenie,2017,5,1000hl
+Asie,Armenie,2018,4,1000hl
+Asie,Armenie,2019,5,1000hl
+Oceanie,Australie,1995,141,1000hl
+Oceanie,Australie,1996,141,1000hl
+Oceanie,Australie,1997,207,1000hl
+Oceanie,Australie,1998,284,1000hl
+Oceanie,Australie,1999,243,1000hl
+Oceanie,Australie,2000,156,1000hl
+Oceanie,Australie,2001,125,1000hl
+Oceanie,Australie,2002,159,1000hl
+Oceanie,Australie,2003,222,1000hl
+Oceanie,Australie,2004,258,1000hl
+Oceanie,Australie,2005,221,1000hl
+Oceanie,Australie,2006,298,1000hl
+Oceanie,Australie,2007,435,1000hl
+Oceanie,Australie,2008,622,1000hl
+Oceanie,Australie,2009,616,1000hl
+Oceanie,Australie,2010,679,1000hl
+Oceanie,Australie,2011,756,1000hl
+Oceanie,Australie,2012,840,1000hl
+Oceanie,Australie,2013,848,1000hl
+Oceanie,Australie,2014,828,1000hl
+Oceanie,Australie,2015,927,1000hl
+Oceanie,Australie,2016,878,1000hl
+Oceanie,Australie,2017,922,1000hl
+Oceanie,Australie,2018,1004,1000hl
+Oceanie,Australie,2019,983,1000hl
+Europe,Autriche,1995,237,1000hl
+Europe,Autriche,1996,248,1000hl
+Europe,Autriche,1997,518,1000hl
+Europe,Autriche,1998,314,1000hl
+Europe,Autriche,1999,565,1000hl
+Europe,Autriche,2000,506,1000hl
+Europe,Autriche,2001,582,1000hl
+Europe,Autriche,2002,617,1000hl
+Europe,Autriche,2003,404,1000hl
+Europe,Autriche,2004,646,1000hl
+Europe,Autriche,2005,706,1000hl
+Europe,Autriche,2006,674,1000hl
+Europe,Autriche,2007,765,1000hl
+Europe,Autriche,2008,633,1000hl
+Europe,Autriche,2009,626,1000hl
+Europe,Autriche,2010,748,1000hl
+Europe,Autriche,2011,920,1000hl
+Europe,Autriche,2012,776,1000hl
+Europe,Autriche,2013,784,1000hl
+Europe,Autriche,2014,781,1000hl
+Europe,Autriche,2015,736,1000hl
+Europe,Autriche,2016,824,1000hl
+Europe,Autriche,2017,867,1000hl
+Europe,Autriche,2018,699,1000hl
+Europe,Autriche,2019,484,1000hl
+Asie,Azerbaidjan,1995,9,1000hl
+Asie,Azerbaidjan,1996,2,1000hl
+Asie,Azerbaidjan,1997,5,1000hl
+Asie,Azerbaidjan,1998,1,1000hl
+Asie,Azerbaidjan,2000,1,1000hl
+Asie,Azerbaidjan,2002,1,1000hl
+Asie,Azerbaidjan,2003,1,1000hl
+Asie,Azerbaidjan,2004,1,1000hl
+Asie,Azerbaidjan,2005,3,1000hl
+Asie,Azerbaidjan,2006,2,1000hl
+Asie,Azerbaidjan,2007,6,1000hl
+Asie,Azerbaidjan,2008,3,1000hl
+Asie,Azerbaidjan,2009,2,1000hl
+Asie,Azerbaidjan,2010,1,1000hl
+Asie,Azerbaidjan,2011,3,1000hl
+Asie,Azerbaidjan,2012,3,1000hl
+Asie,Azerbaidjan,2013,3,1000hl
+Asie,Azerbaidjan,2014,2,1000hl
+Asie,Azerbaidjan,2015,1,1000hl
+Asie,Azerbaidjan,2016,4,1000hl
+Asie,Azerbaidjan,2017,7,1000hl
+Asie,Azerbaidjan,2018,3,1000hl
+Asie,Azerbaidjan,2019,4,1000hl
+Amerique,Bahamas,1995,18,1000hl
+Amerique,Bahamas,1996,22,1000hl
+Amerique,Bahamas,1997,24,1000hl
+Amerique,Bahamas,1998,24,1000hl
+Amerique,Bahamas,1999,28,1000hl
+Amerique,Bahamas,2000,38,1000hl
+Amerique,Bahamas,2001,27,1000hl
+Amerique,Bahamas,2002,22,1000hl
+Amerique,Bahamas,2003,29,1000hl
+Amerique,Bahamas,2004,20,1000hl
+Amerique,Bahamas,2005,27,1000hl
+Amerique,Bahamas,2006,33,1000hl
+Amerique,Bahamas,2007,36,1000hl
+Amerique,Bahamas,2008,34,1000hl
+Amerique,Bahamas,2009,30,1000hl
+Amerique,Bahamas,2010,31,1000hl
+Amerique,Bahamas,2011,30,1000hl
+Amerique,Bahamas,2012,39,1000hl
+Amerique,Bahamas,2013,28,1000hl
+Amerique,Bahamas,2014,33,1000hl
+Amerique,Bahamas,2015,39,1000hl
+Amerique,Bahamas,2016,38,1000hl
+Amerique,Bahamas,2017,34,1000hl
+Amerique,Bahamas,2018,37,1000hl
+Amerique,Bahamas,2019,37,1000hl
+Asie,Bangladesh,1995,2,1000hl
+Asie,Bangladesh,1996,2,1000hl
+Asie,Bangladesh,2001,1,1000hl
+Asie,Bangladesh,2002,1,1000hl
+Asie,Bangladesh,2003,1,1000hl
+Asie,Bangladesh,2004,1,1000hl
+Asie,Bangladesh,2006,1,1000hl
+Asie,Bangladesh,2007,2,1000hl
+Asie,Bangladesh,2008,2,1000hl
+Asie,Bangladesh,2009,1,1000hl
+Asie,Bangladesh,2010,1,1000hl
+Asie,Bangladesh,2011,1,1000hl
+Asie,Bangladesh,2012,1,1000hl
+Asie,Bangladesh,2013,1,1000hl
+Asie,Bangladesh,2014,3,1000hl
+Asie,Bangladesh,2015,1,1000hl
+Asie,Bangladesh,2016,1,1000hl
+Asie,Bangladesh,2018,1,1000hl
+Asie,Bangladesh,2019,1,1000hl
+Amerique,Barbade,1995,8,1000hl
+Amerique,Barbade,1996,7,1000hl
+Amerique,Barbade,1997,9,1000hl
+Amerique,Barbade,1998,5,1000hl
+Amerique,Barbade,1999,10,1000hl
+Amerique,Barbade,2000,12,1000hl
+Amerique,Barbade,2001,10,1000hl
+Amerique,Barbade,2002,10,1000hl
+Amerique,Barbade,2003,11,1000hl
+Amerique,Barbade,2004,14,1000hl
+Amerique,Barbade,2005,29,1000hl
+Amerique,Barbade,2006,21,1000hl
+Amerique,Barbade,2007,20,1000hl
+Amerique,Barbade,2008,26,1000hl
+Amerique,Barbade,2009,22,1000hl
+Amerique,Barbade,2010,23,1000hl
+Amerique,Barbade,2011,21,1000hl
+Amerique,Barbade,2012,22,1000hl
+Amerique,Barbade,2013,24,1000hl
+Amerique,Barbade,2014,23,1000hl
+Amerique,Barbade,2015,36,1000hl
+Amerique,Barbade,2016,34,1000hl
+Amerique,Barbade,2017,27,1000hl
+Amerique,Barbade,2018,29,1000hl
+Amerique,Barbade,2019,27,1000hl
+Europe,Belgique Et Luxembourg,1995,2299,1000hl
+Europe,Belgique Et Luxembourg,1996,2180,1000hl
+Europe,Belgique Et Luxembourg,1997,2283,1000hl
+Europe,Belgique Et Luxembourg,1998,2520,1000hl
+Europe,Belgique Et Luxembourg,1999,2419,1000hl
+Europe,Belgique Et Luxembourg,2000,2655,1000hl
+Europe,Belgique,2001,2446,1000hl
+Europe,Belgique,2002,2763,1000hl
+Europe,Belgique,2003,2670,1000hl
+Europe,Belgique,2004,2801,1000hl
+Europe,Belgique,2005,2897,1000hl
+Europe,Belgique,2006,2938,1000hl
+Europe,Belgique,2007,3106,1000hl
+Europe,Belgique,2008,3097,1000hl
+Europe,Belgique,2009,3061,1000hl
+Europe,Belgique,2010,2984,1000hl
+Europe,Belgique,2011,3158,1000hl
+Europe,Belgique,2012,3133,1000hl
+Europe,Belgique,2013,3166,1000hl
+Europe,Belgique,2014,3118,1000hl
+Europe,Belgique,2015,3110,1000hl
+Europe,Belgique,2016,3120,1000hl
+Europe,Belgique,2017,3119,1000hl
+Europe,Belgique,2018,3038,1000hl
+Europe,Belgique,2019,3071,1000hl
+Amerique,Belize,1995,1,1000hl
+Amerique,Belize,1996,1,1000hl
+Amerique,Belize,1997,1,1000hl
+Amerique,Belize,1998,1,1000hl
+Amerique,Belize,1999,1,1000hl
+Amerique,Belize,2000,2,1000hl
+Amerique,Belize,2001,2,1000hl
+Amerique,Belize,2002,1,1000hl
+Amerique,Belize,2003,9,1000hl
+Amerique,Belize,2004,2,1000hl
+Amerique,Belize,2005,4,1000hl
+Amerique,Belize,2006,3,1000hl
+Amerique,Belize,2007,4,1000hl
+Amerique,Belize,2008,4,1000hl
+Amerique,Belize,2009,3,1000hl
+Amerique,Belize,2010,5,1000hl
+Amerique,Belize,2011,4,1000hl
+Amerique,Belize,2012,8,1000hl
+Amerique,Belize,2013,17,1000hl
+Amerique,Belize,2014,14,1000hl
+Amerique,Belize,2015,13,1000hl
+Amerique,Belize,2016,13,1000hl
+Amerique,Belize,2017,15,1000hl
+Amerique,Belize,2018,15,1000hl
+Amerique,Belize,2019,16,1000hl
+Amerique,Bermudes,1995,20,1000hl
+Amerique,Bermudes,1996,14,1000hl
+Amerique,Bermudes,1997,14,1000hl
+Amerique,Bermudes,1998,18,1000hl
+Amerique,Bermudes,1999,15,1000hl
+Amerique,Bermudes,2000,16,1000hl
+Amerique,Bermudes,2001,25,1000hl
+Amerique,Bermudes,2002,14,1000hl
+Amerique,Bermudes,2003,12,1000hl
+Amerique,Bermudes,2004,13,1000hl
+Amerique,Bermudes,2005,33,1000hl
+Amerique,Bermudes,2006,27,1000hl
+Amerique,Bermudes,2007,33,1000hl
+Amerique,Bermudes,2008,28,1000hl
+Amerique,Bermudes,2009,21,1000hl
+Amerique,Bermudes,2010,21,1000hl
+Amerique,Bermudes,2011,34,1000hl
+Amerique,Bermudes,2012,34,1000hl
+Amerique,Bermudes,2013,11,1000hl
+Amerique,Bermudes,2014,15,1000hl
+Amerique,Bermudes,2015,15,1000hl
+Amerique,Bermudes,2016,15,1000hl
+Amerique,Bermudes,2017,16,1000hl
+Amerique,Bermudes,2018,14,1000hl
+Amerique,Bermudes,2019,18,1000hl
+Amerique,"Bolivie, Etat Plurinational ",1995,3,1000hl
+Amerique,"Bolivie, Etat Plurinational ",1996,3,1000hl
+Amerique,"Bolivie, Etat Plurinational ",1997,4,1000hl
+Amerique,"Bolivie, Etat Plurinational ",1998,3,1000hl
+Amerique,"Bolivie, Etat Plurinational ",1999,5,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2000,8,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2001,6,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2002,3,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2003,6,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2004,6,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2005,4,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2006,5,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2007,5,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2008,9,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2009,8,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2010,7,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2011,9,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2012,9,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2013,10,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2014,10,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2015,10,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2016,10,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2017,10,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2018,10,1000hl
+Amerique,"Bolivie, Etat Plurinational ",2019,7,1000hl
+Europe,Bosnie-herzegovine,1995,34,1000hl
+Europe,Bosnie-herzegovine,1996,18,1000hl
+Europe,Bosnie-herzegovine,1997,20,1000hl
+Europe,Bosnie-herzegovine,1998,6,1000hl
+Europe,Bosnie-herzegovine,1999,18,1000hl
+Europe,Bosnie-herzegovine,2000,49,1000hl
+Europe,Bosnie-herzegovine,2001,72,1000hl
+Europe,Bosnie-herzegovine,2002,72,1000hl
+Europe,Bosnie-herzegovine,2003,37,1000hl
+Europe,Bosnie-herzegovine,2004,88,1000hl
+Europe,Bosnie-herzegovine,2005,84,1000hl
+Europe,Bosnie-herzegovine,2006,97,1000hl
+Europe,Bosnie-herzegovine,2007,105,1000hl
+Europe,Bosnie-herzegovine,2008,100,1000hl
+Europe,Bosnie-herzegovine,2009,99,1000hl
+Europe,Bosnie-herzegovine,2010,90,1000hl
+Europe,Bosnie-herzegovine,2011,74,1000hl
+Europe,Bosnie-herzegovine,2012,81,1000hl
+Europe,Bosnie-herzegovine,2013,69,1000hl
+Europe,Bosnie-herzegovine,2014,72,1000hl
+Europe,Bosnie-herzegovine,2015,82,1000hl
+Europe,Bosnie-herzegovine,2016,80,1000hl
+Europe,Bosnie-herzegovine,2017,85,1000hl
+Europe,Bosnie-herzegovine,2018,85,1000hl
+Europe,Bosnie-herzegovine,2019,90,1000hl
+Afrique,Botswana,1995,20,1000hl
+Afrique,Botswana,1996,17,1000hl
+Afrique,Botswana,1997,25,1000hl
+Afrique,Botswana,1998,20,1000hl
+Afrique,Botswana,1999,24,1000hl
+Afrique,Botswana,2000,29,1000hl
+Afrique,Botswana,2001,21,1000hl
+Afrique,Botswana,2002,47,1000hl
+Afrique,Botswana,2003,39,1000hl
+Afrique,Botswana,2004,39,1000hl
+Afrique,Botswana,2005,56,1000hl
+Afrique,Botswana,2006,63,1000hl
+Afrique,Botswana,2007,191,1000hl
+Afrique,Botswana,2008,113,1000hl
+Afrique,Botswana,2009,73,1000hl
+Afrique,Botswana,2010,43,1000hl
+Afrique,Botswana,2011,51,1000hl
+Afrique,Botswana,2012,33,1000hl
+Afrique,Botswana,2013,49,1000hl
+Afrique,Botswana,2014,41,1000hl
+Afrique,Botswana,2015,33,1000hl
+Afrique,Botswana,2016,37,1000hl
+Afrique,Botswana,2017,25,1000hl
+Afrique,Botswana,2018,71,1000hl
+Afrique,Botswana,2019,46,1000hl
+Asie,Brunei Darussalam,1996,1,1000hl
+Asie,Brunei Darussalam,1999,1,1000hl
+Asie,Brunei Darussalam,2000,1,1000hl
+Asie,Brunei Darussalam,2001,1,1000hl
+Asie,Brunei Darussalam,2006,1,1000hl
+Asie,Brunei Darussalam,2008,1,1000hl
+Asie,Brunei Darussalam,2011,1,1000hl
+Asie,Brunei Darussalam,2012,1,1000hl
+Amerique,Bresil,1995,279,1000hl
+Amerique,Bresil,1996,234,1000hl
+Amerique,Bresil,1997,253,1000hl
+Amerique,Bresil,1998,241,1000hl
+Amerique,Bresil,1999,284,1000hl
+Amerique,Bresil,2000,312,1000hl
+Amerique,Bresil,2001,299,1000hl
+Amerique,Bresil,2002,266,1000hl
+Amerique,Bresil,2003,293,1000hl
+Amerique,Bresil,2004,392,1000hl
+Amerique,Bresil,2005,409,1000hl
+Amerique,Bresil,2006,509,1000hl
+Amerique,Bresil,2007,609,1000hl
+Amerique,Bresil,2008,579,1000hl
+Amerique,Bresil,2009,559,1000hl
+Amerique,Bresil,2010,707,1000hl
+Amerique,Bresil,2011,727,1000hl
+Amerique,Bresil,2012,742,1000hl
+Amerique,Bresil,2013,679,1000hl
+Amerique,Bresil,2014,812,1000hl
+Amerique,Bresil,2015,818,1000hl
+Amerique,Bresil,2016,921,1000hl
+Amerique,Bresil,2017,1258,1000hl
+Amerique,Bresil,2018,1194,1000hl
+Amerique,Bresil,2019,1203,1000hl
+Europe,Bulgarie,1995,216,1000hl
+Europe,Bulgarie,1996,25,1000hl
+Europe,Bulgarie,1997,3,1000hl
+Europe,Bulgarie,1998,6,1000hl
+Europe,Bulgarie,1999,107,1000hl
+Europe,Bulgarie,2000,47,1000hl
+Europe,Bulgarie,2001,15,1000hl
+Europe,Bulgarie,2002,40,1000hl
+Europe,Bulgarie,2003,13,1000hl
+Europe,Bulgarie,2004,8,1000hl
+Europe,Bulgarie,2005,50,1000hl
+Europe,Bulgarie,2006,124,1000hl
+Europe,Bulgarie,2007,151,1000hl
+Europe,Bulgarie,2008,69,1000hl
+Europe,Bulgarie,2009,53,1000hl
+Europe,Bulgarie,2010,82,1000hl
+Europe,Bulgarie,2011,67,1000hl
+Europe,Bulgarie,2012,71,1000hl
+Europe,Bulgarie,2013,65,1000hl
+Europe,Bulgarie,2014,49,1000hl
+Europe,Bulgarie,2015,80,1000hl
+Europe,Bulgarie,2016,73,1000hl
+Europe,Bulgarie,2017,87,1000hl
+Europe,Bulgarie,2018,86,1000hl
+Europe,Bulgarie,2019,125,1000hl
+Afrique,Burkina Faso,1995,6,1000hl
+Afrique,Burkina Faso,1996,8,1000hl
+Afrique,Burkina Faso,1997,10,1000hl
+Afrique,Burkina Faso,1998,10,1000hl
+Afrique,Burkina Faso,1999,15,1000hl
+Afrique,Burkina Faso,2000,20,1000hl
+Afrique,Burkina Faso,2001,14,1000hl
+Afrique,Burkina Faso,2002,20,1000hl
+Afrique,Burkina Faso,2003,14,1000hl
+Afrique,Burkina Faso,2004,36,1000hl
+Afrique,Burkina Faso,2005,48,1000hl
+Afrique,Burkina Faso,2006,61,1000hl
+Afrique,Burkina Faso,2007,50,1000hl
+Afrique,Burkina Faso,2008,46,1000hl
+Afrique,Burkina Faso,2009,34,1000hl
+Afrique,Burkina Faso,2010,41,1000hl
+Afrique,Burkina Faso,2011,41,1000hl
+Afrique,Burkina Faso,2012,56,1000hl
+Afrique,Burkina Faso,2013,29,1000hl
+Afrique,Burkina Faso,2014,24,1000hl
+Afrique,Burkina Faso,2015,29,1000hl
+Afrique,Burkina Faso,2016,32,1000hl
+Afrique,Burkina Faso,2017,36,1000hl
+Afrique,Burkina Faso,2018,79,1000hl
+Afrique,Burkina Faso,2019,115,1000hl
+Afrique,Burundi,1995,3,1000hl
+Afrique,Burundi,1996,1,1000hl
+Afrique,Burundi,1997,1,1000hl
+Afrique,Burundi,1999,1,1000hl
+Afrique,Burundi,2000,1,1000hl
+Afrique,Burundi,2001,1,1000hl
+Afrique,Burundi,2002,1,1000hl
+Afrique,Burundi,2003,1,1000hl
+Afrique,Burundi,2004,3,1000hl
+Afrique,Burundi,2005,2,1000hl
+Afrique,Burundi,2006,2,1000hl
+Afrique,Burundi,2007,2,1000hl
+Afrique,Burundi,2008,3,1000hl
+Afrique,Burundi,2009,2,1000hl
+Afrique,Burundi,2010,2,1000hl
+Afrique,Burundi,2011,2,1000hl
+Afrique,Burundi,2012,4,1000hl
+Afrique,Burundi,2013,4,1000hl
+Afrique,Burundi,2014,2,1000hl
+Afrique,Burundi,2015,2,1000hl
+Afrique,Burundi,2016,2,1000hl
+Afrique,Burundi,2017,1,1000hl
+Afrique,Burundi,2018,1,1000hl
+Afrique,Burundi,2019,4,1000hl
+Europe,Belarus,1995,190,1000hl
+Europe,Belarus,1996,90,1000hl
+Europe,Belarus,1997,26,1000hl
+Europe,Belarus,1998,84,1000hl
+Europe,Belarus,1999,54,1000hl
+Europe,Belarus,2000,80,1000hl
+Europe,Belarus,2001,167,1000hl
+Europe,Belarus,2002,227,1000hl
+Europe,Belarus,2003,276,1000hl
+Europe,Belarus,2004,427,1000hl
+Europe,Belarus,2005,406,1000hl
+Europe,Belarus,2006,417,1000hl
+Europe,Belarus,2007,420,1000hl
+Europe,Belarus,2008,414,1000hl
+Europe,Belarus,2009,427,1000hl
+Europe,Belarus,2010,484,1000hl
+Europe,Belarus,2011,469,1000hl
+Europe,Belarus,2012,513,1000hl
+Europe,Belarus,2013,535,1000hl
+Europe,Belarus,2014,520,1000hl
+Europe,Belarus,2015,503,1000hl
+Europe,Belarus,2016,485,1000hl
+Europe,Belarus,2017,576,1000hl
+Europe,Belarus,2018,571,1000hl
+Europe,Belarus,2019,681,1000hl
+Afrique,Benin,1995,15,1000hl
+Afrique,Benin,1996,24,1000hl
+Afrique,Benin,1997,30,1000hl
+Afrique,Benin,1998,36,1000hl
+Afrique,Benin,1999,37,1000hl
+Afrique,Benin,2000,30,1000hl
+Afrique,Benin,2001,33,1000hl
+Afrique,Benin,2002,36,1000hl
+Afrique,Benin,2003,47,1000hl
+Afrique,Benin,2004,43,1000hl
+Afrique,Benin,2005,48,1000hl
+Afrique,Benin,2006,57,1000hl
+Afrique,Benin,2007,17,1000hl
+Afrique,Benin,2008,50,1000hl
+Afrique,Benin,2009,59,1000hl
+Afrique,Benin,2010,78,1000hl
+Afrique,Benin,2011,83,1000hl
+Afrique,Benin,2012,47,1000hl
+Afrique,Benin,2013,36,1000hl
+Afrique,Benin,2014,33,1000hl
+Afrique,Benin,2015,44,1000hl
+Afrique,Benin,2016,34,1000hl
+Afrique,Benin,2017,29,1000hl
+Afrique,Benin,2018,16,1000hl
+Afrique,Benin,2019,23,1000hl
+Asie,Cambodge,1996,7,1000hl
+Asie,Cambodge,1997,3,1000hl
+Asie,Cambodge,1998,3,1000hl
+Asie,Cambodge,1999,5,1000hl
+Asie,Cambodge,2000,4,1000hl
+Asie,Cambodge,2001,4,1000hl
+Asie,Cambodge,2002,4,1000hl
+Asie,Cambodge,2003,5,1000hl
+Asie,Cambodge,2004,4,1000hl
+Asie,Cambodge,2005,16,1000hl
+Asie,Cambodge,2006,9,1000hl
+Asie,Cambodge,2007,13,1000hl
+Asie,Cambodge,2008,17,1000hl
+Asie,Cambodge,2009,13,1000hl
+Asie,Cambodge,2010,8,1000hl
+Asie,Cambodge,2011,9,1000hl
+Asie,Cambodge,2012,11,1000hl
+Asie,Cambodge,2013,15,1000hl
+Asie,Cambodge,2014,22,1000hl
+Asie,Cambodge,2015,17,1000hl
+Asie,Cambodge,2016,12,1000hl
+Asie,Cambodge,2017,5,1000hl
+Asie,Cambodge,2018,6,1000hl
+Asie,Cambodge,2019,13,1000hl
+Afrique,Cameroun,1995,41,1000hl
+Afrique,Cameroun,1996,33,1000hl
+Afrique,Cameroun,1997,61,1000hl
+Afrique,Cameroun,1998,69,1000hl
+Afrique,Cameroun,1999,58,1000hl
+Afrique,Cameroun,2000,58,1000hl
+Afrique,Cameroun,2001,60,1000hl
+Afrique,Cameroun,2002,62,1000hl
+Afrique,Cameroun,2003,65,1000hl
+Afrique,Cameroun,2004,52,1000hl
+Afrique,Cameroun,2005,63,1000hl
+Afrique,Cameroun,2006,62,1000hl
+Afrique,Cameroun,2007,79,1000hl
+Afrique,Cameroun,2008,71,1000hl
+Afrique,Cameroun,2009,84,1000hl
+Afrique,Cameroun,2010,97,1000hl
+Afrique,Cameroun,2011,120,1000hl
+Afrique,Cameroun,2012,120,1000hl
+Afrique,Cameroun,2013,116,1000hl
+Afrique,Cameroun,2014,127,1000hl
+Afrique,Cameroun,2015,117,1000hl
+Afrique,Cameroun,2016,76,1000hl
+Afrique,Cameroun,2017,137,1000hl
+Afrique,Cameroun,2018,137,1000hl
+Afrique,Cameroun,2019,137,1000hl
+Amerique,Canada,1995,1477,1000hl
+Amerique,Canada,1996,1698,1000hl
+Amerique,Canada,1997,1784,1000hl
+Amerique,Canada,1998,2030,1000hl
+Amerique,Canada,1999,2195,1000hl
+Amerique,Canada,2000,2358,1000hl
+Amerique,Canada,2001,2388,1000hl
+Amerique,Canada,2002,2437,1000hl
+Amerique,Canada,2003,2697,1000hl
+Amerique,Canada,2004,2668,1000hl
+Amerique,Canada,2005,2809,1000hl
+Amerique,Canada,2006,3043,1000hl
+Amerique,Canada,2007,3118,1000hl
+Amerique,Canada,2008,3200,1000hl
+Amerique,Canada,2009,3284,1000hl
+Amerique,Canada,2010,3500,1000hl
+Amerique,Canada,2011,3584,1000hl
+Amerique,Canada,2012,3768,1000hl
+Amerique,Canada,2013,3727,1000hl
+Amerique,Canada,2014,3849,1000hl
+Amerique,Canada,2015,4134,1000hl
+Amerique,Canada,2016,4157,1000hl
+Amerique,Canada,2017,4187,1000hl
+Amerique,Canada,2018,4217,1000hl
+Amerique,Canada,2019,4169,1000hl
+Afrique,Cap-vert,1995,40,1000hl
+Afrique,Cap-vert,1996,39,1000hl
+Afrique,Cap-vert,1997,34,1000hl
+Afrique,Cap-vert,1998,31,1000hl
+Afrique,Cap-vert,1999,28,1000hl
+Afrique,Cap-vert,2000,19,1000hl
+Afrique,Cap-vert,2001,23,1000hl
+Afrique,Cap-vert,2002,31,1000hl
+Afrique,Cap-vert,2003,29,1000hl
+Afrique,Cap-vert,2004,39,1000hl
+Afrique,Cap-vert,2005,46,1000hl
+Afrique,Cap-vert,2006,51,1000hl
+Afrique,Cap-vert,2007,63,1000hl
+Afrique,Cap-vert,2008,63,1000hl
+Afrique,Cap-vert,2009,43,1000hl
+Afrique,Cap-vert,2010,50,1000hl
+Afrique,Cap-vert,2011,45,1000hl
+Afrique,Cap-vert,2012,43,1000hl
+Afrique,Cap-vert,2013,40,1000hl
+Afrique,Cap-vert,2014,47,1000hl
+Afrique,Cap-vert,2015,58,1000hl
+Afrique,Cap-vert,2016,68,1000hl
+Afrique,Cap-vert,2017,71,1000hl
+Afrique,Cap-vert,2018,60,1000hl
+Afrique,Cap-vert,2019,68,1000hl
+Amerique,Chili,1995,2,1000hl
+Amerique,Chili,1996,6,1000hl
+Amerique,Chili,1997,133,1000hl
+Amerique,Chili,1998,98,1000hl
+Amerique,Chili,1999,47,1000hl
+Amerique,Chili,2000,57,1000hl
+Amerique,Chili,2001,5,1000hl
+Amerique,Chili,2002,23,1000hl
+Amerique,Chili,2003,6,1000hl
+Amerique,Chili,2004,3,1000hl
+Amerique,Chili,2005,44,1000hl
+Amerique,Chili,2006,62,1000hl
+Amerique,Chili,2007,62,1000hl
+Amerique,Chili,2008,39,1000hl
+Amerique,Chili,2009,31,1000hl
+Amerique,Chili,2010,6,1000hl
+Amerique,Chili,2011,11,1000hl
+Amerique,Chili,2012,12,1000hl
+Amerique,Chili,2013,22,1000hl
+Amerique,Chili,2014,17,1000hl
+Amerique,Chili,2015,25,1000hl
+Amerique,Chili,2016,25,1000hl
+Amerique,Chili,2017,20,1000hl
+Amerique,Chili,2018,30,1000hl
+Amerique,Chili,2019,25,1000hl
+Asie,Chine,1995,7,1000hl
+Asie,Chine,1996,44,1000hl
+Asie,Chine,1997,336,1000hl
+Asie,Chine,1998,462,1000hl
+Asie,Chine,1999,437,1000hl
+Asie,Chine,2000,346,1000hl
+Asie,Chine,2001,292,1000hl
+Asie,Chine,2002,302,1000hl
+Asie,Chine,2003,414,1000hl
+Asie,Chine,2004,441,1000hl
+Asie,Chine,2005,535,1000hl
+Asie,Chine,2006,1155,1000hl
+Asie,Chine,2007,1482,1000hl
+Asie,Chine,2008,1649,1000hl
+Asie,Chine,2009,1729,1000hl
+Asie,Chine,2010,2861,1000hl
+Asie,Chine,2011,3655,1000hl
+Asie,Chine,2012,3943,1000hl
+Asie,Chine,2013,3766,1000hl
+Asie,Chine,2014,3838,1000hl
+Asie,Chine,2015,5555,1000hl
+Asie,Chine,2016,6389,1000hl
+Asie,Chine,2017,7511,1000hl
+Asie,Chine,2018,6876,1000hl
+Asie,Chine,2019,6128,1000hl
+Asie,Chypre,1995,3,1000hl
+Asie,Chypre,1996,4,1000hl
+Asie,Chypre,1997,5,1000hl
+Asie,Chypre,1998,6,1000hl
+Asie,Chypre,1999,9,1000hl
+Asie,Chypre,2000,9,1000hl
+Asie,Chypre,2001,10,1000hl
+Asie,Chypre,2002,11,1000hl
+Asie,Chypre,2003,8,1000hl
+Asie,Chypre,2004,30,1000hl
+Asie,Chypre,2005,28,1000hl
+Asie,Chypre,2006,35,1000hl
+Asie,Chypre,2007,42,1000hl
+Asie,Chypre,2008,41,1000hl
+Asie,Chypre,2009,44,1000hl
+Asie,Chypre,2010,58,1000hl
+Asie,Chypre,2011,62,1000hl
+Asie,Chypre,2012,75,1000hl
+Asie,Chypre,2013,72,1000hl
+Asie,Chypre,2014,80,1000hl
+Asie,Chypre,2015,84,1000hl
+Asie,Chypre,2016,87,1000hl
+Asie,Chypre,2017,89,1000hl
+Asie,Chypre,2018,83,1000hl
+Asie,Chypre,2019,84,1000hl
+Amerique,Colombie,1995,45,1000hl
+Amerique,Colombie,1996,46,1000hl
+Amerique,Colombie,1997,51,1000hl
+Amerique,Colombie,1998,51,1000hl
+Amerique,Colombie,1999,61,1000hl
+Amerique,Colombie,2000,62,1000hl
+Amerique,Colombie,2001,72,1000hl
+Amerique,Colombie,2002,94,1000hl
+Amerique,Colombie,2003,84,1000hl
+Amerique,Colombie,2004,93,1000hl
+Amerique,Colombie,2005,113,1000hl
+Amerique,Colombie,2006,123,1000hl
+Amerique,Colombie,2007,130,1000hl
+Amerique,Colombie,2008,123,1000hl
+Amerique,Colombie,2009,144,1000hl
+Amerique,Colombie,2010,142,1000hl
+Amerique,Colombie,2011,117,1000hl
+Amerique,Colombie,2012,144,1000hl
+Amerique,Colombie,2013,154,1000hl
+Amerique,Colombie,2014,162,1000hl
+Amerique,Colombie,2015,164,1000hl
+Amerique,Colombie,2016,181,1000hl
+Amerique,Colombie,2017,174,1000hl
+Amerique,Colombie,2018,189,1000hl
+Amerique,Colombie,2019,222,1000hl
+Afrique,Comores,1995,2,1000hl
+Afrique,Comores,1996,1,1000hl
+Afrique,Comores,1997,1,1000hl
+Afrique,Comores,1998,1,1000hl
+Afrique,Comores,1999,1,1000hl
+Afrique,Comores,2000,1,1000hl
+Afrique,Comores,2001,1,1000hl
+Afrique,Comores,2002,1,1000hl
+Afrique,Comores,2003,2,1000hl
+Afrique,Comores,2004,2,1000hl
+Afrique,Comores,2005,1,1000hl
+Afrique,Comores,2006,1,1000hl
+Afrique,Comores,2007,1,1000hl
+Afrique,Comores,2008,1,1000hl
+Afrique,Comores,2009,1,1000hl
+Afrique,Comores,2010,1,1000hl
+Afrique,Comores,2011,2,1000hl
+Afrique,Comores,2012,2,1000hl
+Afrique,Comores,2013,3,1000hl
+Afrique,Comores,2014,1,1000hl
+Afrique,Comores,2015,2,1000hl
+Afrique,Comores,2016,3,1000hl
+Afrique,Comores,2017,3,1000hl
+Afrique,Comores,2018,2,1000hl
+Afrique,Comores,2019,3,1000hl
+Afrique,"Congo, Republique Democratique",1995,8,1000hl
+Afrique,"Congo, Republique Democratique",1996,7,1000hl
+Afrique,"Congo, Republique Democratique",1997,3,1000hl
+Afrique,"Congo, Republique Democratique",1998,11,1000hl
+Afrique,"Congo, Republique Democratique",1999,4,1000hl
+Afrique,"Congo, Republique Democratique",2000,7,1000hl
+Afrique,"Congo, Republique Democratique",2001,3,1000hl
+Afrique,"Congo, Republique Democratique",2002,3,1000hl
+Afrique,"Congo, Republique Democratique",2003,10,1000hl
+Afrique,"Congo, Republique Democratique",2004,15,1000hl
+Afrique,"Congo, Republique Democratique",2005,21,1000hl
+Afrique,"Congo, Republique Democratique",2006,29,1000hl
+Afrique,"Congo, Republique Democratique",2007,36,1000hl
+Afrique,"Congo, Republique Democratique",2008,31,1000hl
+Afrique,"Congo, Republique Democratique",2009,28,1000hl
+Afrique,"Congo, Republique Democratique",2010,35,1000hl
+Afrique,"Congo, Republique Democratique",2011,32,1000hl
+Afrique,"Congo, Republique Democratique",2012,26,1000hl
+Afrique,"Congo, Republique Democratique",2013,37,1000hl
+Afrique,"Congo, Republique Democratique",2014,34,1000hl
+Afrique,"Congo, Republique Democratique",2015,22,1000hl
+Afrique,"Congo, Republique Democratique",2016,21,1000hl
+Afrique,"Congo, Republique Democratique",2017,31,1000hl
+Afrique,"Congo, Republique Democratique",2018,38,1000hl
+Afrique,"Congo, Republique Democratique",2019,33,1000hl
+Afrique,Congo,1995,42,1000hl
+Afrique,Congo,1996,36,1000hl
+Afrique,Congo,1997,44,1000hl
+Afrique,Congo,1998,41,1000hl
+Afrique,Congo,1999,26,1000hl
+Afrique,Congo,2000,31,1000hl
+Afrique,Congo,2001,42,1000hl
+Afrique,Congo,2002,35,1000hl
+Afrique,Congo,2003,30,1000hl
+Afrique,Congo,2004,48,1000hl
+Afrique,Congo,2005,44,1000hl
+Afrique,Congo,2006,32,1000hl
+Afrique,Congo,2007,40,1000hl
+Afrique,Congo,2008,37,1000hl
+Afrique,Congo,2009,52,1000hl
+Afrique,Congo,2010,49,1000hl
+Afrique,Congo,2011,36,1000hl
+Afrique,Congo,2012,55,1000hl
+Afrique,Congo,2013,44,1000hl
+Afrique,Congo,2014,32,1000hl
+Afrique,Congo,2015,32,1000hl
+Afrique,Congo,2016,32,1000hl
+Afrique,Congo,2017,18,1000hl
+Afrique,Congo,2018,18,1000hl
+Afrique,Congo,2019,23,1000hl
+Asie,"Coree, Republique",1995,57,1000hl
+Asie,"Coree, Republique",1996,59,1000hl
+Asie,"Coree, Republique",1997,102,1000hl
+Asie,"Coree, Republique",1998,26,1000hl
+Asie,"Coree, Republique",1999,58,1000hl
+Asie,"Coree, Republique",2000,81,1000hl
+Asie,"Coree, Republique",2001,89,1000hl
+Asie,"Coree, Republique",2002,115,1000hl
+Asie,"Coree, Republique",2003,140,1000hl
+Asie,"Coree, Republique",2004,159,1000hl
+Asie,"Coree, Republique",2005,190,1000hl
+Asie,"Coree, Republique",2006,222,1000hl
+Asie,"Coree, Republique",2007,318,1000hl
+Asie,"Coree, Republique",2008,288,1000hl
+Asie,"Coree, Republique",2009,230,1000hl
+Asie,"Coree, Republique",2010,246,1000hl
+Asie,"Coree, Republique",2011,260,1000hl
+Asie,"Coree, Republique",2012,292,1000hl
+Asie,"Coree, Republique",2013,327,1000hl
+Asie,"Coree, Republique",2014,330,1000hl
+Asie,"Coree, Republique",2015,436,1000hl
+Asie,"Coree, Republique",2016,378,1000hl
+Asie,"Coree, Republique",2017,365,1000hl
+Asie,"Coree, Republique",2018,406,1000hl
+Asie,"Coree, Republique",2019,441,1000hl
+Amerique,Costa Rica,1995,20,1000hl
+Amerique,Costa Rica,1996,21,1000hl
+Amerique,Costa Rica,1997,29,1000hl
+Amerique,Costa Rica,1998,29,1000hl
+Amerique,Costa Rica,1999,33,1000hl
+Amerique,Costa Rica,2000,36,1000hl
+Amerique,Costa Rica,2001,40,1000hl
+Amerique,Costa Rica,2002,47,1000hl
+Amerique,Costa Rica,2003,48,1000hl
+Amerique,Costa Rica,2004,52,1000hl
+Amerique,Costa Rica,2005,53,1000hl
+Amerique,Costa Rica,2006,73,1000hl
+Amerique,Costa Rica,2007,81,1000hl
+Amerique,Costa Rica,2008,78,1000hl
+Amerique,Costa Rica,2009,45,1000hl
+Amerique,Costa Rica,2010,94,1000hl
+Amerique,Costa Rica,2011,85,1000hl
+Amerique,Costa Rica,2012,85,1000hl
+Amerique,Costa Rica,2013,94,1000hl
+Amerique,Costa Rica,2014,104,1000hl
+Amerique,Costa Rica,2015,110,1000hl
+Amerique,Costa Rica,2016,117,1000hl
+Amerique,Costa Rica,2017,100,1000hl
+Amerique,Costa Rica,2018,100,1000hl
+Amerique,Costa Rica,2019,110,1000hl
+Europe,Croatie,1995,34,1000hl
+Europe,Croatie,1996,73,1000hl
+Europe,Croatie,1997,47,1000hl
+Europe,Croatie,1998,6,1000hl
+Europe,Croatie,1999,53,1000hl
+Europe,Croatie,2000,26,1000hl
+Europe,Croatie,2001,64,1000hl
+Europe,Croatie,2002,79,1000hl
+Europe,Croatie,2003,92,1000hl
+Europe,Croatie,2004,135,1000hl
+Europe,Croatie,2005,134,1000hl
+Europe,Croatie,2006,126,1000hl
+Europe,Croatie,2007,157,1000hl
+Europe,Croatie,2008,142,1000hl
+Europe,Croatie,2009,106,1000hl
+Europe,Croatie,2010,148,1000hl
+Europe,Croatie,2011,147,1000hl
+Europe,Croatie,2012,145,1000hl
+Europe,Croatie,2013,128,1000hl
+Europe,Croatie,2014,224,1000hl
+Europe,Croatie,2015,290,1000hl
+Europe,Croatie,2016,310,1000hl
+Europe,Croatie,2017,269,1000hl
+Europe,Croatie,2018,241,1000hl
+Europe,Croatie,2019,249,1000hl
+Amerique,Cuba,1995,9,1000hl
+Amerique,Cuba,1996,11,1000hl
+Amerique,Cuba,1997,17,1000hl
+Amerique,Cuba,1998,19,1000hl
+Amerique,Cuba,1999,23,1000hl
+Amerique,Cuba,2000,30,1000hl
+Amerique,Cuba,2001,30,1000hl
+Amerique,Cuba,2002,30,1000hl
+Amerique,Cuba,2003,36,1000hl
+Amerique,Cuba,2004,39,1000hl
+Amerique,Cuba,2005,44,1000hl
+Amerique,Cuba,2006,37,1000hl
+Amerique,Cuba,2007,43,1000hl
+Amerique,Cuba,2008,54,1000hl
+Amerique,Cuba,2009,54,1000hl
+Amerique,Cuba,2010,68,1000hl
+Amerique,Cuba,2011,51,1000hl
+Amerique,Cuba,2012,53,1000hl
+Amerique,Cuba,2013,58,1000hl
+Amerique,Cuba,2014,58,1000hl
+Amerique,Cuba,2015,57,1000hl
+Amerique,Cuba,2016,74,1000hl
+Amerique,Cuba,2017,62,1000hl
+Amerique,Cuba,2018,60,1000hl
+Amerique,Cuba,2019,48,1000hl
+Afrique,Cote D ivoire,1995,179,1000hl
+Afrique,Cote D ivoire,1996,221,1000hl
+Afrique,Cote D ivoire,1997,232,1000hl
+Afrique,Cote D ivoire,1998,240,1000hl
+Afrique,Cote D ivoire,1999,230,1000hl
+Afrique,Cote D ivoire,2000,212,1000hl
+Afrique,Cote D ivoire,2001,246,1000hl
+Afrique,Cote D ivoire,2002,287,1000hl
+Afrique,Cote D ivoire,2003,280,1000hl
+Afrique,Cote D ivoire,2004,178,1000hl
+Afrique,Cote D ivoire,2005,151,1000hl
+Afrique,Cote D ivoire,2006,146,1000hl
+Afrique,Cote D ivoire,2007,180,1000hl
+Afrique,Cote D ivoire,2008,227,1000hl
+Afrique,Cote D ivoire,2009,277,1000hl
+Afrique,Cote D ivoire,2010,299,1000hl
+Afrique,Cote D ivoire,2011,279,1000hl
+Afrique,Cote D ivoire,2012,290,1000hl
+Afrique,Cote D ivoire,2013,290,1000hl
+Afrique,Cote D ivoire,2014,320,1000hl
+Afrique,Cote D ivoire,2015,400,1000hl
+Afrique,Cote D ivoire,2016,450,1000hl
+Afrique,Cote D ivoire,2017,480,1000hl
+Afrique,Cote D ivoire,2018,410,1000hl
+Afrique,Cote D ivoire,2019,415,1000hl
+Europe,Danemark,1995,1298,1000hl
+Europe,Danemark,1996,1473,1000hl
+Europe,Danemark,1997,1683,1000hl
+Europe,Danemark,1998,1699,1000hl
+Europe,Danemark,1999,1677,1000hl
+Europe,Danemark,2000,1794,1000hl
+Europe,Danemark,2001,2029,1000hl
+Europe,Danemark,2002,2008,1000hl
+Europe,Danemark,2003,2051,1000hl
+Europe,Danemark,2004,2006,1000hl
+Europe,Danemark,2005,1852,1000hl
+Europe,Danemark,2006,1876,1000hl
+Europe,Danemark,2007,2013,1000hl
+Europe,Danemark,2008,2000,1000hl
+Europe,Danemark,2009,2078,1000hl
+Europe,Danemark,2010,1886,1000hl
+Europe,Danemark,2011,1875,1000hl
+Europe,Danemark,2012,1886,1000hl
+Europe,Danemark,2013,2015,1000hl
+Europe,Danemark,2014,1867,1000hl
+Europe,Danemark,2015,1821,1000hl
+Europe,Danemark,2016,1798,1000hl
+Europe,Danemark,2017,1717,1000hl
+Europe,Danemark,2018,1775,1000hl
+Europe,Danemark,2019,1805,1000hl
+Afrique,Djibouti,1995,4,1000hl
+Afrique,Djibouti,1996,3,1000hl
+Afrique,Djibouti,1997,3,1000hl
+Afrique,Djibouti,1998,2,1000hl
+Afrique,Djibouti,1999,2,1000hl
+Afrique,Djibouti,2000,1,1000hl
+Afrique,Djibouti,2001,1,1000hl
+Afrique,Djibouti,2002,2,1000hl
+Afrique,Djibouti,2003,2,1000hl
+Afrique,Djibouti,2004,2,1000hl
+Afrique,Djibouti,2005,2,1000hl
+Afrique,Djibouti,2006,2,1000hl
+Afrique,Djibouti,2007,2,1000hl
+Afrique,Djibouti,2008,2,1000hl
+Afrique,Djibouti,2009,3,1000hl
+Afrique,Djibouti,2010,2,1000hl
+Afrique,Djibouti,2011,4,1000hl
+Afrique,Djibouti,2012,5,1000hl
+Afrique,Djibouti,2013,8,1000hl
+Afrique,Djibouti,2014,1,1000hl
+Afrique,Djibouti,2015,3,1000hl
+Afrique,Djibouti,2016,2,1000hl
+Afrique,Djibouti,2017,3,1000hl
+Afrique,Djibouti,2018,2,1000hl
+Afrique,Djibouti,2019,2,1000hl
+Amerique,Dominique,1995,4,1000hl
+Amerique,Dominique,1996,2,1000hl
+Amerique,Dominique,1997,4,1000hl
+Amerique,Dominique,1998,4,1000hl
+Amerique,Dominique,1999,1,1000hl
+Amerique,Dominique,2000,5,1000hl
+Amerique,Dominique,2001,4,1000hl
+Amerique,Dominique,2002,5,1000hl
+Amerique,Dominique,2003,4,1000hl
+Amerique,Dominique,2004,4,1000hl
+Amerique,Dominique,2005,4,1000hl
+Amerique,Dominique,2006,3,1000hl
+Amerique,Dominique,2007,4,1000hl
+Amerique,Dominique,2008,4,1000hl
+Amerique,Dominique,2009,2,1000hl
+Amerique,Dominique,2010,2,1000hl
+Amerique,Dominique,2011,1,1000hl
+Amerique,Dominique,2012,1,1000hl
+Amerique,Dominique,2013,2,1000hl
+Amerique,Dominique,2014,1,1000hl
+Amerique,Dominique,2015,1,1000hl
+Amerique,Dominique,2016,1,1000hl
+Amerique,Dominique,2017,1,1000hl
+Amerique,Dominique,2018,1,1000hl
+Amerique,Dominique,2019,1,1000hl
+Amerique,El Salvador,1995,10,1000hl
+Amerique,El Salvador,1996,10,1000hl
+Amerique,El Salvador,1997,9,1000hl
+Amerique,El Salvador,1998,11,1000hl
+Amerique,El Salvador,1999,11,1000hl
+Amerique,El Salvador,2000,14,1000hl
+Amerique,El Salvador,2001,14,1000hl
+Amerique,El Salvador,2002,12,1000hl
+Amerique,El Salvador,2003,11,1000hl
+Amerique,El Salvador,2004,15,1000hl
+Amerique,El Salvador,2005,15,1000hl
+Amerique,El Salvador,2006,17,1000hl
+Amerique,El Salvador,2007,22,1000hl
+Amerique,El Salvador,2008,18,1000hl
+Amerique,El Salvador,2009,20,1000hl
+Amerique,El Salvador,2010,21,1000hl
+Amerique,El Salvador,2011,21,1000hl
+Amerique,El Salvador,2012,20,1000hl
+Amerique,El Salvador,2013,20,1000hl
+Amerique,El Salvador,2014,20,1000hl
+Amerique,El Salvador,2015,20,1000hl
+Amerique,El Salvador,2016,20,1000hl
+Amerique,El Salvador,2017,20,1000hl
+Amerique,El Salvador,2018,20,1000hl
+Amerique,El Salvador,2019,28,1000hl
+Amerique,Equateur,1995,81,1000hl
+Amerique,Equateur,1996,81,1000hl
+Amerique,Equateur,1997,35,1000hl
+Amerique,Equateur,1998,32,1000hl
+Amerique,Equateur,1999,16,1000hl
+Amerique,Equateur,2000,18,1000hl
+Amerique,Equateur,2001,33,1000hl
+Amerique,Equateur,2002,35,1000hl
+Amerique,Equateur,2003,43,1000hl
+Amerique,Equateur,2004,53,1000hl
+Amerique,Equateur,2005,48,1000hl
+Amerique,Equateur,2006,54,1000hl
+Amerique,Equateur,2007,69,1000hl
+Amerique,Equateur,2008,113,1000hl
+Amerique,Equateur,2009,50,1000hl
+Amerique,Equateur,2010,60,1000hl
+Amerique,Equateur,2011,45,1000hl
+Amerique,Equateur,2012,60,1000hl
+Amerique,Equateur,2013,50,1000hl
+Amerique,Equateur,2014,70,1000hl
+Amerique,Equateur,2015,60,1000hl
+Amerique,Equateur,2016,60,1000hl
+Amerique,Equateur,2017,80,1000hl
+Amerique,Equateur,2018,90,1000hl
+Amerique,Equateur,2019,100,1000hl
+Europe,Espagne,1995,2521,1000hl
+Europe,Espagne,1996,1143,1000hl
+Europe,Espagne,1997,148,1000hl
+Europe,Espagne,1998,894,1000hl
+Europe,Espagne,1999,1367,1000hl
+Europe,Espagne,2000,597,1000hl
+Europe,Espagne,2001,198,1000hl
+Europe,Espagne,2002,221,1000hl
+Europe,Espagne,2003,269,1000hl
+Europe,Espagne,2004,302,1000hl
+Europe,Espagne,2005,334,1000hl
+Europe,Espagne,2006,400,1000hl
+Europe,Espagne,2007,462,1000hl
+Europe,Espagne,2008,607,1000hl
+Europe,Espagne,2009,350,1000hl
+Europe,Espagne,2010,405,1000hl
+Europe,Espagne,2011,422,1000hl
+Europe,Espagne,2012,1236,1000hl
+Europe,Espagne,2013,1603,1000hl
+Europe,Espagne,2014,485,1000hl
+Europe,Espagne,2015,467,1000hl
+Europe,Espagne,2016,614,1000hl
+Europe,Espagne,2017,557,1000hl
+Europe,Espagne,2018,932,1000hl
+Europe,Espagne,2019,958,1000hl
+Europe,Estonie,1995,49,1000hl
+Europe,Estonie,1996,43,1000hl
+Europe,Estonie,1997,65,1000hl
+Europe,Estonie,1998,73,1000hl
+Europe,Estonie,1999,68,1000hl
+Europe,Estonie,2000,73,1000hl
+Europe,Estonie,2001,68,1000hl
+Europe,Estonie,2002,81,1000hl
+Europe,Estonie,2003,89,1000hl
+Europe,Estonie,2004,107,1000hl
+Europe,Estonie,2005,128,1000hl
+Europe,Estonie,2006,134,1000hl
+Europe,Estonie,2007,158,1000hl
+Europe,Estonie,2008,173,1000hl
+Europe,Estonie,2009,172,1000hl
+Europe,Estonie,2010,200,1000hl
+Europe,Estonie,2011,221,1000hl
+Europe,Estonie,2012,226,1000hl
+Europe,Estonie,2013,238,1000hl
+Europe,Estonie,2014,233,1000hl
+Europe,Estonie,2015,229,1000hl
+Europe,Estonie,2016,252,1000hl
+Europe,Estonie,2017,244,1000hl
+Europe,Estonie,2018,226,1000hl
+Europe,Estonie,2019,225,1000hl
+Asie,Etat De Palestine,1997,2,1000hl
+Asie,Etat De Palestine,1998,2,1000hl
+Asie,Etat De Palestine,1999,1,1000hl
+Asie,Etat De Palestine,2000,1,1000hl
+Asie,Etat De Palestine,2001,1,1000hl
+Asie,Etat De Palestine,2005,1,1000hl
+Asie,Etat De Palestine,2006,1,1000hl
+Asie,Etat De Palestine,2007,1,1000hl
+Asie,Etat De Palestine,2008,1,1000hl
+Asie,Etat De Palestine,2012,1,1000hl
+Amerique,Etats-unis,1995,2753,1000hl
+Amerique,Etats-unis,1996,3472,1000hl
+Amerique,Etats-unis,1997,4452,1000hl
+Amerique,Etats-unis,1998,4004,1000hl
+Amerique,Etats-unis,1999,4072,1000hl
+Amerique,Etats-unis,2000,4479,1000hl
+Amerique,Etats-unis,2001,4688,1000hl
+Amerique,Etats-unis,2002,5460,1000hl
+Amerique,Etats-unis,2003,6082,1000hl
+Amerique,Etats-unis,2004,6415,1000hl
+Amerique,Etats-unis,2005,7052,1000hl
+Amerique,Etats-unis,2006,7718,1000hl
+Amerique,Etats-unis,2007,8373,1000hl
+Amerique,Etats-unis,2008,8250,1000hl
+Amerique,Etats-unis,2009,9219,1000hl
+Amerique,Etats-unis,2010,9320,1000hl
+Amerique,Etats-unis,2011,10155,1000hl
+Amerique,Etats-unis,2012,11675,1000hl
+Amerique,Etats-unis,2013,10966,1000hl
+Amerique,Etats-unis,2014,10766,1000hl
+Amerique,Etats-unis,2015,11036,1000hl
+Amerique,Etats-unis,2016,11143,1000hl
+Amerique,Etats-unis,2017,12089,1000hl
+Amerique,Etats-unis,2018,11495,1000hl
+Amerique,Etats-unis,2019,12299,1000hl
+Afrique,Ethiopie,1995,1,1000hl
+Afrique,Ethiopie,1996,1,1000hl
+Afrique,Ethiopie,1997,1,1000hl
+Afrique,Ethiopie,1998,2,1000hl
+Afrique,Ethiopie,1999,1,1000hl
+Afrique,Ethiopie,2000,1,1000hl
+Afrique,Ethiopie,2002,3,1000hl
+Afrique,Ethiopie,2003,2,1000hl
+Afrique,Ethiopie,2004,2,1000hl
+Afrique,Ethiopie,2005,4,1000hl
+Afrique,Ethiopie,2006,5,1000hl
+Afrique,Ethiopie,2007,6,1000hl
+Afrique,Ethiopie,2008,4,1000hl
+Afrique,Ethiopie,2009,5,1000hl
+Afrique,Ethiopie,2010,7,1000hl
+Afrique,Ethiopie,2011,7,1000hl
+Afrique,Ethiopie,2012,2,1000hl
+Afrique,Ethiopie,2013,22,1000hl
+Afrique,Ethiopie,2014,13,1000hl
+Afrique,Ethiopie,2015,19,1000hl
+Afrique,Ethiopie,2016,6,1000hl
+Afrique,Ethiopie,2017,5,1000hl
+Afrique,Ethiopie,2018,2,1000hl
+Afrique,Ethiopie,2019,2,1000hl
+Oceanie,Fidji,1995,5,1000hl
+Oceanie,Fidji,1996,8,1000hl
+Oceanie,Fidji,1997,8,1000hl
+Oceanie,Fidji,1998,9,1000hl
+Oceanie,Fidji,1999,10,1000hl
+Oceanie,Fidji,2000,3,1000hl
+Oceanie,Fidji,2001,6,1000hl
+Oceanie,Fidji,2002,8,1000hl
+Oceanie,Fidji,2003,9,1000hl
+Oceanie,Fidji,2004,11,1000hl
+Oceanie,Fidji,2005,12,1000hl
+Oceanie,Fidji,2006,14,1000hl
+Oceanie,Fidji,2007,13,1000hl
+Oceanie,Fidji,2008,33,1000hl
+Oceanie,Fidji,2009,13,1000hl
+Oceanie,Fidji,2010,10,1000hl
+Oceanie,Fidji,2011,9,1000hl
+Oceanie,Fidji,2012,11,1000hl
+Oceanie,Fidji,2013,10,1000hl
+Oceanie,Fidji,2014,12,1000hl
+Oceanie,Fidji,2015,15,1000hl
+Oceanie,Fidji,2016,13,1000hl
+Oceanie,Fidji,2017,14,1000hl
+Oceanie,Fidji,2018,15,1000hl
+Oceanie,Fidji,2019,13,1000hl
+Europe,Finlande,1995,267,1000hl
+Europe,Finlande,1996,264,1000hl
+Europe,Finlande,1997,268,1000hl
+Europe,Finlande,1998,308,1000hl
+Europe,Finlande,1999,327,1000hl
+Europe,Finlande,2000,352,1000hl
+Europe,Finlande,2001,382,1000hl
+Europe,Finlande,2002,417,1000hl
+Europe,Finlande,2003,476,1000hl
+Europe,Finlande,2004,477,1000hl
+Europe,Finlande,2005,493,1000hl
+Europe,Finlande,2006,523,1000hl
+Europe,Finlande,2007,568,1000hl
+Europe,Finlande,2008,570,1000hl
+Europe,Finlande,2009,573,1000hl
+Europe,Finlande,2010,579,1000hl
+Europe,Finlande,2011,594,1000hl
+Europe,Finlande,2012,603,1000hl
+Europe,Finlande,2013,638,1000hl
+Europe,Finlande,2014,770,1000hl
+Europe,Finlande,2015,761,1000hl
+Europe,Finlande,2016,763,1000hl
+Europe,Finlande,2017,743,1000hl
+Europe,Finlande,2018,784,1000hl
+Europe,Finlande,2019,747,1000hl
+Europe,France,1995,6127,1000hl
+Europe,France,1996,5306,1000hl
+Europe,France,1997,5826,1000hl
+Europe,France,1998,5824,1000hl
+Europe,France,1999,5748,1000hl
+Europe,France,2000,5502,1000hl
+Europe,France,2001,5136,1000hl
+Europe,France,2002,4588,1000hl
+Europe,France,2003,4799,1000hl
+Europe,France,2004,5514,1000hl
+Europe,France,2005,5495,1000hl
+Europe,France,2006,5321,1000hl
+Europe,France,2007,5755,1000hl
+Europe,France,2008,5732,1000hl
+Europe,France,2009,5829,1000hl
+Europe,France,2010,6465,1000hl
+Europe,France,2011,6543,1000hl
+Europe,France,2012,5433,1000hl
+Europe,France,2013,5982,1000hl
+Europe,France,2014,6943,1000hl
+Europe,France,2015,7598,1000hl
+Europe,France,2016,7750,1000hl
+Europe,France,2017,7789,1000hl
+Europe,France,2018,6998,1000hl
+Europe,France,2019,7230,1000hl
+Europe,Federation De Russie,1995,4601,1000hl
+Europe,Federation De Russie,1996,2041,1000hl
+Europe,Federation De Russie,1997,2434,1000hl
+Europe,Federation De Russie,1998,2911,1000hl
+Europe,Federation De Russie,1999,1128,1000hl
+Europe,Federation De Russie,2000,1623,1000hl
+Europe,Federation De Russie,2001,2568,1000hl
+Europe,Federation De Russie,2002,2985,1000hl
+Europe,Federation De Russie,2003,4164,1000hl
+Europe,Federation De Russie,2004,5051,1000hl
+Europe,Federation De Russie,2005,6227,1000hl
+Europe,Federation De Russie,2006,6112,1000hl
+Europe,Federation De Russie,2007,6434,1000hl
+Europe,Federation De Russie,2008,5733,1000hl
+Europe,Federation De Russie,2009,4520,1000hl
+Europe,Federation De Russie,2010,5466,1000hl
+Europe,Federation De Russie,2011,5112,1000hl
+Europe,Federation De Russie,2012,4899,1000hl
+Europe,Federation De Russie,2013,4922,1000hl
+Europe,Federation De Russie,2014,4676,1000hl
+Europe,Federation De Russie,2015,3999,1000hl
+Europe,Federation De Russie,2016,4040,1000hl
+Europe,Federation De Russie,2017,4470,1000hl
+Europe,Federation De Russie,2018,4054,1000hl
+Europe,Federation De Russie,2019,4471,1000hl
+Afrique,Gabon,1995,87,1000hl
+Afrique,Gabon,1996,107,1000hl
+Afrique,Gabon,1997,124,1000hl
+Afrique,Gabon,1998,115,1000hl
+Afrique,Gabon,1999,114,1000hl
+Afrique,Gabon,2000,91,1000hl
+Afrique,Gabon,2001,109,1000hl
+Afrique,Gabon,2002,85,1000hl
+Afrique,Gabon,2003,38,1000hl
+Afrique,Gabon,2004,71,1000hl
+Afrique,Gabon,2005,63,1000hl
+Afrique,Gabon,2006,72,1000hl
+Afrique,Gabon,2007,96,1000hl
+Afrique,Gabon,2008,148,1000hl
+Afrique,Gabon,2009,77,1000hl
+Afrique,Gabon,2010,99,1000hl
+Afrique,Gabon,2011,92,1000hl
+Afrique,Gabon,2012,73,1000hl
+Afrique,Gabon,2013,75,1000hl
+Afrique,Gabon,2014,68,1000hl
+Afrique,Gabon,2015,76,1000hl
+Afrique,Gabon,2016,71,1000hl
+Afrique,Gabon,2017,55,1000hl
+Afrique,Gabon,2018,57,1000hl
+Afrique,Gabon,2019,54,1000hl
+Afrique,Gambie,1995,2,1000hl
+Afrique,Gambie,1996,3,1000hl
+Afrique,Gambie,1997,4,1000hl
+Afrique,Gambie,1998,2,1000hl
+Afrique,Gambie,2004,3,1000hl
+Afrique,Gambie,2005,5,1000hl
+Afrique,Gambie,2006,4,1000hl
+Afrique,Gambie,2008,1,1000hl
+Afrique,Gambie,2009,1,1000hl
+Afrique,Gambie,2010,1,1000hl
+Afrique,Gambie,2011,1,1000hl
+Afrique,Gambie,2012,1,1000hl
+Afrique,Ghana,1995,46,1000hl
+Afrique,Ghana,1996,46,1000hl
+Afrique,Ghana,1997,28,1000hl
+Afrique,Ghana,1998,41,1000hl
+Afrique,Ghana,1999,29,1000hl
+Afrique,Ghana,2000,31,1000hl
+Afrique,Ghana,2001,57,1000hl
+Afrique,Ghana,2002,74,1000hl
+Afrique,Ghana,2003,63,1000hl
+Afrique,Ghana,2004,74,1000hl
+Afrique,Ghana,2005,69,1000hl
+Afrique,Ghana,2006,75,1000hl
+Afrique,Ghana,2007,118,1000hl
+Afrique,Ghana,2008,147,1000hl
+Afrique,Ghana,2009,93,1000hl
+Afrique,Ghana,2010,87,1000hl
+Afrique,Ghana,2011,106,1000hl
+Afrique,Ghana,2012,120,1000hl
+Afrique,Ghana,2013,90,1000hl
+Afrique,Ghana,2014,70,1000hl
+Afrique,Ghana,2015,50,1000hl
+Afrique,Ghana,2016,60,1000hl
+Afrique,Ghana,2017,90,1000hl
+Afrique,Ghana,2018,80,1000hl
+Afrique,Ghana,2019,80,1000hl
+Amerique,Grenade,1995,2,1000hl
+Amerique,Grenade,1996,2,1000hl
+Amerique,Grenade,1997,2,1000hl
+Amerique,Grenade,1998,3,1000hl
+Amerique,Grenade,1999,3,1000hl
+Amerique,Grenade,2000,4,1000hl
+Amerique,Grenade,2001,2,1000hl
+Amerique,Grenade,2002,1,1000hl
+Amerique,Grenade,2003,2,1000hl
+Amerique,Grenade,2004,1,1000hl
+Amerique,Grenade,2005,2,1000hl
+Amerique,Grenade,2006,2,1000hl
+Amerique,Grenade,2007,3,1000hl
+Amerique,Grenade,2008,4,1000hl
+Amerique,Grenade,2009,4,1000hl
+Amerique,Grenade,2010,3,1000hl
+Amerique,Grenade,2011,2,1000hl
+Amerique,Grenade,2012,3,1000hl
+Amerique,Grenade,2013,3,1000hl
+Amerique,Grenade,2014,4,1000hl
+Amerique,Grenade,2015,4,1000hl
+Amerique,Grenade,2016,4,1000hl
+Amerique,Grenade,2017,3,1000hl
+Amerique,Grenade,2018,4,1000hl
+Amerique,Grenade,2019,4,1000hl
+Amerique,Groenland,1995,2,1000hl
+Amerique,Groenland,1996,3,1000hl
+Amerique,Groenland,1997,3,1000hl
+Amerique,Groenland,1998,5,1000hl
+Amerique,Groenland,1999,6,1000hl
+Amerique,Groenland,2000,3,1000hl
+Amerique,Groenland,2001,4,1000hl
+Amerique,Groenland,2002,5,1000hl
+Amerique,Groenland,2003,4,1000hl
+Amerique,Groenland,2004,8,1000hl
+Amerique,Groenland,2005,8,1000hl
+Amerique,Groenland,2006,19,1000hl
+Amerique,Groenland,2007,8,1000hl
+Amerique,Groenland,2008,7,1000hl
+Amerique,Groenland,2009,9,1000hl
+Amerique,Groenland,2010,8,1000hl
+Amerique,Groenland,2011,8,1000hl
+Amerique,Groenland,2012,8,1000hl
+Amerique,Groenland,2013,11,1000hl
+Amerique,Groenland,2014,7,1000hl
+Amerique,Groenland,2015,7,1000hl
+Amerique,Groenland,2016,6,1000hl
+Amerique,Groenland,2017,6,1000hl
+Amerique,Groenland,2018,5,1000hl
+Amerique,Groenland,2019,6,1000hl
+Europe,Grece,1995,40,1000hl
+Europe,Grece,1996,40,1000hl
+Europe,Grece,1997,40,1000hl
+Europe,Grece,1998,47,1000hl
+Europe,Grece,1999,70,1000hl
+Europe,Grece,2000,63,1000hl
+Europe,Grece,2001,72,1000hl
+Europe,Grece,2002,107,1000hl
+Europe,Grece,2003,311,1000hl
+Europe,Grece,2004,244,1000hl
+Europe,Grece,2005,145,1000hl
+Europe,Grece,2006,159,1000hl
+Europe,Grece,2007,184,1000hl
+Europe,Grece,2008,184,1000hl
+Europe,Grece,2009,165,1000hl
+Europe,Grece,2010,107,1000hl
+Europe,Grece,2011,203,1000hl
+Europe,Grece,2012,174,1000hl
+Europe,Grece,2013,179,1000hl
+Europe,Grece,2014,149,1000hl
+Europe,Grece,2015,125,1000hl
+Europe,Grece,2016,165,1000hl
+Europe,Grece,2017,122,1000hl
+Europe,Grece,2018,116,1000hl
+Europe,Grece,2019,183,1000hl
+Amerique,Guadeloupe,1995,86,1000hl
+Amerique,Guadeloupe,1996,86,1000hl
+Oceanie,Guam,2003,1,1000hl
+Oceanie,Guam,2004,1,1000hl
+Oceanie,Guam,2005,1,1000hl
+Oceanie,Guam,2006,1,1000hl
+Oceanie,Guam,2007,1,1000hl
+Oceanie,Guam,2014,2,1000hl
+Oceanie,Guam,2015,2,1000hl
+Oceanie,Guam,2016,1,1000hl
+Amerique,Guatemala,1995,12,1000hl
+Amerique,Guatemala,1996,12,1000hl
+Amerique,Guatemala,1997,17,1000hl
+Amerique,Guatemala,1998,17,1000hl
+Amerique,Guatemala,1999,18,1000hl
+Amerique,Guatemala,2000,19,1000hl
+Amerique,Guatemala,2001,19,1000hl
+Amerique,Guatemala,2002,19,1000hl
+Amerique,Guatemala,2003,17,1000hl
+Amerique,Guatemala,2004,18,1000hl
+Amerique,Guatemala,2005,21,1000hl
+Amerique,Guatemala,2006,26,1000hl
+Amerique,Guatemala,2007,33,1000hl
+Amerique,Guatemala,2008,30,1000hl
+Amerique,Guatemala,2009,30,1000hl
+Amerique,Guatemala,2010,31,1000hl
+Amerique,Guatemala,2011,31,1000hl
+Amerique,Guatemala,2012,34,1000hl
+Amerique,Guatemala,2013,26,1000hl
+Amerique,Guatemala,2014,42,1000hl
+Amerique,Guatemala,2015,41,1000hl
+Amerique,Guatemala,2016,43,1000hl
+Amerique,Guatemala,2017,50,1000hl
+Amerique,Guatemala,2018,50,1000hl
+Amerique,Guatemala,2019,60,1000hl
+Afrique,Guinee-bissau,1995,20,1000hl
+Afrique,Guinee-bissau,1996,26,1000hl
+Afrique,Guinee-bissau,1997,35,1000hl
+Afrique,Guinee-bissau,1998,12,1000hl
+Afrique,Guinee-bissau,1999,24,1000hl
+Afrique,Guinee-bissau,2000,36,1000hl
+Afrique,Guinee-bissau,2001,31,1000hl
+Afrique,Guinee-bissau,2002,43,1000hl
+Afrique,Guinee-bissau,2003,37,1000hl
+Afrique,Guinee-bissau,2004,35,1000hl
+Afrique,Guinee-bissau,2005,41,1000hl
+Afrique,Guinee-bissau,2006,30,1000hl
+Afrique,Guinee-bissau,2007,44,1000hl
+Afrique,Guinee-bissau,2008,42,1000hl
+Afrique,Guinee-bissau,2009,41,1000hl
+Afrique,Guinee-bissau,2010,53,1000hl
+Afrique,Guinee-bissau,2011,71,1000hl
+Afrique,Guinee-bissau,2012,70,1000hl
+Afrique,Guinee-bissau,2013,65,1000hl
+Afrique,Guinee-bissau,2014,76,1000hl
+Afrique,Guinee-bissau,2015,80,1000hl
+Afrique,Guinee-bissau,2016,92,1000hl
+Afrique,Guinee-bissau,2017,110,1000hl
+Afrique,Guinee-bissau,2018,93,1000hl
+Afrique,Guinee-bissau,2019,100,1000hl
+Afrique,Guineee,1995,4,1000hl
+Afrique,Guineee,1996,4,1000hl
+Afrique,Guineee,1997,3,1000hl
+Afrique,Guineee,1998,4,1000hl
+Afrique,Guineee,1999,4,1000hl
+Afrique,Guineee,2000,4,1000hl
+Afrique,Guineee,2001,9,1000hl
+Afrique,Guineee,2002,14,1000hl
+Afrique,Guineee,2003,13,1000hl
+Afrique,Guineee,2004,7,1000hl
+Afrique,Guineee,2005,7,1000hl
+Afrique,Guineee,2006,7,1000hl
+Afrique,Guineee,2007,8,1000hl
+Afrique,Guineee,2008,9,1000hl
+Afrique,Guineee,2009,1,1000hl
+Afrique,Guineee,2010,14,1000hl
+Afrique,Guineee,2011,9,1000hl
+Afrique,Guineee,2012,6,1000hl
+Afrique,Guineee,2013,7,1000hl
+Afrique,Guineee,2014,6,1000hl
+Afrique,Guineee,2015,5,1000hl
+Afrique,Guineee,2016,5,1000hl
+Afrique,Guineee,2017,7,1000hl
+Afrique,Guineee,2018,7,1000hl
+Afrique,Guineee,2019,9,1000hl
+Amerique,Guyana,2003,1,1000hl
+Amerique,Guyana,2005,1,1000hl
+Amerique,Guyana,2006,2,1000hl
+Amerique,Guyana,2009,1,1000hl
+Amerique,Guyana,2010,1,1000hl
+Amerique,Guyana,2011,2,1000hl
+Amerique,Guyana,2012,1,1000hl
+Amerique,Guyana,2013,1,1000hl
+Amerique,Guyana,2014,1,1000hl
+Amerique,Guyana,2015,1,1000hl
+Amerique,Guyana,2016,2,1000hl
+Amerique,Guyana,2017,2,1000hl
+Amerique,Guyana,2018,2,1000hl
+Amerique,Guyana,2019,3,1000hl
+Amerique,Guyane Française,1995,27,1000hl
+Amerique,Guyane Française,1996,27,1000hl
+Amerique,Guyane Française,1997,27,1000hl
+Amerique,Guyane Française,1998,27,1000hl
+Amerique,Guyane Française,1999,27,1000hl
+Amerique,Guyane Française,2011,2,1000hl
+Amerique,Guyane Française,2012,1,1000hl
+Amerique,Guyane Française,2013,1,1000hl
+Amerique,Guyane Française,2014,1,1000hl
+Amerique,Guyane Française,2015,1,1000hl
+Amerique,Guyane Française,2016,1,1000hl
+Amerique,Guyane Française,2017,1,1000hl
+Amerique,Guyane Française,2018,2,1000hl
+Amerique,Guyane Française,2019,2,1000hl
+Asie,Georgie,1995,5,1000hl
+Asie,Georgie,1996,8,1000hl
+Asie,Georgie,1997,44,1000hl
+Asie,Georgie,1998,5,1000hl
+Asie,Georgie,1999,3,1000hl
+Asie,Georgie,2000,8,1000hl
+Asie,Georgie,2001,1,1000hl
+Asie,Georgie,2002,3,1000hl
+Asie,Georgie,2003,6,1000hl
+Asie,Georgie,2004,2,1000hl
+Asie,Georgie,2005,2,1000hl
+Asie,Georgie,2006,47,1000hl
+Asie,Georgie,2007,4,1000hl
+Asie,Georgie,2008,1,1000hl
+Asie,Georgie,2009,1,1000hl
+Asie,Georgie,2010,1,1000hl
+Asie,Georgie,2011,1,1000hl
+Asie,Georgie,2012,3,1000hl
+Asie,Georgie,2013,3,1000hl
+Asie,Georgie,2014,2,1000hl
+Asie,Georgie,2015,2,1000hl
+Asie,Georgie,2016,2,1000hl
+Asie,Georgie,2017,2,1000hl
+Asie,Georgie,2018,5,1000hl
+Asie,Georgie,2019,5,1000hl
+Amerique,Haiti,1995,3,1000hl
+Amerique,Haiti,1996,3,1000hl
+Amerique,Haiti,1997,3,1000hl
+Amerique,Haiti,1998,4,1000hl
+Amerique,Haiti,1999,4,1000hl
+Amerique,Haiti,2000,4,1000hl
+Amerique,Haiti,2001,7,1000hl
+Amerique,Haiti,2002,9,1000hl
+Amerique,Haiti,2003,4,1000hl
+Amerique,Haiti,2004,3,1000hl
+Amerique,Haiti,2005,5,1000hl
+Amerique,Haiti,2006,5,1000hl
+Amerique,Haiti,2007,8,1000hl
+Amerique,Haiti,2008,5,1000hl
+Amerique,Haiti,2009,7,1000hl
+Amerique,Haiti,2010,7,1000hl
+Amerique,Haiti,2011,8,1000hl
+Amerique,Haiti,2012,9,1000hl
+Amerique,Haiti,2013,69,1000hl
+Amerique,Haiti,2014,12,1000hl
+Amerique,Haiti,2015,8,1000hl
+Amerique,Haiti,2016,15,1000hl
+Amerique,Haiti,2017,18,1000hl
+Amerique,Haiti,2018,18,1000hl
+Amerique,Haiti,2019,18,1000hl
+Amerique,Honduras,1995,4,1000hl
+Amerique,Honduras,1996,5,1000hl
+Amerique,Honduras,1997,6,1000hl
+Amerique,Honduras,1998,5,1000hl
+Amerique,Honduras,1999,8,1000hl
+Amerique,Honduras,2000,10,1000hl
+Amerique,Honduras,2001,6,1000hl
+Amerique,Honduras,2002,14,1000hl
+Amerique,Honduras,2003,12,1000hl
+Amerique,Honduras,2004,7,1000hl
+Amerique,Honduras,2005,14,1000hl
+Amerique,Honduras,2006,16,1000hl
+Amerique,Honduras,2007,20,1000hl
+Amerique,Honduras,2008,21,1000hl
+Amerique,Honduras,2009,16,1000hl
+Amerique,Honduras,2010,11,1000hl
+Amerique,Honduras,2011,11,1000hl
+Amerique,Honduras,2012,22,1000hl
+Amerique,Honduras,2013,10,1000hl
+Amerique,Honduras,2014,17,1000hl
+Amerique,Honduras,2015,11,1000hl
+Amerique,Honduras,2016,19,1000hl
+Amerique,Honduras,2017,20,1000hl
+Amerique,Honduras,2018,20,1000hl
+Amerique,Honduras,2019,20,1000hl
+Asie,"Hong-kong, Chine",1995,57,1000hl
+Asie,"Hong-kong, Chine",1996,106,1000hl
+Asie,"Hong-kong, Chine",1997,341,1000hl
+Asie,"Hong-kong, Chine",1998,208,1000hl
+Asie,"Hong-kong, Chine",1999,103,1000hl
+Asie,"Hong-kong, Chine",2000,101,1000hl
+Asie,"Hong-kong, Chine",2001,108,1000hl
+Asie,"Hong-kong, Chine",2002,109,1000hl
+Asie,"Hong-kong, Chine",2003,112,1000hl
+Asie,"Hong-kong, Chine",2004,134,1000hl
+Asie,"Hong-kong, Chine",2005,151,1000hl
+Asie,"Hong-kong, Chine",2006,183,1000hl
+Asie,"Hong-kong, Chine",2007,234,1000hl
+Asie,"Hong-kong, Chine",2008,303,1000hl
+Asie,"Hong-kong, Chine",2009,348,1000hl
+Asie,"Hong-kong, Chine",2010,400,1000hl
+Asie,"Hong-kong, Chine",2011,482,1000hl
+Asie,"Hong-kong, Chine",2012,505,1000hl
+Asie,"Hong-kong, Chine",2013,503,1000hl
+Asie,"Hong-kong, Chine",2014,525,1000hl
+Asie,"Hong-kong, Chine",2015,634,1000hl
+Asie,"Hong-kong, Chine",2016,629,1000hl
+Asie,"Hong-kong, Chine",2017,609,1000hl
+Asie,"Hong-kong, Chine",2018,513,1000hl
+Asie,"Hong-kong, Chine",2019,412,1000hl
+Europe,Hongrie,1995,33,1000hl
+Europe,Hongrie,1996,52,1000hl
+Europe,Hongrie,1997,37,1000hl
+Europe,Hongrie,1998,25,1000hl
+Europe,Hongrie,1999,21,1000hl
+Europe,Hongrie,2000,24,1000hl
+Europe,Hongrie,2001,34,1000hl
+Europe,Hongrie,2002,54,1000hl
+Europe,Hongrie,2003,63,1000hl
+Europe,Hongrie,2004,43,1000hl
+Europe,Hongrie,2005,63,1000hl
+Europe,Hongrie,2006,147,1000hl
+Europe,Hongrie,2007,83,1000hl
+Europe,Hongrie,2008,237,1000hl
+Europe,Hongrie,2009,134,1000hl
+Europe,Hongrie,2010,181,1000hl
+Europe,Hongrie,2011,537,1000hl
+Europe,Hongrie,2012,408,1000hl
+Europe,Hongrie,2013,433,1000hl
+Europe,Hongrie,2014,372,1000hl
+Europe,Hongrie,2015,263,1000hl
+Europe,Hongrie,2016,207,1000hl
+Europe,Hongrie,2017,195,1000hl
+Europe,Hongrie,2018,72,1000hl
+Europe,Hongrie,2019,108,1000hl
+Asie,Inde,1995,3,1000hl
+Asie,Inde,1996,3,1000hl
+Asie,Inde,1997,2,1000hl
+Asie,Inde,1998,4,1000hl
+Asie,Inde,1999,3,1000hl
+Asie,Inde,2000,4,1000hl
+Asie,Inde,2001,5,1000hl
+Asie,Inde,2002,2,1000hl
+Asie,Inde,2003,5,1000hl
+Asie,Inde,2004,10,1000hl
+Asie,Inde,2005,17,1000hl
+Asie,Inde,2006,18,1000hl
+Asie,Inde,2007,32,1000hl
+Asie,Inde,2008,30,1000hl
+Asie,Inde,2009,19,1000hl
+Asie,Inde,2010,20,1000hl
+Asie,Inde,2011,44,1000hl
+Asie,Inde,2012,42,1000hl
+Asie,Inde,2013,39,1000hl
+Asie,Inde,2014,33,1000hl
+Asie,Inde,2015,39,1000hl
+Asie,Inde,2016,41,1000hl
+Asie,Inde,2017,45,1000hl
+Asie,Inde,2018,52,1000hl
+Asie,Inde,2019,42,1000hl
+Asie,Indonesie,1995,2,1000hl
+Asie,Indonesie,1996,7,1000hl
+Asie,Indonesie,1997,2,1000hl
+Asie,Indonesie,1998,5,1000hl
+Asie,Indonesie,1999,6,1000hl
+Asie,Indonesie,2000,7,1000hl
+Asie,Indonesie,2001,10,1000hl
+Asie,Indonesie,2002,8,1000hl
+Asie,Indonesie,2003,6,1000hl
+Asie,Indonesie,2004,1,1000hl
+Asie,Indonesie,2005,1,1000hl
+Asie,Indonesie,2006,1,1000hl
+Asie,Indonesie,2008,2,1000hl
+Asie,Indonesie,2010,6,1000hl
+Asie,Indonesie,2011,3,1000hl
+Asie,Indonesie,2013,4,1000hl
+Asie,Indonesie,2014,2,1000hl
+Asie,Indonesie,2015,1,1000hl
+Asie,Indonesie,2016,20,1000hl
+Asie,Indonesie,2017,40,1000hl
+Asie,Indonesie,2018,60,1000hl
+Asie,Indonesie,2019,40,1000hl
+Asie,"Iran, Republique Islamique",2006,2,1000hl
+Asie,"Iran, Republique Islamique",2007,1,1000hl
+Asie,Iraq,2003,1,1000hl
+Asie,Iraq,2004,2,1000hl
+Asie,Iraq,2006,2,1000hl
+Asie,Iraq,2007,1,1000hl
+Asie,Iraq,2008,2,1000hl
+Asie,Iraq,2009,2,1000hl
+Asie,Iraq,2010,4,1000hl
+Asie,Iraq,2011,6,1000hl
+Asie,Iraq,2012,6,1000hl
+Asie,Iraq,2013,5,1000hl
+Asie,Iraq,2014,3,1000hl
+Asie,Iraq,2015,8,1000hl
+Asie,Iraq,2016,8,1000hl
+Asie,Iraq,2017,7,1000hl
+Asie,Iraq,2018,5,1000hl
+Asie,Iraq,2019,10,1000hl
+Europe,Irlande,1995,178,1000hl
+Europe,Irlande,1996,266,1000hl
+Europe,Irlande,1997,292,1000hl
+Europe,Irlande,1998,316,1000hl
+Europe,Irlande,1999,413,1000hl
+Europe,Irlande,2000,435,1000hl
+Europe,Irlande,2001,482,1000hl
+Europe,Irlande,2002,521,1000hl
+Europe,Irlande,2003,557,1000hl
+Europe,Irlande,2004,629,1000hl
+Europe,Irlande,2005,585,1000hl
+Europe,Irlande,2006,725,1000hl
+Europe,Irlande,2007,752,1000hl
+Europe,Irlande,2008,586,1000hl
+Europe,Irlande,2009,617,1000hl
+Europe,Irlande,2010,711,1000hl
+Europe,Irlande,2011,712,1000hl
+Europe,Irlande,2012,774,1000hl
+Europe,Irlande,2013,771,1000hl
+Europe,Irlande,2014,734,1000hl
+Europe,Irlande,2015,767,1000hl
+Europe,Irlande,2016,848,1000hl
+Europe,Irlande,2017,835,1000hl
+Europe,Irlande,2018,782,1000hl
+Europe,Irlande,2019,853,1000hl
+Europe,Islande,1995,20,1000hl
+Europe,Islande,1996,21,1000hl
+Europe,Islande,1997,20,1000hl
+Europe,Islande,1998,23,1000hl
+Europe,Islande,1999,26,1000hl
+Europe,Islande,2000,23,1000hl
+Europe,Islande,2001,25,1000hl
+Europe,Islande,2002,26,1000hl
+Europe,Islande,2003,29,1000hl
+Europe,Islande,2004,32,1000hl
+Europe,Islande,2005,34,1000hl
+Europe,Islande,2006,36,1000hl
+Europe,Islande,2007,39,1000hl
+Europe,Islande,2008,39,1000hl
+Europe,Islande,2009,57,1000hl
+Europe,Islande,2010,38,1000hl
+Europe,Islande,2011,40,1000hl
+Europe,Islande,2012,40,1000hl
+Europe,Islande,2013,40,1000hl
+Europe,Islande,2014,41,1000hl
+Europe,Islande,2015,44,1000hl
+Europe,Islande,2016,44,1000hl
+Europe,Islande,2017,45,1000hl
+Europe,Islande,2018,46,1000hl
+Europe,Islande,2019,47,1000hl
+Europe,Israel,1995,3,1000hl
+Europe,Israel,1996,7,1000hl
+Europe,Israel,1997,11,1000hl
+Europe,Israel,1998,16,1000hl
+Europe,Israel,1999,25,1000hl
+Europe,Israel,2000,35,1000hl
+Europe,Israel,2001,41,1000hl
+Europe,Israel,2002,41,1000hl
+Europe,Israel,2003,33,1000hl
+Europe,Israel,2004,38,1000hl
+Europe,Israel,2005,32,1000hl
+Europe,Israel,2006,33,1000hl
+Europe,Israel,2007,48,1000hl
+Europe,Israel,2008,54,1000hl
+Europe,Israel,2009,49,1000hl
+Europe,Israel,2010,56,1000hl
+Europe,Israel,2011,67,1000hl
+Europe,Israel,2012,63,1000hl
+Europe,Israel,2013,58,1000hl
+Europe,Israel,2014,59,1000hl
+Europe,Israel,2015,63,1000hl
+Europe,Israel,2016,69,1000hl
+Europe,Israel,2017,75,1000hl
+Europe,Israel,2018,93,1000hl
+Europe,Italie,1995,178,1000hl
+Europe,Italie,1996,289,1000hl
+Europe,Italie,1997,644,1000hl
+Europe,Italie,1998,863,1000hl
+Europe,Italie,1999,456,1000hl
+Europe,Italie,2000,565,1000hl
+Europe,Italie,2001,680,1000hl
+Europe,Italie,2002,822,1000hl
+Europe,Italie,2003,1447,1000hl
+Europe,Italie,2004,1625,1000hl
+Europe,Italie,2005,1833,1000hl
+Europe,Italie,2006,1463,1000hl
+Europe,Italie,2007,1779,1000hl
+Europe,Italie,2008,1840,1000hl
+Europe,Italie,2009,1461,1000hl
+Europe,Italie,2010,1668,1000hl
+Europe,Italie,2011,2477,1000hl
+Europe,Italie,2012,2756,1000hl
+Europe,Italie,2013,2692,1000hl
+Europe,Italie,2014,2753,1000hl
+Europe,Italie,2015,2854,1000hl
+Europe,Italie,2016,1706,1000hl
+Europe,Italie,2017,2076,1000hl
+Europe,Italie,2018,1895,1000hl
+Europe,Italie,2019,1552,1000hl
+Amerique,Jamaique,1995,9,1000hl
+Amerique,Jamaique,1996,12,1000hl
+Amerique,Jamaique,1997,11,1000hl
+Amerique,Jamaique,1998,10,1000hl
+Amerique,Jamaique,1999,15,1000hl
+Amerique,Jamaique,2000,16,1000hl
+Amerique,Jamaique,2001,15,1000hl
+Amerique,Jamaique,2002,12,1000hl
+Amerique,Jamaique,2003,18,1000hl
+Amerique,Jamaique,2004,16,1000hl
+Amerique,Jamaique,2005,34,1000hl
+Amerique,Jamaique,2006,21,1000hl
+Amerique,Jamaique,2007,24,1000hl
+Amerique,Jamaique,2008,25,1000hl
+Amerique,Jamaique,2009,30,1000hl
+Amerique,Jamaique,2010,28,1000hl
+Amerique,Jamaique,2011,24,1000hl
+Amerique,Jamaique,2012,26,1000hl
+Amerique,Jamaique,2013,32,1000hl
+Amerique,Jamaique,2014,33,1000hl
+Amerique,Jamaique,2015,33,1000hl
+Amerique,Jamaique,2016,58,1000hl
+Amerique,Jamaique,2017,71,1000hl
+Amerique,Jamaique,2018,53,1000hl
+Amerique,Jamaique,2019,47,1000hl
+Asie,Japon,1995,1077,1000hl
+Asie,Japon,1996,1074,1000hl
+Asie,Japon,1997,1452,1000hl
+Asie,Japon,1998,3225,1000hl
+Asie,Japon,1999,1898,1000hl
+Asie,Japon,2000,1657,1000hl
+Asie,Japon,2001,1703,1000hl
+Asie,Japon,2002,1694,1000hl
+Asie,Japon,2003,1632,1000hl
+Asie,Japon,2004,1665,1000hl
+Asie,Japon,2005,1585,1000hl
+Asie,Japon,2006,1662,1000hl
+Asie,Japon,2007,1667,1000hl
+Asie,Japon,2008,1718,1000hl
+Asie,Japon,2009,1807,1000hl
+Asie,Japon,2010,1939,1000hl
+Asie,Japon,2011,2083,1000hl
+Asie,Japon,2012,2571,1000hl
+Asie,Japon,2013,2632,1000hl
+Asie,Japon,2014,2704,1000hl
+Asie,Japon,2015,2801,1000hl
+Asie,Japon,2016,2686,1000hl
+Asie,Japon,2017,2775,1000hl
+Asie,Japon,2018,2621,1000hl
+Asie,Japon,2019,2810,1000hl
+Asie,Jordanie,1995,1,1000hl
+Asie,Jordanie,1997,2,1000hl
+Asie,Jordanie,1998,2,1000hl
+Asie,Jordanie,1999,2,1000hl
+Asie,Jordanie,2000,2,1000hl
+Asie,Jordanie,2001,1,1000hl
+Asie,Jordanie,2002,1,1000hl
+Asie,Jordanie,2003,2,1000hl
+Asie,Jordanie,2004,2,1000hl
+Asie,Jordanie,2005,2,1000hl
+Asie,Jordanie,2006,2,1000hl
+Asie,Jordanie,2007,1,1000hl
+Asie,Jordanie,2008,1,1000hl
+Asie,Jordanie,2009,2,1000hl
+Asie,Jordanie,2010,2,1000hl
+Asie,Jordanie,2011,2,1000hl
+Asie,Jordanie,2012,2,1000hl
+Asie,Jordanie,2013,2,1000hl
+Asie,Jordanie,2014,3,1000hl
+Asie,Jordanie,2015,3,1000hl
+Asie,Jordanie,2016,4,1000hl
+Asie,Jordanie,2017,3,1000hl
+Asie,Jordanie,2018,3,1000hl
+Asie,Jordanie,2019,3,1000hl
+Asie,Kazakstan,1995,67,1000hl
+Asie,Kazakstan,1996,80,1000hl
+Asie,Kazakstan,1997,142,1000hl
+Asie,Kazakstan,1998,160,1000hl
+Asie,Kazakstan,1999,34,1000hl
+Asie,Kazakstan,2000,44,1000hl
+Asie,Kazakstan,2001,37,1000hl
+Asie,Kazakstan,2002,36,1000hl
+Asie,Kazakstan,2003,34,1000hl
+Asie,Kazakstan,2004,71,1000hl
+Asie,Kazakstan,2005,54,1000hl
+Asie,Kazakstan,2006,59,1000hl
+Asie,Kazakstan,2007,127,1000hl
+Asie,Kazakstan,2008,66,1000hl
+Asie,Kazakstan,2009,87,1000hl
+Asie,Kazakstan,2010,98,1000hl
+Asie,Kazakstan,2011,112,1000hl
+Asie,Kazakstan,2012,141,1000hl
+Asie,Kazakstan,2013,130,1000hl
+Asie,Kazakstan,2014,147,1000hl
+Asie,Kazakstan,2015,115,1000hl
+Asie,Kazakstan,2016,93,1000hl
+Asie,Kazakstan,2017,113,1000hl
+Asie,Kazakstan,2018,116,1000hl
+Asie,Kazakstan,2019,100,1000hl
+Afrique,Kenya,1995,20,1000hl
+Afrique,Kenya,1996,20,1000hl
+Afrique,Kenya,1997,19,1000hl
+Afrique,Kenya,1998,22,1000hl
+Afrique,Kenya,1999,21,1000hl
+Afrique,Kenya,2000,19,1000hl
+Afrique,Kenya,2001,27,1000hl
+Afrique,Kenya,2002,31,1000hl
+Afrique,Kenya,2003,27,1000hl
+Afrique,Kenya,2004,38,1000hl
+Afrique,Kenya,2005,34,1000hl
+Afrique,Kenya,2006,39,1000hl
+Afrique,Kenya,2007,40,1000hl
+Afrique,Kenya,2008,40,1000hl
+Afrique,Kenya,2009,39,1000hl
+Afrique,Kenya,2010,55,1000hl
+Afrique,Kenya,2011,63,1000hl
+Afrique,Kenya,2012,71,1000hl
+Afrique,Kenya,2013,72,1000hl
+Afrique,Kenya,2014,73,1000hl
+Afrique,Kenya,2015,67,1000hl
+Afrique,Kenya,2016,71,1000hl
+Afrique,Kenya,2017,66,1000hl
+Afrique,Kenya,2018,92,1000hl
+Afrique,Kenya,2019,81,1000hl
+Asie,Kirghizistan,1995,19,1000hl
+Asie,Kirghizistan,1996,45,1000hl
+Asie,Kirghizistan,1997,33,1000hl
+Asie,Kirghizistan,1998,15,1000hl
+Asie,Kirghizistan,1999,5,1000hl
+Asie,Kirghizistan,2000,1,1000hl
+Asie,Kirghizistan,2001,5,1000hl
+Asie,Kirghizistan,2002,5,1000hl
+Asie,Kirghizistan,2003,12,1000hl
+Asie,Kirghizistan,2004,7,1000hl
+Asie,Kirghizistan,2005,11,1000hl
+Asie,Kirghizistan,2006,6,1000hl
+Asie,Kirghizistan,2007,14,1000hl
+Asie,Kirghizistan,2008,12,1000hl
+Asie,Kirghizistan,2009,11,1000hl
+Asie,Kirghizistan,2010,10,1000hl
+Asie,Kirghizistan,2011,11,1000hl
+Asie,Kirghizistan,2012,17,1000hl
+Asie,Kirghizistan,2013,15,1000hl
+Asie,Kirghizistan,2014,9,1000hl
+Asie,Kirghizistan,2015,12,1000hl
+Asie,Kirghizistan,2016,14,1000hl
+Asie,Kirghizistan,2017,21,1000hl
+Asie,Kirghizistan,2018,20,1000hl
+Asie,Kirghizistan,2019,20,1000hl
+Oceanie,Kiribati,2007,1,1000hl
+Asie,"Lao, Republique Democratique Populaire",1995,1,1000hl
+Asie,"Lao, Republique Democratique Populaire",1996,2,1000hl
+Asie,"Lao, Republique Democratique Populaire",1997,2,1000hl
+Asie,"Lao, Republique Democratique Populaire",1998,2,1000hl
+Asie,"Lao, Republique Democratique Populaire",1999,3,1000hl
+Asie,"Lao, Republique Democratique Populaire",2000,6,1000hl
+Asie,"Lao, Republique Democratique Populaire",2001,7,1000hl
+Asie,"Lao, Republique Democratique Populaire",2002,8,1000hl
+Asie,"Lao, Republique Democratique Populaire",2003,7,1000hl
+Asie,"Lao, Republique Democratique Populaire",2004,8,1000hl
+Asie,"Lao, Republique Democratique Populaire",2005,8,1000hl
+Asie,"Lao, Republique Democratique Populaire",2006,8,1000hl
+Asie,"Lao, Republique Democratique Populaire",2007,9,1000hl
+Asie,"Lao, Republique Democratique Populaire",2008,10,1000hl
+Asie,"Lao, Republique Democratique Populaire",2009,12,1000hl
+Asie,"Lao, Republique Democratique Populaire",2010,12,1000hl
+Asie,"Lao, Republique Democratique Populaire",2011,16,1000hl
+Asie,"Lao, Republique Democratique Populaire",2012,16,1000hl
+Asie,"Lao, Republique Democratique Populaire",2013,22,1000hl
+Asie,"Lao, Republique Democratique Populaire",2014,26,1000hl
+Asie,"Lao, Republique Democratique Populaire",2015,26,1000hl
+Asie,"Lao, Republique Democratique Populaire",2016,30,1000hl
+Asie,"Lao, Republique Democratique Populaire",2017,10,1000hl
+Asie,"Lao, Republique Democratique Populaire",2018,13,1000hl
+Asie,"Lao, Republique Democratique Populaire",2019,16,1000hl
+Afrique,Lesotho,1995,4,1000hl
+Afrique,Lesotho,1996,4,1000hl
+Afrique,Lesotho,1997,4,1000hl
+Afrique,Lesotho,1998,4,1000hl
+Afrique,Lesotho,1999,4,1000hl
+Afrique,Lesotho,2000,4,1000hl
+Afrique,Lesotho,2001,4,1000hl
+Afrique,Lesotho,2007,1,1000hl
+Afrique,Lesotho,2008,1,1000hl
+Afrique,Lesotho,2009,1,1000hl
+Afrique,Lesotho,2010,1,1000hl
+Afrique,Lesotho,2011,1,1000hl
+Afrique,Lesotho,2012,1,1000hl
+Afrique,Lesotho,2013,9,1000hl
+Afrique,Lesotho,2014,14,1000hl
+Afrique,Lesotho,2015,9,1000hl
+Afrique,Lesotho,2016,13,1000hl
+Afrique,Lesotho,2017,18,1000hl
+Afrique,Lesotho,2018,5,1000hl
+Afrique,Lesotho,2019,15,1000hl
+Europe,Lettonie,1995,165,1000hl
+Europe,Lettonie,1996,121,1000hl
+Europe,Lettonie,1997,129,1000hl
+Europe,Lettonie,1998,103,1000hl
+Europe,Lettonie,1999,101,1000hl
+Europe,Lettonie,2000,183,1000hl
+Europe,Lettonie,2001,151,1000hl
+Europe,Lettonie,2002,173,1000hl
+Europe,Lettonie,2003,196,1000hl
+Europe,Lettonie,2004,144,1000hl
+Europe,Lettonie,2005,152,1000hl
+Europe,Lettonie,2006,192,1000hl
+Europe,Lettonie,2007,204,1000hl
+Europe,Lettonie,2008,190,1000hl
+Europe,Lettonie,2009,191,1000hl
+Europe,Lettonie,2010,387,1000hl
+Europe,Lettonie,2011,377,1000hl
+Europe,Lettonie,2012,431,1000hl
+Europe,Lettonie,2013,482,1000hl
+Europe,Lettonie,2014,637,1000hl
+Europe,Lettonie,2015,528,1000hl
+Europe,Lettonie,2016,608,1000hl
+Europe,Lettonie,2017,795,1000hl
+Europe,Lettonie,2018,752,1000hl
+Europe,Lettonie,2019,954,1000hl
+Asie,Liban,1995,5,1000hl
+Asie,Liban,1996,5,1000hl
+Asie,Liban,1997,12,1000hl
+Asie,Liban,1998,6,1000hl
+Asie,Liban,1999,8,1000hl
+Asie,Liban,2000,6,1000hl
+Asie,Liban,2001,8,1000hl
+Asie,Liban,2002,10,1000hl
+Asie,Liban,2003,9,1000hl
+Asie,Liban,2004,10,1000hl
+Asie,Liban,2005,9,1000hl
+Asie,Liban,2006,8,1000hl
+Asie,Liban,2007,8,1000hl
+Asie,Liban,2008,9,1000hl
+Asie,Liban,2009,10,1000hl
+Asie,Liban,2010,11,1000hl
+Asie,Liban,2011,11,1000hl
+Asie,Liban,2012,12,1000hl
+Asie,Liban,2013,11,1000hl
+Asie,Liban,2014,11,1000hl
+Asie,Liban,2015,14,1000hl
+Asie,Liban,2016,13,1000hl
+Asie,Liban,2017,13,1000hl
+Asie,Liban,2018,13,1000hl
+Asie,Liban,2019,13,1000hl
+Afrique,Libye,2015,1,1000hl
+Afrique,Libye,2019,1,1000hl
+Afrique,Liberia,1995,2,1000hl
+Afrique,Liberia,1997,3,1000hl
+Afrique,Liberia,1998,1,1000hl
+Afrique,Liberia,1999,1,1000hl
+Afrique,Liberia,2000,1,1000hl
+Afrique,Liberia,2001,1,1000hl
+Afrique,Liberia,2002,1,1000hl
+Afrique,Liberia,2003,1,1000hl
+Afrique,Liberia,2004,1,1000hl
+Afrique,Liberia,2005,1,1000hl
+Afrique,Liberia,2007,1,1000hl
+Afrique,Liberia,2008,1,1000hl
+Afrique,Liberia,2009,1,1000hl
+Afrique,Liberia,2010,2,1000hl
+Afrique,Liberia,2011,2,1000hl
+Afrique,Liberia,2012,1,1000hl
+Afrique,Liberia,2013,3,1000hl
+Afrique,Liberia,2014,4,1000hl
+Afrique,Liberia,2015,5,1000hl
+Afrique,Liberia,2016,5,1000hl
+Afrique,Liberia,2017,15,1000hl
+Afrique,Liberia,2018,11,1000hl
+Afrique,Liberia,2019,8,1000hl
+Europe,Lituanie,1995,105,1000hl
+Europe,Lituanie,1996,156,1000hl
+Europe,Lituanie,1997,172,1000hl
+Europe,Lituanie,1998,163,1000hl
+Europe,Lituanie,1999,186,1000hl
+Europe,Lituanie,2000,60,1000hl
+Europe,Lituanie,2001,148,1000hl
+Europe,Lituanie,2002,191,1000hl
+Europe,Lituanie,2003,205,1000hl
+Europe,Lituanie,2004,146,1000hl
+Europe,Lituanie,2005,135,1000hl
+Europe,Lituanie,2006,150,1000hl
+Europe,Lituanie,2007,204,1000hl
+Europe,Lituanie,2008,350,1000hl
+Europe,Lituanie,2009,450,1000hl
+Europe,Lituanie,2010,685,1000hl
+Europe,Lituanie,2011,856,1000hl
+Europe,Lituanie,2012,971,1000hl
+Europe,Lituanie,2013,1117,1000hl
+Europe,Lituanie,2014,1131,1000hl
+Europe,Lituanie,2015,857,1000hl
+Europe,Lituanie,2016,858,1000hl
+Europe,Lituanie,2017,978,1000hl
+Europe,Lituanie,2018,909,1000hl
+Europe,Lituanie,2019,914,1000hl
+Europe,Luxembourg,2001,192,1000hl
+Europe,Luxembourg,2002,209,1000hl
+Europe,Luxembourg,2003,197,1000hl
+Europe,Luxembourg,2004,197,1000hl
+Europe,Luxembourg,2005,232,1000hl
+Europe,Luxembourg,2006,239,1000hl
+Europe,Luxembourg,2007,235,1000hl
+Europe,Luxembourg,2008,236,1000hl
+Europe,Luxembourg,2009,229,1000hl
+Europe,Luxembourg,2010,219,1000hl
+Europe,Luxembourg,2011,211,1000hl
+Europe,Luxembourg,2012,219,1000hl
+Europe,Luxembourg,2013,221,1000hl
+Europe,Luxembourg,2014,224,1000hl
+Europe,Luxembourg,2015,223,1000hl
+Europe,Luxembourg,2016,218,1000hl
+Europe,Luxembourg,2017,227,1000hl
+Europe,Luxembourg,2018,232,1000hl
+Europe,Luxembourg,2019,231,1000hl
+Asie,"Macao, Chine",1995,8,1000hl
+Asie,"Macao, Chine",1996,19,1000hl
+Asie,"Macao, Chine",1997,26,1000hl
+Asie,"Macao, Chine",1998,15,1000hl
+Asie,"Macao, Chine",1999,11,1000hl
+Asie,"Macao, Chine",2000,9,1000hl
+Asie,"Macao, Chine",2001,10,1000hl
+Asie,"Macao, Chine",2002,12,1000hl
+Asie,"Macao, Chine",2003,12,1000hl
+Asie,"Macao, Chine",2004,15,1000hl
+Asie,"Macao, Chine",2005,16,1000hl
+Asie,"Macao, Chine",2006,19,1000hl
+Asie,"Macao, Chine",2007,27,1000hl
+Asie,"Macao, Chine",2008,35,1000hl
+Asie,"Macao, Chine",2009,48,1000hl
+Asie,"Macao, Chine",2010,61,1000hl
+Asie,"Macao, Chine",2011,77,1000hl
+Asie,"Macao, Chine",2012,68,1000hl
+Asie,"Macao, Chine",2013,45,1000hl
+Asie,"Macao, Chine",2014,54,1000hl
+Asie,"Macao, Chine",2015,60,1000hl
+Asie,"Macao, Chine",2016,59,1000hl
+Asie,"Macao, Chine",2017,54,1000hl
+Asie,"Macao, Chine",2018,49,1000hl
+Asie,"Macao, Chine",2019,47,1000hl
+Afrique,Madagascar,1995,1,1000hl
+Afrique,Madagascar,1996,2,1000hl
+Afrique,Madagascar,1997,2,1000hl
+Afrique,Madagascar,1998,3,1000hl
+Afrique,Madagascar,1999,2,1000hl
+Afrique,Madagascar,2000,3,1000hl
+Afrique,Madagascar,2001,4,1000hl
+Afrique,Madagascar,2002,3,1000hl
+Afrique,Madagascar,2003,4,1000hl
+Afrique,Madagascar,2004,5,1000hl
+Afrique,Madagascar,2005,6,1000hl
+Afrique,Madagascar,2006,8,1000hl
+Afrique,Madagascar,2007,8,1000hl
+Afrique,Madagascar,2008,10,1000hl
+Afrique,Madagascar,2009,6,1000hl
+Afrique,Madagascar,2010,8,1000hl
+Afrique,Madagascar,2011,14,1000hl
+Afrique,Madagascar,2012,14,1000hl
+Afrique,Madagascar,2013,8,1000hl
+Afrique,Madagascar,2014,10,1000hl
+Afrique,Madagascar,2015,8,1000hl
+Afrique,Madagascar,2017,10,1000hl
+Afrique,Madagascar,2018,12,1000hl
+Afrique,Madagascar,2019,11,1000hl
+Asie,Malaisie,1995,13,1000hl
+Asie,Malaisie,1996,10,1000hl
+Asie,Malaisie,1997,29,1000hl
+Asie,Malaisie,1998,17,1000hl
+Asie,Malaisie,1999,28,1000hl
+Asie,Malaisie,2000,24,1000hl
+Asie,Malaisie,2001,28,1000hl
+Asie,Malaisie,2002,30,1000hl
+Asie,Malaisie,2003,54,1000hl
+Asie,Malaisie,2004,111,1000hl
+Asie,Malaisie,2005,62,1000hl
+Asie,Malaisie,2006,57,1000hl
+Asie,Malaisie,2007,68,1000hl
+Asie,Malaisie,2008,81,1000hl
+Asie,Malaisie,2009,172,1000hl
+Asie,Malaisie,2010,85,1000hl
+Asie,Malaisie,2011,60,1000hl
+Asie,Malaisie,2012,57,1000hl
+Asie,Malaisie,2013,62,1000hl
+Asie,Malaisie,2014,83,1000hl
+Asie,Malaisie,2015,104,1000hl
+Asie,Malaisie,2016,121,1000hl
+Asie,Malaisie,2017,130,1000hl
+Asie,Malaisie,2018,104,1000hl
+Asie,Malaisie,2019,92,1000hl
+Afrique,Malawi,1995,2,1000hl
+Afrique,Malawi,1996,3,1000hl
+Afrique,Malawi,1997,5,1000hl
+Afrique,Malawi,1998,3,1000hl
+Afrique,Malawi,1999,4,1000hl
+Afrique,Malawi,2001,2,1000hl
+Afrique,Malawi,2002,7,1000hl
+Afrique,Malawi,2003,8,1000hl
+Afrique,Malawi,2004,3,1000hl
+Afrique,Malawi,2005,2,1000hl
+Afrique,Malawi,2006,3,1000hl
+Afrique,Malawi,2007,2,1000hl
+Afrique,Malawi,2008,2,1000hl
+Afrique,Malawi,2009,4,1000hl
+Afrique,Malawi,2010,3,1000hl
+Afrique,Malawi,2011,2,1000hl
+Afrique,Malawi,2012,4,1000hl
+Afrique,Malawi,2013,2,1000hl
+Afrique,Malawi,2014,2,1000hl
+Afrique,Malawi,2015,2,1000hl
+Afrique,Malawi,2016,1,1000hl
+Afrique,Malawi,2017,2,1000hl
+Afrique,Malawi,2018,35,1000hl
+Afrique,Malawi,2019,2,1000hl
+Asie,Maldives,1995,3,1000hl
+Asie,Maldives,1996,3,1000hl
+Asie,Maldives,1997,3,1000hl
+Asie,Maldives,1998,3,1000hl
+Asie,Maldives,1999,4,1000hl
+Asie,Maldives,2000,3,1000hl
+Asie,Maldives,2001,5,1000hl
+Asie,Maldives,2002,6,1000hl
+Asie,Maldives,2003,8,1000hl
+Asie,Maldives,2004,8,1000hl
+Asie,Maldives,2005,6,1000hl
+Asie,Maldives,2006,10,1000hl
+Asie,Maldives,2007,11,1000hl
+Asie,Maldives,2008,12,1000hl
+Asie,Maldives,2009,11,1000hl
+Asie,Maldives,2010,12,1000hl
+Asie,Maldives,2011,15,1000hl
+Asie,Maldives,2012,12,1000hl
+Asie,Maldives,2013,14,1000hl
+Asie,Maldives,2014,13,1000hl
+Asie,Maldives,2015,14,1000hl
+Asie,Maldives,2016,15,1000hl
+Asie,Maldives,2017,16,1000hl
+Asie,Maldives,2018,21,1000hl
+Asie,Maldives,2019,22,1000hl
+Afrique,Mali,1995,4,1000hl
+Afrique,Mali,1996,1,1000hl
+Afrique,Mali,1997,1,1000hl
+Afrique,Mali,1998,1,1000hl
+Afrique,Mali,1999,2,1000hl
+Afrique,Mali,2000,1,1000hl
+Afrique,Mali,2001,3,1000hl
+Afrique,Mali,2002,19,1000hl
+Afrique,Mali,2003,3,1000hl
+Afrique,Mali,2004,2,1000hl
+Afrique,Mali,2005,2,1000hl
+Afrique,Mali,2006,3,1000hl
+Afrique,Mali,2007,2,1000hl
+Afrique,Mali,2008,3,1000hl
+Afrique,Mali,2009,3,1000hl
+Afrique,Mali,2010,6,1000hl
+Afrique,Mali,2011,6,1000hl
+Afrique,Mali,2012,3,1000hl
+Afrique,Mali,2013,4,1000hl
+Afrique,Mali,2014,4,1000hl
+Afrique,Mali,2015,8,1000hl
+Afrique,Mali,2016,3,1000hl
+Afrique,Mali,2017,5,1000hl
+Afrique,Mali,2018,5,1000hl
+Afrique,Mali,2019,19,1000hl
+Europe,Malte,1995,5,1000hl
+Europe,Malte,1996,5,1000hl
+Europe,Malte,1997,5,1000hl
+Europe,Malte,1998,5,1000hl
+Europe,Malte,1999,7,1000hl
+Europe,Malte,2000,8,1000hl
+Europe,Malte,2001,8,1000hl
+Europe,Malte,2002,9,1000hl
+Europe,Malte,2003,9,1000hl
+Europe,Malte,2004,32,1000hl
+Europe,Malte,2005,46,1000hl
+Europe,Malte,2006,64,1000hl
+Europe,Malte,2007,43,1000hl
+Europe,Malte,2008,45,1000hl
+Europe,Malte,2009,46,1000hl
+Europe,Malte,2010,48,1000hl
+Europe,Malte,2011,57,1000hl
+Europe,Malte,2012,51,1000hl
+Europe,Malte,2013,48,1000hl
+Europe,Malte,2014,50,1000hl
+Europe,Malte,2015,59,1000hl
+Europe,Malte,2016,66,1000hl
+Europe,Malte,2017,80,1000hl
+Europe,Malte,2018,58,1000hl
+Europe,Malte,2019,67,1000hl
+Afrique,Maroc,1995,145,1000hl
+Afrique,Maroc,1996,226,1000hl
+Afrique,Maroc,1997,94,1000hl
+Afrique,Maroc,1998,8,1000hl
+Afrique,Maroc,1999,59,1000hl
+Afrique,Maroc,2000,11,1000hl
+Afrique,Maroc,2001,12,1000hl
+Afrique,Maroc,2002,40,1000hl
+Afrique,Maroc,2003,74,1000hl
+Afrique,Maroc,2004,43,1000hl
+Afrique,Maroc,2005,65,1000hl
+Afrique,Maroc,2006,15,1000hl
+Afrique,Maroc,2007,18,1000hl
+Afrique,Maroc,2008,23,1000hl
+Afrique,Maroc,2009,136,1000hl
+Afrique,Maroc,2010,79,1000hl
+Afrique,Maroc,2011,87,1000hl
+Afrique,Maroc,2012,88,1000hl
+Afrique,Maroc,2013,112,1000hl
+Afrique,Maroc,2014,25,1000hl
+Afrique,Maroc,2015,14,1000hl
+Afrique,Maroc,2016,19,1000hl
+Afrique,Maroc,2017,52,1000hl
+Afrique,Maroc,2018,177,1000hl
+Afrique,Maroc,2019,186,1000hl
+Amerique,Martinique,1995,54,1000hl
+Amerique,Martinique,1996,54,1000hl
+Afrique,Mauritanie,1996,1,1000hl
+Afrique,Mauritanie,1997,1,1000hl
+Afrique,Mauritanie,1998,1,1000hl
+Afrique,Mauritanie,2004,1,1000hl
+Afrique,Mauritanie,2008,1,1000hl
+Afrique,Mauritanie,2012,1,1000hl
+Afrique,Mauritanie,2017,1,1000hl
+Afrique,Mauritanie,2018,1,1000hl
+Amerique,Mexique,1995,48,1000hl
+Amerique,Mexique,1996,73,1000hl
+Amerique,Mexique,1997,119,1000hl
+Amerique,Mexique,1998,114,1000hl
+Amerique,Mexique,1999,137,1000hl
+Amerique,Mexique,2000,164,1000hl
+Amerique,Mexique,2001,226,1000hl
+Amerique,Mexique,2002,344,1000hl
+Amerique,Mexique,2003,227,1000hl
+Amerique,Mexique,2004,224,1000hl
+Amerique,Mexique,2005,271,1000hl
+Amerique,Mexique,2006,336,1000hl
+Amerique,Mexique,2007,384,1000hl
+Amerique,Mexique,2008,400,1000hl
+Amerique,Mexique,2009,386,1000hl
+Amerique,Mexique,2010,440,1000hl
+Amerique,Mexique,2011,454,1000hl
+Amerique,Mexique,2012,440,1000hl
+Amerique,Mexique,2013,537,1000hl
+Amerique,Mexique,2014,543,1000hl
+Amerique,Mexique,2015,599,1000hl
+Amerique,Mexique,2016,789,1000hl
+Amerique,Mexique,2017,719,1000hl
+Amerique,Mexique,2018,797,1000hl
+Amerique,Mexique,2019,596,1000hl
+Europe,"Moldova, Republique",1995,102,1000hl
+Europe,"Moldova, Republique",1996,186,1000hl
+Europe,"Moldova, Republique",1997,179,1000hl
+Europe,"Moldova, Republique",1998,256,1000hl
+Europe,"Moldova, Republique",1999,2,1000hl
+Europe,"Moldova, Republique",2000,20,1000hl
+Europe,"Moldova, Republique",2001,52,1000hl
+Europe,"Moldova, Republique",2002,230,1000hl
+Europe,"Moldova, Republique",2003,164,1000hl
+Europe,"Moldova, Republique",2004,196,1000hl
+Europe,"Moldova, Republique",2005,207,1000hl
+Europe,"Moldova, Republique",2006,155,1000hl
+Europe,"Moldova, Republique",2007,34,1000hl
+Europe,"Moldova, Republique",2008,7,1000hl
+Europe,"Moldova, Republique",2009,5,1000hl
+Europe,"Moldova, Republique",2010,43,1000hl
+Europe,"Moldova, Republique",2011,27,1000hl
+Europe,"Moldova, Republique",2012,4,1000hl
+Europe,"Moldova, Republique",2013,6,1000hl
+Europe,"Moldova, Republique",2014,4,1000hl
+Europe,"Moldova, Republique",2015,10,1000hl
+Europe,"Moldova, Republique",2016,11,1000hl
+Europe,"Moldova, Republique",2017,7,1000hl
+Europe,"Moldova, Republique",2018,3,1000hl
+Europe,"Moldova, Republique",2019,2,1000hl
+Asie,Mongolie,1997,4,1000hl
+Asie,Mongolie,1998,4,1000hl
+Asie,Mongolie,1999,4,1000hl
+Asie,Mongolie,2000,6,1000hl
+Asie,Mongolie,2001,4,1000hl
+Asie,Mongolie,2002,4,1000hl
+Asie,Mongolie,2003,6,1000hl
+Asie,Mongolie,2004,13,1000hl
+Asie,Mongolie,2005,13,1000hl
+Asie,Mongolie,2006,12,1000hl
+Asie,Mongolie,2007,14,1000hl
+Asie,Mongolie,2008,17,1000hl
+Asie,Mongolie,2009,11,1000hl
+Asie,Mongolie,2010,17,1000hl
+Asie,Mongolie,2011,23,1000hl
+Asie,Mongolie,2012,23,1000hl
+Asie,Mongolie,2013,15,1000hl
+Asie,Mongolie,2014,18,1000hl
+Asie,Mongolie,2015,15,1000hl
+Asie,Mongolie,2016,13,1000hl
+Asie,Mongolie,2017,18,1000hl
+Asie,Mongolie,2018,21,1000hl
+Asie,Mongolie,2019,18,1000hl
+Amerique,Montserrat,1995,1,1000hl
+Amerique,Montserrat,1996,1,1000hl
+Amerique,Montserrat,1997,1,1000hl
+Amerique,Montserrat,1998,1,1000hl
+Europe,Montenegro,2005,10,1000hl
+Europe,Montenegro,2006,10,1000hl
+Europe,Montenegro,2007,10,1000hl
+Europe,Montenegro,2008,10,1000hl
+Europe,Montenegro,2009,8,1000hl
+Europe,Montenegro,2010,9,1000hl
+Europe,Montenegro,2011,20,1000hl
+Europe,Montenegro,2012,23,1000hl
+Europe,Montenegro,2013,23,1000hl
+Europe,Montenegro,2014,22,1000hl
+Europe,Montenegro,2015,25,1000hl
+Europe,Montenegro,2016,23,1000hl
+Europe,Montenegro,2017,30,1000hl
+Europe,Montenegro,2018,28,1000hl
+Europe,Montenegro,2019,27,1000hl
+Afrique,Mozambique,1995,61,1000hl
+Afrique,Mozambique,1996,66,1000hl
+Afrique,Mozambique,1997,62,1000hl
+Afrique,Mozambique,1998,69,1000hl
+Afrique,Mozambique,1999,56,1000hl
+Afrique,Mozambique,2000,71,1000hl
+Afrique,Mozambique,2001,60,1000hl
+Afrique,Mozambique,2002,117,1000hl
+Afrique,Mozambique,2003,51,1000hl
+Afrique,Mozambique,2004,72,1000hl
+Afrique,Mozambique,2005,17,1000hl
+Afrique,Mozambique,2006,14,1000hl
+Afrique,Mozambique,2007,12,1000hl
+Afrique,Mozambique,2008,22,1000hl
+Afrique,Mozambique,2009,20,1000hl
+Afrique,Mozambique,2010,25,1000hl
+Afrique,Mozambique,2011,90,1000hl
+Afrique,Mozambique,2012,55,1000hl
+Afrique,Mozambique,2013,102,1000hl
+Afrique,Mozambique,2014,124,1000hl
+Afrique,Mozambique,2015,233,1000hl
+Afrique,Mozambique,2016,298,1000hl
+Afrique,Mozambique,2017,298,1000hl
+Afrique,Mozambique,2018,298,1000hl
+Afrique,Mozambique,2019,298,1000hl
+Asie,Myanmar,1996,2,1000hl
+Asie,Myanmar,1997,2,1000hl
+Asie,Myanmar,1998,1,1000hl
+Asie,Myanmar,1999,1,1000hl
+Asie,Myanmar,2000,3,1000hl
+Asie,Myanmar,2001,1,1000hl
+Asie,Myanmar,2002,2,1000hl
+Asie,Myanmar,2003,3,1000hl
+Asie,Myanmar,2004,3,1000hl
+Asie,Myanmar,2005,4,1000hl
+Asie,Myanmar,2006,5,1000hl
+Asie,Myanmar,2007,9,1000hl
+Asie,Myanmar,2008,11,1000hl
+Asie,Myanmar,2009,20,1000hl
+Asie,Myanmar,2010,16,1000hl
+Asie,Myanmar,2011,26,1000hl
+Asie,Myanmar,2012,32,1000hl
+Asie,Myanmar,2013,39,1000hl
+Asie,Myanmar,2014,1,1000hl
+Asie,Myanmar,2015,3,1000hl
+Asie,Myanmar,2016,7,1000hl
+Asie,Myanmar,2017,8,1000hl
+Asie,Myanmar,2018,26,1000hl
+Asie,Myanmar,2019,19,1000hl
+Afrique,Namibie,1997,137,1000hl
+Afrique,Namibie,1998,92,1000hl
+Afrique,Namibie,1999,37,1000hl
+Afrique,Namibie,2000,85,1000hl
+Afrique,Namibie,2001,50,1000hl
+Afrique,Namibie,2002,29,1000hl
+Afrique,Namibie,2003,108,1000hl
+Afrique,Namibie,2004,1,1000hl
+Afrique,Namibie,2005,75,1000hl
+Afrique,Namibie,2006,199,1000hl
+Afrique,Namibie,2007,48,1000hl
+Afrique,Namibie,2008,65,1000hl
+Afrique,Namibie,2009,88,1000hl
+Afrique,Namibie,2010,70,1000hl
+Afrique,Namibie,2011,63,1000hl
+Afrique,Namibie,2012,278,1000hl
+Afrique,Namibie,2013,420,1000hl
+Afrique,Namibie,2014,596,1000hl
+Afrique,Namibie,2015,588,1000hl
+Afrique,Namibie,2016,416,1000hl
+Afrique,Namibie,2017,421,1000hl
+Afrique,Namibie,2018,140,1000hl
+Afrique,Namibie,2019,403,1000hl
+Oceanie,Nauru,2013,1,1000hl
+Amerique,Nicaragua,1995,2,1000hl
+Amerique,Nicaragua,1996,2,1000hl
+Amerique,Nicaragua,1997,14,1000hl
+Amerique,Nicaragua,1998,7,1000hl
+Amerique,Nicaragua,1999,6,1000hl
+Amerique,Nicaragua,2000,5,1000hl
+Amerique,Nicaragua,2001,5,1000hl
+Amerique,Nicaragua,2002,8,1000hl
+Amerique,Nicaragua,2003,7,1000hl
+Amerique,Nicaragua,2004,6,1000hl
+Amerique,Nicaragua,2005,7,1000hl
+Amerique,Nicaragua,2006,8,1000hl
+Amerique,Nicaragua,2007,9,1000hl
+Amerique,Nicaragua,2008,8,1000hl
+Amerique,Nicaragua,2009,8,1000hl
+Amerique,Nicaragua,2010,9,1000hl
+Amerique,Nicaragua,2011,9,1000hl
+Amerique,Nicaragua,2012,12,1000hl
+Amerique,Nicaragua,2013,11,1000hl
+Amerique,Nicaragua,2014,12,1000hl
+Amerique,Nicaragua,2015,14,1000hl
+Amerique,Nicaragua,2016,15,1000hl
+Amerique,Nicaragua,2017,10,1000hl
+Amerique,Nicaragua,2018,12,1000hl
+Amerique,Nicaragua,2019,11,1000hl
+Afrique,Niger,1995,4,1000hl
+Afrique,Niger,1996,4,1000hl
+Afrique,Niger,1997,4,1000hl
+Afrique,Niger,1998,6,1000hl
+Afrique,Niger,1999,5,1000hl
+Afrique,Niger,2000,4,1000hl
+Afrique,Niger,2001,11,1000hl
+Afrique,Niger,2002,8,1000hl
+Afrique,Niger,2003,4,1000hl
+Afrique,Niger,2004,5,1000hl
+Afrique,Niger,2005,6,1000hl
+Afrique,Niger,2006,6,1000hl
+Afrique,Niger,2007,7,1000hl
+Afrique,Niger,2008,6,1000hl
+Afrique,Niger,2009,6,1000hl
+Afrique,Niger,2010,8,1000hl
+Afrique,Niger,2011,9,1000hl
+Afrique,Niger,2012,9,1000hl
+Afrique,Niger,2013,8,1000hl
+Afrique,Niger,2014,6,1000hl
+Afrique,Niger,2015,5,1000hl
+Afrique,Niger,2016,10,1000hl
+Afrique,Niger,2017,7,1000hl
+Afrique,Niger,2018,4,1000hl
+Afrique,Niger,2019,10,1000hl
+Afrique,Nigeria,1995,11,1000hl
+Afrique,Nigeria,1996,9,1000hl
+Afrique,Nigeria,1997,8,1000hl
+Afrique,Nigeria,1998,8,1000hl
+Afrique,Nigeria,1999,11,1000hl
+Afrique,Nigeria,2000,4,1000hl
+Afrique,Nigeria,2001,40,1000hl
+Afrique,Nigeria,2002,3,1000hl
+Afrique,Nigeria,2003,42,1000hl
+Afrique,Nigeria,2004,31,1000hl
+Afrique,Nigeria,2005,34,1000hl
+Afrique,Nigeria,2006,59,1000hl
+Afrique,Nigeria,2007,63,1000hl
+Afrique,Nigeria,2008,258,1000hl
+Afrique,Nigeria,2009,130,1000hl
+Afrique,Nigeria,2010,213,1000hl
+Afrique,Nigeria,2011,275,1000hl
+Afrique,Nigeria,2012,346,1000hl
+Afrique,Nigeria,2013,371,1000hl
+Afrique,Nigeria,2014,382,1000hl
+Afrique,Nigeria,2015,295,1000hl
+Afrique,Nigeria,2016,171,1000hl
+Afrique,Nigeria,2017,213,1000hl
+Afrique,Nigeria,2018,248,1000hl
+Afrique,Nigeria,2019,279,1000hl
+Europe,Norvege,1995,320,1000hl
+Europe,Norvege,1996,366,1000hl
+Europe,Norvege,1997,420,1000hl
+Europe,Norvege,1998,433,1000hl
+Europe,Norvege,1999,480,1000hl
+Europe,Norvege,2000,468,1000hl
+Europe,Norvege,2001,623,1000hl
+Europe,Norvege,2002,610,1000hl
+Europe,Norvege,2003,685,1000hl
+Europe,Norvege,2004,728,1000hl
+Europe,Norvege,2005,761,1000hl
+Europe,Norvege,2006,656,1000hl
+Europe,Norvege,2007,723,1000hl
+Europe,Norvege,2008,737,1000hl
+Europe,Norvege,2009,761,1000hl
+Europe,Norvege,2010,773,1000hl
+Europe,Norvege,2011,798,1000hl
+Europe,Norvege,2012,828,1000hl
+Europe,Norvege,2013,817,1000hl
+Europe,Norvege,2014,855,1000hl
+Europe,Norvege,2015,841,1000hl
+Europe,Norvege,2016,871,1000hl
+Europe,Norvege,2017,844,1000hl
+Europe,Norvege,2018,862,1000hl
+Europe,Norvege,2019,867,1000hl
+Oceanie,Nouvelle-caledonie,1995,41,1000hl
+Oceanie,Nouvelle-caledonie,1996,42,1000hl
+Oceanie,Nouvelle-caledonie,1997,47,1000hl
+Oceanie,Nouvelle-caledonie,1998,42,1000hl
+Oceanie,Nouvelle-caledonie,1999,39,1000hl
+Oceanie,Nouvelle-caledonie,2000,41,1000hl
+Oceanie,Nouvelle-caledonie,2001,50,1000hl
+Oceanie,Nouvelle-caledonie,2002,60,1000hl
+Oceanie,Nouvelle-caledonie,2003,56,1000hl
+Oceanie,Nouvelle-caledonie,2004,67,1000hl
+Oceanie,Nouvelle-caledonie,2005,63,1000hl
+Oceanie,Nouvelle-caledonie,2006,65,1000hl
+Oceanie,Nouvelle-caledonie,2007,63,1000hl
+Oceanie,Nouvelle-caledonie,2008,70,1000hl
+Oceanie,Nouvelle-caledonie,2009,61,1000hl
+Oceanie,Nouvelle-caledonie,2010,68,1000hl
+Oceanie,Nouvelle-caledonie,2011,68,1000hl
+Oceanie,Nouvelle-caledonie,2012,68,1000hl
+Oceanie,Nouvelle-caledonie,2013,68,1000hl
+Oceanie,Nouvelle-caledonie,2014,73,1000hl
+Oceanie,Nouvelle-caledonie,2015,82,1000hl
+Oceanie,Nouvelle-caledonie,2016,55,1000hl
+Oceanie,Nouvelle-caledonie,2017,57,1000hl
+Oceanie,Nouvelle-caledonie,2018,42,1000hl
+Oceanie,Nouvelle-caledonie,2019,44,1000hl
+Oceanie,Nouvelle-zelande,1995,209,1000hl
+Oceanie,Nouvelle-zelande,1996,225,1000hl
+Oceanie,Nouvelle-zelande,1997,224,1000hl
+Oceanie,Nouvelle-zelande,1998,277,1000hl
+Oceanie,Nouvelle-zelande,1999,409,1000hl
+Oceanie,Nouvelle-zelande,2000,408,1000hl
+Oceanie,Nouvelle-zelande,2001,402,1000hl
+Oceanie,Nouvelle-zelande,2002,403,1000hl
+Oceanie,Nouvelle-zelande,2003,444,1000hl
+Oceanie,Nouvelle-zelande,2004,450,1000hl
+Oceanie,Nouvelle-zelande,2005,359,1000hl
+Oceanie,Nouvelle-zelande,2006,360,1000hl
+Oceanie,Nouvelle-zelande,2007,424,1000hl
+Oceanie,Nouvelle-zelande,2008,409,1000hl
+Oceanie,Nouvelle-zelande,2009,315,1000hl
+Oceanie,Nouvelle-zelande,2010,327,1000hl
+Oceanie,Nouvelle-zelande,2011,277,1000hl
+Oceanie,Nouvelle-zelande,2012,342,1000hl
+Oceanie,Nouvelle-zelande,2013,409,1000hl
+Oceanie,Nouvelle-zelande,2014,407,1000hl
+Oceanie,Nouvelle-zelande,2015,345,1000hl
+Oceanie,Nouvelle-zelande,2016,372,1000hl
+Oceanie,Nouvelle-zelande,2017,399,1000hl
+Oceanie,Nouvelle-zelande,2018,409,1000hl
+Oceanie,Nouvelle-zelande,2019,425,1000hl
+Asie,Nepal,1999,2,1000hl
+Asie,Nepal,2000,2,1000hl
+Asie,Nepal,2001,2,1000hl
+Asie,Nepal,2002,2,1000hl
+Asie,Nepal,2003,5,1000hl
+Asie,Nepal,2004,3,1000hl
+Asie,Nepal,2005,4,1000hl
+Asie,Nepal,2006,5,1000hl
+Asie,Nepal,2007,5,1000hl
+Asie,Nepal,2008,4,1000hl
+Asie,Nepal,2009,6,1000hl
+Asie,Nepal,2010,6,1000hl
+Asie,Nepal,2011,8,1000hl
+Asie,Nepal,2012,8,1000hl
+Asie,Nepal,2013,8,1000hl
+Asie,Nepal,2014,8,1000hl
+Asie,Nepal,2015,7,1000hl
+Asie,Nepal,2016,8,1000hl
+Asie,Nepal,2017,7,1000hl
+Asie,Nepal,2018,9,1000hl
+Asie,Nepal,2019,8,1000hl
+Afrique,Ouganda,1995,1,1000hl
+Afrique,Ouganda,1996,1,1000hl
+Afrique,Ouganda,1997,2,1000hl
+Afrique,Ouganda,1998,3,1000hl
+Afrique,Ouganda,1999,2,1000hl
+Afrique,Ouganda,2000,1,1000hl
+Afrique,Ouganda,2001,1,1000hl
+Afrique,Ouganda,2002,1,1000hl
+Afrique,Ouganda,2003,3,1000hl
+Afrique,Ouganda,2004,3,1000hl
+Afrique,Ouganda,2005,2,1000hl
+Afrique,Ouganda,2006,2,1000hl
+Afrique,Ouganda,2007,3,1000hl
+Afrique,Ouganda,2008,12,1000hl
+Afrique,Ouganda,2009,7,1000hl
+Afrique,Ouganda,2010,18,1000hl
+Afrique,Ouganda,2011,11,1000hl
+Afrique,Ouganda,2012,25,1000hl
+Afrique,Ouganda,2013,25,1000hl
+Afrique,Ouganda,2014,25,1000hl
+Afrique,Ouganda,2015,25,1000hl
+Afrique,Ouganda,2016,25,1000hl
+Afrique,Ouganda,2017,25,1000hl
+Afrique,Ouganda,2018,35,1000hl
+Afrique,Ouganda,2019,15,1000hl
+Asie,Ouzbekistan,1995,13,1000hl
+Asie,Ouzbekistan,1996,10,1000hl
+Asie,Ouzbekistan,1997,1,1000hl
+Asie,Ouzbekistan,2006,1,1000hl
+Asie,Ouzbekistan,2011,1,1000hl
+Asie,Ouzbekistan,2012,1,1000hl
+Asie,Ouzbekistan,2013,1,1000hl
+Asie,Ouzbekistan,2014,1,1000hl
+Asie,Ouzbekistan,2015,1,1000hl
+Asie,Ouzbekistan,2016,1,1000hl
+Asie,Ouzbekistan,2017,1,1000hl
+Asie,Ouzbekistan,2018,1,1000hl
+Asie,Ouzbekistan,2019,1,1000hl
+Asie,Pakistan,1995,1,1000hl
+Asie,Pakistan,1996,1,1000hl
+Asie,Pakistan,1997,1,1000hl
+Asie,Pakistan,1998,1,1000hl
+Asie,Pakistan,1999,1,1000hl
+Asie,Pakistan,2007,1,1000hl
+Asie,Pakistan,2008,1,1000hl
+Asie,Pakistan,2009,1,1000hl
+Asie,Pakistan,2010,1,1000hl
+Asie,Pakistan,2011,1,1000hl
+Asie,Pakistan,2012,1,1000hl
+Amerique,Panama,1995,20,1000hl
+Amerique,Panama,1996,11,1000hl
+Amerique,Panama,1997,12,1000hl
+Amerique,Panama,1998,11,1000hl
+Amerique,Panama,1999,15,1000hl
+Amerique,Panama,2000,17,1000hl
+Amerique,Panama,2001,14,1000hl
+Amerique,Panama,2002,16,1000hl
+Amerique,Panama,2003,19,1000hl
+Amerique,Panama,2004,35,1000hl
+Amerique,Panama,2005,23,1000hl
+Amerique,Panama,2006,27,1000hl
+Amerique,Panama,2007,33,1000hl
+Amerique,Panama,2008,37,1000hl
+Amerique,Panama,2009,34,1000hl
+Amerique,Panama,2010,34,1000hl
+Amerique,Panama,2011,38,1000hl
+Amerique,Panama,2012,43,1000hl
+Amerique,Panama,2013,42,1000hl
+Amerique,Panama,2014,44,1000hl
+Amerique,Panama,2015,49,1000hl
+Amerique,Panama,2016,40,1000hl
+Amerique,Panama,2017,50,1000hl
+Amerique,Panama,2018,60,1000hl
+Amerique,Panama,2019,50,1000hl
+Oceanie,Papouasie-nouvelle-guinee,1995,3,1000hl
+Oceanie,Papouasie-nouvelle-guinee,1996,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,1997,6,1000hl
+Oceanie,Papouasie-nouvelle-guinee,1998,10,1000hl
+Oceanie,Papouasie-nouvelle-guinee,1999,9,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2000,9,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2001,12,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2002,3,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2003,3,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2004,2,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2005,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2006,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2007,3,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2008,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2009,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2010,4,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2011,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2012,9,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2013,5,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2014,10,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2015,37,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2016,23,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2017,20,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2018,33,1000hl
+Oceanie,Papouasie-nouvelle-guinee,2019,27,1000hl
+Amerique,Paraguay,1995,293,1000hl
+Amerique,Paraguay,1996,92,1000hl
+Amerique,Paraguay,1997,92,1000hl
+Amerique,Paraguay,1998,43,1000hl
+Amerique,Paraguay,1999,107,1000hl
+Amerique,Paraguay,2000,198,1000hl
+Amerique,Paraguay,2001,114,1000hl
+Amerique,Paraguay,2002,67,1000hl
+Amerique,Paraguay,2003,238,1000hl
+Amerique,Paraguay,2004,233,1000hl
+Amerique,Paraguay,2005,281,1000hl
+Amerique,Paraguay,2006,354,1000hl
+Amerique,Paraguay,2007,402,1000hl
+Amerique,Paraguay,2008,550,1000hl
+Amerique,Paraguay,2009,402,1000hl
+Amerique,Paraguay,2010,363,1000hl
+Amerique,Paraguay,2011,295,1000hl
+Amerique,Paraguay,2012,256,1000hl
+Amerique,Paraguay,2013,186,1000hl
+Amerique,Paraguay,2014,143,1000hl
+Amerique,Paraguay,2015,147,1000hl
+Amerique,Paraguay,2016,230,1000hl
+Amerique,Paraguay,2017,230,1000hl
+Amerique,Paraguay,2018,230,1000hl
+Amerique,Paraguay,2019,230,1000hl
+Europe,Pays-bas,1995,2347,1000hl
+Europe,Pays-bas,1996,2165,1000hl
+Europe,Pays-bas,1997,2780,1000hl
+Europe,Pays-bas,1998,2926,1000hl
+Europe,Pays-bas,1999,3388,1000hl
+Europe,Pays-bas,2000,3200,1000hl
+Europe,Pays-bas,2001,3121,1000hl
+Europe,Pays-bas,2002,3590,1000hl
+Europe,Pays-bas,2003,3059,1000hl
+Europe,Pays-bas,2004,3227,1000hl
+Europe,Pays-bas,2005,3799,1000hl
+Europe,Pays-bas,2006,3417,1000hl
+Europe,Pays-bas,2007,3823,1000hl
+Europe,Pays-bas,2008,3631,1000hl
+Europe,Pays-bas,2009,3669,1000hl
+Europe,Pays-bas,2010,3692,1000hl
+Europe,Pays-bas,2011,3321,1000hl
+Europe,Pays-bas,2012,3559,1000hl
+Europe,Pays-bas,2013,3669,1000hl
+Europe,Pays-bas,2014,3799,1000hl
+Europe,Pays-bas,2015,3838,1000hl
+Europe,Pays-bas,2016,4478,1000hl
+Europe,Pays-bas,2017,4444,1000hl
+Europe,Pays-bas,2018,4225,1000hl
+Europe,Pays-bas,2019,4214,1000hl
+Asie,Philippines,1995,17,1000hl
+Asie,Philippines,1996,23,1000hl
+Asie,Philippines,1997,24,1000hl
+Asie,Philippines,1998,29,1000hl
+Asie,Philippines,1999,35,1000hl
+Asie,Philippines,2000,55,1000hl
+Asie,Philippines,2001,63,1000hl
+Asie,Philippines,2002,54,1000hl
+Asie,Philippines,2003,63,1000hl
+Asie,Philippines,2004,61,1000hl
+Asie,Philippines,2005,96,1000hl
+Asie,Philippines,2006,101,1000hl
+Asie,Philippines,2007,84,1000hl
+Asie,Philippines,2008,100,1000hl
+Asie,Philippines,2009,97,1000hl
+Asie,Philippines,2010,166,1000hl
+Asie,Philippines,2011,115,1000hl
+Asie,Philippines,2012,108,1000hl
+Asie,Philippines,2013,106,1000hl
+Asie,Philippines,2014,146,1000hl
+Asie,Philippines,2015,172,1000hl
+Asie,Philippines,2016,204,1000hl
+Asie,Philippines,2017,220,1000hl
+Asie,Philippines,2018,200,1000hl
+Asie,Philippines,2019,230,1000hl
+Europe,Pologne,1995,316,1000hl
+Europe,Pologne,1996,484,1000hl
+Europe,Pologne,1997,483,1000hl
+Europe,Pologne,1998,508,1000hl
+Europe,Pologne,1999,628,1000hl
+Europe,Pologne,2000,590,1000hl
+Europe,Pologne,2001,507,1000hl
+Europe,Pologne,2002,539,1000hl
+Europe,Pologne,2003,579,1000hl
+Europe,Pologne,2004,613,1000hl
+Europe,Pologne,2005,684,1000hl
+Europe,Pologne,2006,719,1000hl
+Europe,Pologne,2007,879,1000hl
+Europe,Pologne,2008,915,1000hl
+Europe,Pologne,2009,833,1000hl
+Europe,Pologne,2010,902,1000hl
+Europe,Pologne,2011,969,1000hl
+Europe,Pologne,2012,960,1000hl
+Europe,Pologne,2013,1023,1000hl
+Europe,Pologne,2014,1067,1000hl
+Europe,Pologne,2015,1092,1000hl
+Europe,Pologne,2016,1188,1000hl
+Europe,Pologne,2017,1293,1000hl
+Europe,Pologne,2018,1321,1000hl
+Europe,Pologne,2019,1389,1000hl
+Oceanie,Polynesie Française,1995,33,1000hl
+Oceanie,Polynesie Française,1996,38,1000hl
+Oceanie,Polynesie Française,1997,28,1000hl
+Oceanie,Polynesie Française,1998,37,1000hl
+Oceanie,Polynesie Française,1999,35,1000hl
+Oceanie,Polynesie Française,2000,41,1000hl
+Oceanie,Polynesie Française,2001,45,1000hl
+Oceanie,Polynesie Française,2002,53,1000hl
+Oceanie,Polynesie Française,2003,49,1000hl
+Oceanie,Polynesie Française,2004,48,1000hl
+Oceanie,Polynesie Française,2005,55,1000hl
+Oceanie,Polynesie Française,2006,42,1000hl
+Oceanie,Polynesie Française,2007,44,1000hl
+Oceanie,Polynesie Française,2008,45,1000hl
+Oceanie,Polynesie Française,2009,41,1000hl
+Oceanie,Polynesie Française,2010,39,1000hl
+Oceanie,Polynesie Française,2011,37,1000hl
+Oceanie,Polynesie Française,2012,36,1000hl
+Oceanie,Polynesie Française,2013,29,1000hl
+Oceanie,Polynesie Française,2014,27,1000hl
+Oceanie,Polynesie Française,2015,27,1000hl
+Oceanie,Polynesie Française,2016,26,1000hl
+Oceanie,Polynesie Française,2017,26,1000hl
+Oceanie,Polynesie Française,2018,26,1000hl
+Oceanie,Polynesie Française,2019,26,1000hl
+Europe,Portugal,1995,881,1000hl
+Europe,Portugal,1996,622,1000hl
+Europe,Portugal,1997,454,1000hl
+Europe,Portugal,1998,1610,1000hl
+Europe,Portugal,1999,2408,1000hl
+Europe,Portugal,2000,1985,1000hl
+Europe,Portugal,2001,1703,1000hl
+Europe,Portugal,2002,1365,1000hl
+Europe,Portugal,2003,1379,1000hl
+Europe,Portugal,2004,1582,1000hl
+Europe,Portugal,2005,1420,1000hl
+Europe,Portugal,2006,1235,1000hl
+Europe,Portugal,2007,1253,1000hl
+Europe,Portugal,2008,1399,1000hl
+Europe,Portugal,2009,1606,1000hl
+Europe,Portugal,2010,1816,1000hl
+Europe,Portugal,2011,1636,1000hl
+Europe,Portugal,2012,1296,1000hl
+Europe,Portugal,2013,1600,1000hl
+Europe,Portugal,2014,2330,1000hl
+Europe,Portugal,2015,2161,1000hl
+Europe,Portugal,2016,1804,1000hl
+Europe,Portugal,2017,2092,1000hl
+Europe,Portugal,2018,1977,1000hl
+Europe,Portugal,2019,2935,1000hl
+Amerique,Perou,1995,62,1000hl
+Amerique,Perou,1996,54,1000hl
+Amerique,Perou,1997,58,1000hl
+Amerique,Perou,1998,50,1000hl
+Amerique,Perou,1999,48,1000hl
+Amerique,Perou,2000,52,1000hl
+Amerique,Perou,2001,56,1000hl
+Amerique,Perou,2002,65,1000hl
+Amerique,Perou,2003,61,1000hl
+Amerique,Perou,2004,63,1000hl
+Amerique,Perou,2005,60,1000hl
+Amerique,Perou,2006,71,1000hl
+Amerique,Perou,2007,74,1000hl
+Amerique,Perou,2008,83,1000hl
+Amerique,Perou,2009,73,1000hl
+Amerique,Perou,2010,90,1000hl
+Amerique,Perou,2011,84,1000hl
+Amerique,Perou,2012,100,1000hl
+Amerique,Perou,2013,87,1000hl
+Amerique,Perou,2014,90,1000hl
+Amerique,Perou,2015,95,1000hl
+Amerique,Perou,2016,85,1000hl
+Amerique,Perou,2017,96,1000hl
+Amerique,Perou,2018,106,1000hl
+Amerique,Perou,2019,109,1000hl
+Europe,Roumanie,1995,139,1000hl
+Europe,Roumanie,1996,56,1000hl
+Europe,Roumanie,1997,7,1000hl
+Europe,Roumanie,1998,76,1000hl
+Europe,Roumanie,1999,80,1000hl
+Europe,Roumanie,2000,3,1000hl
+Europe,Roumanie,2001,3,1000hl
+Europe,Roumanie,2002,3,1000hl
+Europe,Roumanie,2003,2,1000hl
+Europe,Roumanie,2004,3,1000hl
+Europe,Roumanie,2005,46,1000hl
+Europe,Roumanie,2006,716,1000hl
+Europe,Roumanie,2007,381,1000hl
+Europe,Roumanie,2008,388,1000hl
+Europe,Roumanie,2009,130,1000hl
+Europe,Roumanie,2010,224,1000hl
+Europe,Roumanie,2011,908,1000hl
+Europe,Roumanie,2012,545,1000hl
+Europe,Roumanie,2013,367,1000hl
+Europe,Roumanie,2014,342,1000hl
+Europe,Roumanie,2015,507,1000hl
+Europe,Roumanie,2016,502,1000hl
+Europe,Roumanie,2017,484,1000hl
+Europe,Roumanie,2018,395,1000hl
+Europe,Roumanie,2019,366,1000hl
+Europe,Royaume-uni,1995,7357,1000hl
+Europe,Royaume-uni,1996,7461,1000hl
+Europe,Royaume-uni,1997,8022,1000hl
+Europe,Royaume-uni,1998,8859,1000hl
+Europe,Royaume-uni,1999,8764,1000hl
+Europe,Royaume-uni,2000,9080,1000hl
+Europe,Royaume-uni,2001,10161,1000hl
+Europe,Royaume-uni,2002,11066,1000hl
+Europe,Royaume-uni,2003,11307,1000hl
+Europe,Royaume-uni,2004,11945,1000hl
+Europe,Royaume-uni,2005,11727,1000hl
+Europe,Royaume-uni,2006,11287,1000hl
+Europe,Royaume-uni,2007,11677,1000hl
+Europe,Royaume-uni,2008,11515,1000hl
+Europe,Royaume-uni,2009,11859,1000hl
+Europe,Royaume-uni,2010,12861,1000hl
+Europe,Royaume-uni,2011,13299,1000hl
+Europe,Royaume-uni,2012,13118,1000hl
+Europe,Royaume-uni,2013,13040,1000hl
+Europe,Royaume-uni,2014,14024,1000hl
+Europe,Royaume-uni,2015,14098,1000hl
+Europe,Royaume-uni,2016,13919,1000hl
+Europe,Royaume-uni,2017,13690,1000hl
+Europe,Royaume-uni,2018,13981,1000hl
+Europe,Royaume-uni,2019,14001,1000hl
+Afrique,Rwanda,1995,1,1000hl
+Afrique,Rwanda,1996,2,1000hl
+Afrique,Rwanda,1997,1,1000hl
+Afrique,Rwanda,1998,1,1000hl
+Afrique,Rwanda,1999,2,1000hl
+Afrique,Rwanda,2000,1,1000hl
+Afrique,Rwanda,2001,1,1000hl
+Afrique,Rwanda,2002,1,1000hl
+Afrique,Rwanda,2003,1,1000hl
+Afrique,Rwanda,2004,1,1000hl
+Afrique,Rwanda,2005,1,1000hl
+Afrique,Rwanda,2006,2,1000hl
+Afrique,Rwanda,2007,1,1000hl
+Afrique,Rwanda,2008,3,1000hl
+Afrique,Rwanda,2009,3,1000hl
+Afrique,Rwanda,2010,3,1000hl
+Afrique,Rwanda,2011,5,1000hl
+Afrique,Rwanda,2012,6,1000hl
+Afrique,Rwanda,2013,7,1000hl
+Afrique,Rwanda,2014,9,1000hl
+Afrique,Rwanda,2015,10,1000hl
+Afrique,Rwanda,2016,14,1000hl
+Afrique,Rwanda,2017,21,1000hl
+Afrique,Rwanda,2018,17,1000hl
+Afrique,Rwanda,2019,22,1000hl
+Afrique,Republique Dominicaine,1995,29,1000hl
+Afrique,Republique Dominicaine,1996,36,1000hl
+Afrique,Republique Dominicaine,1997,41,1000hl
+Afrique,Republique Dominicaine,1998,52,1000hl
+Afrique,Republique Dominicaine,1999,72,1000hl
+Afrique,Republique Dominicaine,2000,97,1000hl
+Afrique,Republique Dominicaine,2001,72,1000hl
+Afrique,Republique Dominicaine,2002,45,1000hl
+Afrique,Republique Dominicaine,2003,80,1000hl
+Afrique,Republique Dominicaine,2004,61,1000hl
+Afrique,Republique Dominicaine,2005,50,1000hl
+Afrique,Republique Dominicaine,2006,67,1000hl
+Afrique,Republique Dominicaine,2007,89,1000hl
+Afrique,Republique Dominicaine,2008,79,1000hl
+Afrique,Republique Dominicaine,2009,74,1000hl
+Afrique,Republique Dominicaine,2010,86,1000hl
+Afrique,Republique Dominicaine,2011,97,1000hl
+Afrique,Republique Dominicaine,2012,97,1000hl
+Afrique,Republique Dominicaine,2013,120,1000hl
+Afrique,Republique Dominicaine,2014,116,1000hl
+Afrique,Republique Dominicaine,2015,134,1000hl
+Afrique,Republique Dominicaine,2016,131,1000hl
+Afrique,Republique Dominicaine,2017,170,1000hl
+Afrique,Republique Dominicaine,2018,163,1000hl
+Afrique,Republique Dominicaine,2019,159,1000hl
+Europe,Republique Tcheque,1995,335,1000hl
+Europe,Republique Tcheque,1996,518,1000hl
+Europe,Republique Tcheque,1997,711,1000hl
+Europe,Republique Tcheque,1998,496,1000hl
+Europe,Republique Tcheque,1999,534,1000hl
+Europe,Republique Tcheque,2000,664,1000hl
+Europe,Republique Tcheque,2001,943,1000hl
+Europe,Republique Tcheque,2002,1034,1000hl
+Europe,Republique Tcheque,2003,1068,1000hl
+Europe,Republique Tcheque,2004,1226,1000hl
+Europe,Republique Tcheque,2005,1280,1000hl
+Europe,Republique Tcheque,2006,1381,1000hl
+Europe,Republique Tcheque,2007,1334,1000hl
+Europe,Republique Tcheque,2008,1442,1000hl
+Europe,Republique Tcheque,2009,1443,1000hl
+Europe,Republique Tcheque,2010,1900,1000hl
+Europe,Republique Tcheque,2011,1850,1000hl
+Europe,Republique Tcheque,2012,1572,1000hl
+Europe,Republique Tcheque,2013,1528,1000hl
+Europe,Republique Tcheque,2014,1552,1000hl
+Europe,Republique Tcheque,2015,1610,1000hl
+Europe,Republique Tcheque,2016,1403,1000hl
+Europe,Republique Tcheque,2017,1453,1000hl
+Europe,Republique Tcheque,2018,1323,1000hl
+Europe,Republique Tcheque,2019,1446,1000hl
+Asie,Republique Arabe Syrienne,1995,1,1000hl
+Asie,Republique Arabe Syrienne,1996,1,1000hl
+Asie,Republique Arabe Syrienne,1997,1,1000hl
+Asie,Republique Arabe Syrienne,1999,1,1000hl
+Asie,Republique Arabe Syrienne,2000,1,1000hl
+Asie,Republique Arabe Syrienne,2001,1,1000hl
+Asie,Republique Arabe Syrienne,2002,1,1000hl
+Asie,Republique Arabe Syrienne,2003,2,1000hl
+Asie,Republique Arabe Syrienne,2004,1,1000hl
+Asie,Republique Arabe Syrienne,2005,1,1000hl
+Asie,Republique Arabe Syrienne,2006,1,1000hl
+Asie,Republique Arabe Syrienne,2007,1,1000hl
+Asie,Republique Arabe Syrienne,2008,1,1000hl
+Asie,Republique Arabe Syrienne,2009,2,1000hl
+Asie,Republique Arabe Syrienne,2010,2,1000hl
+Asie,Republique Arabe Syrienne,2011,5,1000hl
+Asie,Republique Arabe Syrienne,2012,1,1000hl
+Asie,Republique Arabe Syrienne,2013,1,1000hl
+Asie,Republique Arabe Syrienne,2014,1,1000hl
+Asie,Republique Arabe Syrienne,2016,1,1000hl
+Asie,Republique Arabe Syrienne,2017,1,1000hl
+Asie,Republique Arabe Syrienne,2018,1,1000hl
+Europe,Republique De Macedoine Du Nord,1995,1,1000hl
+Europe,Republique De Macedoine Du Nord,1996,31,1000hl
+Europe,Republique De Macedoine Du Nord,1997,16,1000hl
+Europe,Republique De Macedoine Du Nord,1998,4,1000hl
+Europe,Republique De Macedoine Du Nord,1999,9,1000hl
+Europe,Republique De Macedoine Du Nord,2000,4,1000hl
+Europe,Republique De Macedoine Du Nord,2001,3,1000hl
+Europe,Republique De Macedoine Du Nord,2002,1,1000hl
+Europe,Republique De Macedoine Du Nord,2003,1,1000hl
+Europe,Republique De Macedoine Du Nord,2004,3,1000hl
+Europe,Republique De Macedoine Du Nord,2005,2,1000hl
+Europe,Republique De Macedoine Du Nord,2006,3,1000hl
+Europe,Republique De Macedoine Du Nord,2007,18,1000hl
+Europe,Republique De Macedoine Du Nord,2008,17,1000hl
+Europe,Republique De Macedoine Du Nord,2009,11,1000hl
+Europe,Republique De Macedoine Du Nord,2010,2,1000hl
+Europe,Republique De Macedoine Du Nord,2011,1,1000hl
+Europe,Republique De Macedoine Du Nord,2012,3,1000hl
+Europe,Republique De Macedoine Du Nord,2013,4,1000hl
+Europe,Republique De Macedoine Du Nord,2014,1,1000hl
+Europe,Republique De Macedoine Du Nord,2015,2,1000hl
+Europe,Republique De Macedoine Du Nord,2016,2,1000hl
+Europe,Republique De Macedoine Du Nord,2017,3,1000hl
+Europe,Republique De Macedoine Du Nord,2018,3,1000hl
+Europe,Republique De Macedoine Du Nord,2019,2,1000hl
+Afrique,Reunion,1995,119,1000hl
+Afrique,Reunion,1996,119,1000hl
+Afrique,Reunion,1997,119,1000hl
+Afrique,Reunion,1998,119,1000hl
+Afrique,Reunion,1999,119,1000hl
+Afrique,Reunion,2000,119,1000hl
+Afrique,Reunion,2001,119,1000hl
+Afrique,Reunion,2002,119,1000hl
+Afrique,Reunion,2003,119,1000hl
+Afrique,Reunion,2004,119,1000hl
+Amerique,Saint Pierre Et Miquelon,1995,3,1000hl
+Amerique,Saint Pierre Et Miquelon,1996,2,1000hl
+Amerique,Saint Pierre Et Miquelon,1997,2,1000hl
+Amerique,Saint Pierre Et Miquelon,1998,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2002,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2003,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2004,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2005,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2006,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2007,1,1000hl
+Amerique,Saint Pierre Et Miquelon,2008,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2009,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2010,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2011,3,1000hl
+Amerique,Saint Pierre Et Miquelon,2012,3,1000hl
+Amerique,Saint Pierre Et Miquelon,2013,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2014,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2015,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2016,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2017,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2018,2,1000hl
+Amerique,Saint Pierre Et Miquelon,2019,2,1000hl
+Amerique,Saint-helene,2008,1,1000hl
+Amerique,Saint-helene,2011,2,1000hl
+Amerique,Saint-kitts-et-nevis,1995,2,1000hl
+Amerique,Saint-kitts-et-nevis,1996,1,1000hl
+Amerique,Saint-kitts-et-nevis,1997,1,1000hl
+Amerique,Saint-kitts-et-nevis,1998,2,1000hl
+Amerique,Saint-kitts-et-nevis,1999,1,1000hl
+Amerique,Saint-kitts-et-nevis,2000,2,1000hl
+Amerique,Saint-kitts-et-nevis,2001,1,1000hl
+Amerique,Saint-kitts-et-nevis,2002,1,1000hl
+Amerique,Saint-kitts-et-nevis,2003,2,1000hl
+Amerique,Saint-kitts-et-nevis,2004,1,1000hl
+Amerique,Saint-kitts-et-nevis,2005,2,1000hl
+Amerique,Saint-kitts-et-nevis,2006,3,1000hl
+Amerique,Saint-kitts-et-nevis,2007,3,1000hl
+Amerique,Saint-kitts-et-nevis,2008,3,1000hl
+Amerique,Saint-kitts-et-nevis,2009,3,1000hl
+Amerique,Saint-kitts-et-nevis,2010,2,1000hl
+Amerique,Saint-kitts-et-nevis,2011,1,1000hl
+Amerique,Saint-kitts-et-nevis,2012,2,1000hl
+Amerique,Saint-kitts-et-nevis,2013,2,1000hl
+Amerique,Saint-kitts-et-nevis,2014,1,1000hl
+Amerique,Saint-kitts-et-nevis,2015,2,1000hl
+Amerique,Saint-kitts-et-nevis,2016,3,1000hl
+Amerique,Saint-kitts-et-nevis,2017,3,1000hl
+Amerique,Saint-kitts-et-nevis,2018,2,1000hl
+Amerique,Saint-kitts-et-nevis,2019,2,1000hl
+Amerique,Saint-vincent-et-les Grenadines,1995,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,1996,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,1997,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,1998,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,1999,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2000,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2001,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2002,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2003,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2005,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2006,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2007,2,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2008,3,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2009,4,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2010,3,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2011,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2012,1,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2013,2,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2014,3,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2015,3,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2016,3,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2017,2,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2018,2,1000hl
+Amerique,Saint-vincent-et-les Grenadines,2019,3,1000hl
+Amerique,Sainte-lucie,1995,5,1000hl
+Amerique,Sainte-lucie,1996,6,1000hl
+Amerique,Sainte-lucie,1997,8,1000hl
+Amerique,Sainte-lucie,1998,9,1000hl
+Amerique,Sainte-lucie,1999,11,1000hl
+Amerique,Sainte-lucie,2000,11,1000hl
+Amerique,Sainte-lucie,2001,8,1000hl
+Amerique,Sainte-lucie,2002,10,1000hl
+Amerique,Sainte-lucie,2003,14,1000hl
+Amerique,Sainte-lucie,2004,7,1000hl
+Amerique,Sainte-lucie,2005,12,1000hl
+Amerique,Sainte-lucie,2006,14,1000hl
+Amerique,Sainte-lucie,2007,16,1000hl
+Amerique,Sainte-lucie,2008,18,1000hl
+Amerique,Sainte-lucie,2009,12,1000hl
+Amerique,Sainte-lucie,2010,11,1000hl
+Amerique,Sainte-lucie,2011,10,1000hl
+Amerique,Sainte-lucie,2012,11,1000hl
+Amerique,Sainte-lucie,2013,12,1000hl
+Amerique,Sainte-lucie,2014,22,1000hl
+Amerique,Sainte-lucie,2015,10,1000hl
+Amerique,Sainte-lucie,2016,21,1000hl
+Amerique,Sainte-lucie,2017,12,1000hl
+Amerique,Sainte-lucie,2018,22,1000hl
+Amerique,Sainte-lucie,2019,22,1000hl
+Oceanie,Samoa Americaines,2010,1,1000hl
+Afrique,Sao Tome-et-principe,1995,20,1000hl
+Afrique,Sao Tome-et-principe,1996,25,1000hl
+Afrique,Sao Tome-et-principe,1997,21,1000hl
+Afrique,Sao Tome-et-principe,1998,30,1000hl
+Afrique,Sao Tome-et-principe,1999,25,1000hl
+Afrique,Sao Tome-et-principe,2000,22,1000hl
+Afrique,Sao Tome-et-principe,2001,27,1000hl
+Afrique,Sao Tome-et-principe,2002,36,1000hl
+Afrique,Sao Tome-et-principe,2003,37,1000hl
+Afrique,Sao Tome-et-principe,2004,36,1000hl
+Afrique,Sao Tome-et-principe,2005,28,1000hl
+Afrique,Sao Tome-et-principe,2006,38,1000hl
+Afrique,Sao Tome-et-principe,2007,27,1000hl
+Afrique,Sao Tome-et-principe,2008,27,1000hl
+Afrique,Sao Tome-et-principe,2009,23,1000hl
+Afrique,Sao Tome-et-principe,2010,38,1000hl
+Afrique,Sao Tome-et-principe,2011,47,1000hl
+Afrique,Sao Tome-et-principe,2012,39,1000hl
+Afrique,Sao Tome-et-principe,2013,43,1000hl
+Afrique,Sao Tome-et-principe,2014,39,1000hl
+Afrique,Sao Tome-et-principe,2015,32,1000hl
+Afrique,Sao Tome-et-principe,2016,37,1000hl
+Afrique,Sao Tome-et-principe,2017,28,1000hl
+Afrique,Sao Tome-et-principe,2018,36,1000hl
+Afrique,Sao Tome-et-principe,2019,32,1000hl
+Asie,Serbie Et Montenegro,1995,54,1000hl
+Asie,Serbie Et Montenegro,1996,30,1000hl
+Asie,Serbie Et Montenegro,1997,27,1000hl
+Asie,Serbie Et Montenegro,1998,17,1000hl
+Asie,Serbie Et Montenegro,1999,60,1000hl
+Asie,Serbie Et Montenegro,2000,103,1000hl
+Asie,Serbie Et Montenegro,2001,212,1000hl
+Asie,Serbie Et Montenegro,2002,136,1000hl
+Asie,Serbie Et Montenegro,2003,86,1000hl
+Asie,Serbie Et Montenegro,2004,135,1000hl
+Europe,Serbie,2005,122,1000hl
+Europe,Serbie,2006,268,1000hl
+Europe,Serbie,2007,306,1000hl
+Europe,Serbie,2008,245,1000hl
+Europe,Serbie,2009,215,1000hl
+Europe,Serbie,2010,205,1000hl
+Europe,Serbie,2011,298,1000hl
+Europe,Serbie,2012,305,1000hl
+Europe,Serbie,2013,239,1000hl
+Europe,Serbie,2014,251,1000hl
+Europe,Serbie,2015,187,1000hl
+Europe,Serbie,2016,208,1000hl
+Europe,Serbie,2017,262,1000hl
+Europe,Serbie,2018,225,1000hl
+Europe,Serbie,2019,209,1000hl
+Afrique,Seychelles,1995,6,1000hl
+Afrique,Seychelles,1996,6,1000hl
+Afrique,Seychelles,1997,5,1000hl
+Afrique,Seychelles,1998,3,1000hl
+Afrique,Seychelles,1999,5,1000hl
+Afrique,Seychelles,2000,4,1000hl
+Afrique,Seychelles,2001,1,1000hl
+Afrique,Seychelles,2002,19,1000hl
+Afrique,Seychelles,2003,3,1000hl
+Afrique,Seychelles,2004,6,1000hl
+Afrique,Seychelles,2005,5,1000hl
+Afrique,Seychelles,2006,11,1000hl
+Afrique,Seychelles,2007,10,1000hl
+Afrique,Seychelles,2008,8,1000hl
+Afrique,Seychelles,2009,9,1000hl
+Afrique,Seychelles,2010,13,1000hl
+Afrique,Seychelles,2011,16,1000hl
+Afrique,Seychelles,2012,10,1000hl
+Afrique,Seychelles,2013,11,1000hl
+Afrique,Seychelles,2014,27,1000hl
+Afrique,Seychelles,2015,18,1000hl
+Afrique,Seychelles,2016,40,1000hl
+Afrique,Seychelles,2017,18,1000hl
+Afrique,Seychelles,2018,3,1000hl
+Afrique,Seychelles,2019,21,1000hl
+Afrique,Sierra Leone,1995,1,1000hl
+Afrique,Sierra Leone,1996,1,1000hl
+Afrique,Sierra Leone,1997,1,1000hl
+Afrique,Sierra Leone,1998,1,1000hl
+Afrique,Sierra Leone,2002,1,1000hl
+Afrique,Sierra Leone,2003,1,1000hl
+Afrique,Sierra Leone,2004,2,1000hl
+Afrique,Sierra Leone,2005,1,1000hl
+Afrique,Sierra Leone,2006,2,1000hl
+Afrique,Sierra Leone,2007,1,1000hl
+Afrique,Sierra Leone,2008,2,1000hl
+Afrique,Sierra Leone,2009,2,1000hl
+Afrique,Sierra Leone,2010,1,1000hl
+Afrique,Sierra Leone,2011,2,1000hl
+Afrique,Sierra Leone,2012,2,1000hl
+Afrique,Sierra Leone,2013,2,1000hl
+Afrique,Sierra Leone,2014,2,1000hl
+Afrique,Sierra Leone,2015,2,1000hl
+Afrique,Sierra Leone,2016,2,1000hl
+Afrique,Sierra Leone,2017,5,1000hl
+Afrique,Sierra Leone,2018,6,1000hl
+Afrique,Sierra Leone,2019,3,1000hl
+Asie,Singapour,1995,60,1000hl
+Asie,Singapour,1996,65,1000hl
+Asie,Singapour,1997,82,1000hl
+Asie,Singapour,1998,68,1000hl
+Asie,Singapour,1999,92,1000hl
+Asie,Singapour,2000,98,1000hl
+Asie,Singapour,2001,103,1000hl
+Asie,Singapour,2002,114,1000hl
+Asie,Singapour,2003,126,1000hl
+Asie,Singapour,2004,155,1000hl
+Asie,Singapour,2005,164,1000hl
+Asie,Singapour,2006,196,1000hl
+Asie,Singapour,2007,235,1000hl
+Asie,Singapour,2008,241,1000hl
+Asie,Singapour,2009,205,1000hl
+Asie,Singapour,2010,235,1000hl
+Asie,Singapour,2011,268,1000hl
+Asie,Singapour,2012,279,1000hl
+Asie,Singapour,2013,285,1000hl
+Asie,Singapour,2014,329,1000hl
+Asie,Singapour,2015,308,1000hl
+Asie,Singapour,2016,300,1000hl
+Asie,Singapour,2017,321,1000hl
+Asie,Singapour,2018,350,1000hl
+Asie,Singapour,2019,312,1000hl
+Europe,Slovaquie,1995,181,1000hl
+Europe,Slovaquie,1996,170,1000hl
+Europe,Slovaquie,1997,98,1000hl
+Europe,Slovaquie,1998,44,1000hl
+Europe,Slovaquie,1999,79,1000hl
+Europe,Slovaquie,2000,190,1000hl
+Europe,Slovaquie,2001,162,1000hl
+Europe,Slovaquie,2002,141,1000hl
+Europe,Slovaquie,2003,139,1000hl
+Europe,Slovaquie,2004,166,1000hl
+Europe,Slovaquie,2005,225,1000hl
+Europe,Slovaquie,2006,343,1000hl
+Europe,Slovaquie,2007,397,1000hl
+Europe,Slovaquie,2008,430,1000hl
+Europe,Slovaquie,2009,450,1000hl
+Europe,Slovaquie,2010,546,1000hl
+Europe,Slovaquie,2011,663,1000hl
+Europe,Slovaquie,2012,644,1000hl
+Europe,Slovaquie,2013,508,1000hl
+Europe,Slovaquie,2014,726,1000hl
+Europe,Slovaquie,2015,976,1000hl
+Europe,Slovaquie,2016,623,1000hl
+Europe,Slovaquie,2017,770,1000hl
+Europe,Slovaquie,2018,794,1000hl
+Europe,Slovaquie,2019,743,1000hl
+Europe,Slovenie,1995,225,1000hl
+Europe,Slovenie,1996,273,1000hl
+Europe,Slovenie,1997,213,1000hl
+Europe,Slovenie,1998,67,1000hl
+Europe,Slovenie,1999,69,1000hl
+Europe,Slovenie,2000,189,1000hl
+Europe,Slovenie,2001,56,1000hl
+Europe,Slovenie,2002,34,1000hl
+Europe,Slovenie,2003,48,1000hl
+Europe,Slovenie,2004,51,1000hl
+Europe,Slovenie,2005,49,1000hl
+Europe,Slovenie,2006,64,1000hl
+Europe,Slovenie,2007,66,1000hl
+Europe,Slovenie,2008,68,1000hl
+Europe,Slovenie,2009,63,1000hl
+Europe,Slovenie,2010,72,1000hl
+Europe,Slovenie,2011,96,1000hl
+Europe,Slovenie,2012,84,1000hl
+Europe,Slovenie,2013,90,1000hl
+Europe,Slovenie,2014,122,1000hl
+Europe,Slovenie,2015,133,1000hl
+Europe,Slovenie,2016,134,1000hl
+Europe,Slovenie,2017,120,1000hl
+Europe,Slovenie,2018,102,1000hl
+Europe,Slovenie,2019,92,1000hl
+Afrique,Soudan,2006,1,1000hl
+Afrique,Soudan,2007,1,1000hl
+Afrique,Soudan,2008,2,1000hl
+Afrique,Soudan,2009,1,1000hl
+Afrique,Soudan,2010,2,1000hl
+Afrique,Soudan,2011,1,1000hl
+Afrique,Soudan,2013,1,1000hl
+Afrique,Soudan,2014,3,1000hl
+Afrique,Soudan,2015,1,1000hl
+Afrique,Soudan,2016,1,1000hl
+Afrique,Soudan,2017,1,1000hl
+Afrique,Soudan,2018,3,1000hl
+Afrique,Soudan,2019,3,1000hl
+Asie,Sri Lanka,1995,1,1000hl
+Asie,Sri Lanka,1996,1,1000hl
+Asie,Sri Lanka,1997,1,1000hl
+Asie,Sri Lanka,1998,1,1000hl
+Asie,Sri Lanka,1999,2,1000hl
+Asie,Sri Lanka,2000,1,1000hl
+Asie,Sri Lanka,2001,2,1000hl
+Asie,Sri Lanka,2002,4,1000hl
+Asie,Sri Lanka,2003,3,1000hl
+Asie,Sri Lanka,2004,3,1000hl
+Asie,Sri Lanka,2005,3,1000hl
+Asie,Sri Lanka,2006,7,1000hl
+Asie,Sri Lanka,2007,7,1000hl
+Asie,Sri Lanka,2008,3,1000hl
+Asie,Sri Lanka,2009,2,1000hl
+Asie,Sri Lanka,2010,3,1000hl
+Asie,Sri Lanka,2011,8,1000hl
+Asie,Sri Lanka,2012,8,1000hl
+Asie,Sri Lanka,2013,13,1000hl
+Asie,Sri Lanka,2014,11,1000hl
+Asie,Sri Lanka,2015,12,1000hl
+Asie,Sri Lanka,2016,13,1000hl
+Asie,Sri Lanka,2017,13,1000hl
+Asie,Sri Lanka,2018,18,1000hl
+Asie,Sri Lanka,2019,14,1000hl
+Europe,Suisse,1995,1880,1000hl
+Europe,Suisse,1996,1852,1000hl
+Europe,Suisse,1997,1853,1000hl
+Europe,Suisse,1998,1885,1000hl
+Europe,Suisse,1999,1895,1000hl
+Europe,Suisse,2000,1817,1000hl
+Europe,Suisse,2001,1592,1000hl
+Europe,Suisse,2002,1841,1000hl
+Europe,Suisse,2003,1841,1000hl
+Europe,Suisse,2004,1806,1000hl
+Europe,Suisse,2005,1813,1000hl
+Europe,Suisse,2006,1753,1000hl
+Europe,Suisse,2007,1860,1000hl
+Europe,Suisse,2008,1845,1000hl
+Europe,Suisse,2009,1908,1000hl
+Europe,Suisse,2010,1940,1000hl
+Europe,Suisse,2011,1896,1000hl
+Europe,Suisse,2012,1900,1000hl
+Europe,Suisse,2013,1843,1000hl
+Europe,Suisse,2014,1881,1000hl
+Europe,Suisse,2015,1876,1000hl
+Europe,Suisse,2016,1850,1000hl
+Europe,Suisse,2017,1863,1000hl
+Europe,Suisse,2018,1776,1000hl
+Europe,Suisse,2019,1784,1000hl
+Amerique,Suriname,1995,2,1000hl
+Amerique,Suriname,1996,1,1000hl
+Amerique,Suriname,1997,4,1000hl
+Amerique,Suriname,1998,5,1000hl
+Amerique,Suriname,1999,2,1000hl
+Amerique,Suriname,2000,1,1000hl
+Amerique,Suriname,2001,1,1000hl
+Amerique,Suriname,2002,1,1000hl
+Amerique,Suriname,2003,1,1000hl
+Amerique,Suriname,2004,2,1000hl
+Amerique,Suriname,2005,2,1000hl
+Amerique,Suriname,2006,2,1000hl
+Amerique,Suriname,2007,5,1000hl
+Amerique,Suriname,2008,4,1000hl
+Amerique,Suriname,2009,4,1000hl
+Amerique,Suriname,2010,4,1000hl
+Amerique,Suriname,2011,10,1000hl
+Amerique,Suriname,2012,3,1000hl
+Amerique,Suriname,2013,5,1000hl
+Amerique,Suriname,2014,4,1000hl
+Amerique,Suriname,2015,4,1000hl
+Amerique,Suriname,2016,3,1000hl
+Amerique,Suriname,2017,5,1000hl
+Amerique,Suriname,2018,6,1000hl
+Amerique,Suriname,2019,9,1000hl
+Europe,Suede,1995,874,1000hl
+Europe,Suede,1996,1144,1000hl
+Europe,Suede,1997,1060,1000hl
+Europe,Suede,1998,1121,1000hl
+Europe,Suede,1999,1214,1000hl
+Europe,Suede,2000,1192,1000hl
+Europe,Suede,2001,1364,1000hl
+Europe,Suede,2002,1516,1000hl
+Europe,Suede,2003,1560,1000hl
+Europe,Suede,2004,1528,1000hl
+Europe,Suede,2005,1588,1000hl
+Europe,Suede,2006,1660,1000hl
+Europe,Suede,2007,1791,1000hl
+Europe,Suede,2008,1816,1000hl
+Europe,Suede,2009,1952,1000hl
+Europe,Suede,2010,1885,1000hl
+Europe,Suede,2011,1926,1000hl
+Europe,Suede,2012,2037,1000hl
+Europe,Suede,2013,2076,1000hl
+Europe,Suede,2014,2326,1000hl
+Europe,Suede,2015,2173,1000hl
+Europe,Suede,2016,2184,1000hl
+Europe,Suede,2017,2165,1000hl
+Europe,Suede,2018,2123,1000hl
+Europe,Suede,2019,2089,1000hl
+Afrique,Swaziland,1997,51,1000hl
+Afrique,Swaziland,1998,34,1000hl
+Afrique,Swaziland,1999,54,1000hl
+Afrique,Swaziland,2000,31,1000hl
+Afrique,Swaziland,2001,86,1000hl
+Afrique,Swaziland,2002,48,1000hl
+Afrique,Swaziland,2003,3,1000hl
+Afrique,Swaziland,2004,1,1000hl
+Afrique,Swaziland,2005,19,1000hl
+Afrique,Swaziland,2006,25,1000hl
+Afrique,Swaziland,2007,18,1000hl
+Afrique,Swaziland,2008,2,1000hl
+Afrique,Swaziland,2009,2,1000hl
+Afrique,Swaziland,2010,3,1000hl
+Afrique,Swaziland,2011,4,1000hl
+Afrique,Swaziland,2012,4,1000hl
+Afrique,Senegal,1995,40,1000hl
+Afrique,Senegal,1996,36,1000hl
+Afrique,Senegal,1997,37,1000hl
+Afrique,Senegal,1998,45,1000hl
+Afrique,Senegal,1999,52,1000hl
+Afrique,Senegal,2000,46,1000hl
+Afrique,Senegal,2001,74,1000hl
+Afrique,Senegal,2002,97,1000hl
+Afrique,Senegal,2003,91,1000hl
+Afrique,Senegal,2004,89,1000hl
+Afrique,Senegal,2005,70,1000hl
+Afrique,Senegal,2006,86,1000hl
+Afrique,Senegal,2007,77,1000hl
+Afrique,Senegal,2008,84,1000hl
+Afrique,Senegal,2009,78,1000hl
+Afrique,Senegal,2010,76,1000hl
+Afrique,Senegal,2011,76,1000hl
+Afrique,Senegal,2012,75,1000hl
+Afrique,Senegal,2013,54,1000hl
+Afrique,Senegal,2014,80,1000hl
+Afrique,Senegal,2015,59,1000hl
+Afrique,Senegal,2016,63,1000hl
+Afrique,Senegal,2017,70,1000hl
+Afrique,Senegal,2018,50,1000hl
+Afrique,Senegal,2019,60,1000hl
+Asie,Tadjikistan,1995,2,1000hl
+Asie,Tadjikistan,1996,1,1000hl
+Asie,Tadjikistan,1997,2,1000hl
+Asie,Tadjikistan,1999,4,1000hl
+Asie,Tadjikistan,2006,1,1000hl
+Asie,Tadjikistan,2007,2,1000hl
+Asie,Tadjikistan,2008,1,1000hl
+Asie,Tadjikistan,2009,1,1000hl
+Asie,Tadjikistan,2010,3,1000hl
+Asie,Tadjikistan,2011,1,1000hl
+Asie,Tadjikistan,2012,2,1000hl
+Asie,Tadjikistan,2013,2,1000hl
+Asie,Tadjikistan,2014,2,1000hl
+Asie,Tadjikistan,2015,5,1000hl
+Asie,Tadjikistan,2016,2,1000hl
+Asie,Tadjikistan,2017,3,1000hl
+Asie,Tadjikistan,2018,5,1000hl
+Asie,Tadjikistan,2019,2,1000hl
+Afrique,"Tanzanie, Republique-unie",1995,6,1000hl
+Afrique,"Tanzanie, Republique-unie",1996,6,1000hl
+Afrique,"Tanzanie, Republique-unie",1997,12,1000hl
+Afrique,"Tanzanie, Republique-unie",1998,5,1000hl
+Afrique,"Tanzanie, Republique-unie",1999,6,1000hl
+Afrique,"Tanzanie, Republique-unie",2000,7,1000hl
+Afrique,"Tanzanie, Republique-unie",2001,7,1000hl
+Afrique,"Tanzanie, Republique-unie",2002,11,1000hl
+Afrique,"Tanzanie, Republique-unie",2003,11,1000hl
+Afrique,"Tanzanie, Republique-unie",2004,12,1000hl
+Afrique,"Tanzanie, Republique-unie",2005,27,1000hl
+Afrique,"Tanzanie, Republique-unie",2006,51,1000hl
+Afrique,"Tanzanie, Republique-unie",2007,34,1000hl
+Afrique,"Tanzanie, Republique-unie",2008,37,1000hl
+Afrique,"Tanzanie, Republique-unie",2009,36,1000hl
+Afrique,"Tanzanie, Republique-unie",2010,39,1000hl
+Afrique,"Tanzanie, Republique-unie",2011,43,1000hl
+Afrique,"Tanzanie, Republique-unie",2012,56,1000hl
+Afrique,"Tanzanie, Republique-unie",2013,61,1000hl
+Afrique,"Tanzanie, Republique-unie",2014,54,1000hl
+Afrique,"Tanzanie, Republique-unie",2015,43,1000hl
+Afrique,"Tanzanie, Republique-unie",2016,47,1000hl
+Afrique,"Tanzanie, Republique-unie",2017,40,1000hl
+Afrique,"Tanzanie, Republique-unie",2018,29,1000hl
+Afrique,"Tanzanie, Republique-unie",2019,29,1000hl
+Asie,"Taiwan, Chine",1995,36,1000hl
+Asie,"Taiwan, Chine",1996,53,1000hl
+Asie,"Taiwan, Chine",1997,246,1000hl
+Asie,"Taiwan, Chine",1998,156,1000hl
+Asie,"Taiwan, Chine",1999,92,1000hl
+Asie,"Taiwan, Chine",2000,67,1000hl
+Asie,"Taiwan, Chine",2001,69,1000hl
+Asie,"Taiwan, Chine",2002,72,1000hl
+Asie,"Taiwan, Chine",2003,91,1000hl
+Asie,"Taiwan, Chine",2004,122,1000hl
+Asie,"Taiwan, Chine",2005,166,1000hl
+Asie,"Taiwan, Chine",2006,170,1000hl
+Asie,"Taiwan, Chine",2007,217,1000hl
+Asie,"Taiwan, Chine",2008,164,1000hl
+Asie,"Taiwan, Chine",2009,110,1000hl
+Asie,"Taiwan, Chine",2010,160,1000hl
+Asie,"Taiwan, Chine",2011,179,1000hl
+Asie,"Taiwan, Chine",2012,168,1000hl
+Asie,"Taiwan, Chine",2013,167,1000hl
+Asie,"Taiwan, Chine",2014,171,1000hl
+Asie,"Taiwan, Chine",2015,204,1000hl
+Asie,"Taiwan, Chine",2016,216,1000hl
+Asie,"Taiwan, Chine",2017,217,1000hl
+Asie,"Taiwan, Chine",2018,215,1000hl
+Asie,"Taiwan, Chine",2019,202,1000hl
+Afrique,Tchad,1995,1,1000hl
+Afrique,Tchad,1996,1,1000hl
+Afrique,Tchad,1997,2,1000hl
+Afrique,Tchad,1998,2,1000hl
+Afrique,Tchad,1999,2,1000hl
+Afrique,Tchad,2000,2,1000hl
+Afrique,Tchad,2001,2,1000hl
+Afrique,Tchad,2002,2,1000hl
+Afrique,Tchad,2003,2,1000hl
+Afrique,Tchad,2004,4,1000hl
+Afrique,Tchad,2005,4,1000hl
+Afrique,Tchad,2006,4,1000hl
+Afrique,Tchad,2007,5,1000hl
+Afrique,Tchad,2008,7,1000hl
+Afrique,Tchad,2009,12,1000hl
+Afrique,Tchad,2010,26,1000hl
+Afrique,Tchad,2011,22,1000hl
+Afrique,Tchad,2012,20,1000hl
+Afrique,Tchad,2013,21,1000hl
+Afrique,Tchad,2014,6,1000hl
+Afrique,Tchad,2015,4,1000hl
+Afrique,Tchad,2016,7,1000hl
+Afrique,Tchad,2017,2,1000hl
+Afrique,Tchad,2018,2,1000hl
+Afrique,Tchad,2019,2,1000hl
+Asie,Thailande,1995,42,1000hl
+Asie,Thailande,1996,89,1000hl
+Asie,Thailande,1997,59,1000hl
+Asie,Thailande,1998,24,1000hl
+Asie,Thailande,1999,60,1000hl
+Asie,Thailande,2000,67,1000hl
+Asie,Thailande,2001,59,1000hl
+Asie,Thailande,2002,57,1000hl
+Asie,Thailande,2003,55,1000hl
+Asie,Thailande,2004,63,1000hl
+Asie,Thailande,2005,73,1000hl
+Asie,Thailande,2006,73,1000hl
+Asie,Thailande,2007,105,1000hl
+Asie,Thailande,2008,93,1000hl
+Asie,Thailande,2009,78,1000hl
+Asie,Thailande,2010,98,1000hl
+Asie,Thailande,2011,120,1000hl
+Asie,Thailande,2012,149,1000hl
+Asie,Thailande,2013,155,1000hl
+Asie,Thailande,2014,142,1000hl
+Asie,Thailande,2015,133,1000hl
+Asie,Thailande,2016,126,1000hl
+Asie,Thailande,2017,116,1000hl
+Asie,Thailande,2018,136,1000hl
+Asie,Thailande,2019,125,1000hl
+Oceanie,Timor-leste,1995,2,1000hl
+Oceanie,Timor-leste,1996,2,1000hl
+Oceanie,Timor-leste,1997,2,1000hl
+Oceanie,Timor-leste,1998,1,1000hl
+Oceanie,Timor-leste,1999,1,1000hl
+Oceanie,Timor-leste,2000,1,1000hl
+Oceanie,Timor-leste,2001,1,1000hl
+Oceanie,Timor-leste,2002,1,1000hl
+Oceanie,Timor-leste,2003,1,1000hl
+Oceanie,Timor-leste,2004,1,1000hl
+Oceanie,Timor-leste,2005,1,1000hl
+Oceanie,Timor-leste,2006,1,1000hl
+Oceanie,Timor-leste,2007,1,1000hl
+Oceanie,Timor-leste,2008,2,1000hl
+Oceanie,Timor-leste,2009,3,1000hl
+Oceanie,Timor-leste,2010,3,1000hl
+Oceanie,Timor-leste,2011,4,1000hl
+Oceanie,Timor-leste,2012,7,1000hl
+Oceanie,Timor-leste,2013,5,1000hl
+Oceanie,Timor-leste,2014,1,1000hl
+Oceanie,Timor-leste,2015,1,1000hl
+Oceanie,Timor-leste,2016,1,1000hl
+Oceanie,Timor-leste,2017,6,1000hl
+Oceanie,Timor-leste,2018,1,1000hl
+Afrique,Togo,1995,27,1000hl
+Afrique,Togo,1996,25,1000hl
+Afrique,Togo,1997,28,1000hl
+Afrique,Togo,1998,23,1000hl
+Afrique,Togo,1999,13,1000hl
+Afrique,Togo,2000,18,1000hl
+Afrique,Togo,2001,35,1000hl
+Afrique,Togo,2002,24,1000hl
+Afrique,Togo,2003,56,1000hl
+Afrique,Togo,2004,67,1000hl
+Afrique,Togo,2005,70,1000hl
+Afrique,Togo,2006,90,1000hl
+Afrique,Togo,2007,104,1000hl
+Afrique,Togo,2008,85,1000hl
+Afrique,Togo,2009,54,1000hl
+Afrique,Togo,2010,50,1000hl
+Afrique,Togo,2011,76,1000hl
+Afrique,Togo,2012,75,1000hl
+Afrique,Togo,2013,63,1000hl
+Afrique,Togo,2014,54,1000hl
+Afrique,Togo,2015,61,1000hl
+Afrique,Togo,2016,50,1000hl
+Afrique,Togo,2017,130,1000hl
+Afrique,Togo,2018,123,1000hl
+Afrique,Togo,2019,137,1000hl
+Oceanie,Tonga,1996,1,1000hl
+Oceanie,Tonga,1997,1,1000hl
+Oceanie,Tonga,1998,1,1000hl
+Oceanie,Tonga,1999,1,1000hl
+Oceanie,Tonga,2000,1,1000hl
+Oceanie,Tonga,2001,1,1000hl
+Oceanie,Tonga,2003,1,1000hl
+Oceanie,Tonga,2004,1,1000hl
+Oceanie,Tonga,2005,1,1000hl
+Oceanie,Tonga,2008,1,1000hl
+Oceanie,Tonga,2009,1,1000hl
+Oceanie,Tonga,2011,1,1000hl
+Oceanie,Tonga,2015,1,1000hl
+Oceanie,Tonga,2016,1,1000hl
+Oceanie,Tonga,2017,1,1000hl
+Oceanie,Tonga,2018,1,1000hl
+Oceanie,Tonga,2019,1,1000hl
+Amerique,Trinite-et-tobago,1995,5,1000hl
+Amerique,Trinite-et-tobago,1996,6,1000hl
+Amerique,Trinite-et-tobago,1997,6,1000hl
+Amerique,Trinite-et-tobago,1998,8,1000hl
+Amerique,Trinite-et-tobago,1999,11,1000hl
+Amerique,Trinite-et-tobago,2000,7,1000hl
+Amerique,Trinite-et-tobago,2001,7,1000hl
+Amerique,Trinite-et-tobago,2002,7,1000hl
+Amerique,Trinite-et-tobago,2003,9,1000hl
+Amerique,Trinite-et-tobago,2004,9,1000hl
+Amerique,Trinite-et-tobago,2005,10,1000hl
+Amerique,Trinite-et-tobago,2006,11,1000hl
+Amerique,Trinite-et-tobago,2007,12,1000hl
+Amerique,Trinite-et-tobago,2008,10,1000hl
+Amerique,Trinite-et-tobago,2009,10,1000hl
+Amerique,Trinite-et-tobago,2010,9,1000hl
+Amerique,Trinite-et-tobago,2011,10,1000hl
+Amerique,Trinite-et-tobago,2012,13,1000hl
+Amerique,Trinite-et-tobago,2013,17,1000hl
+Amerique,Trinite-et-tobago,2014,26,1000hl
+Amerique,Trinite-et-tobago,2015,30,1000hl
+Amerique,Trinite-et-tobago,2016,14,1000hl
+Amerique,Trinite-et-tobago,2017,10,1000hl
+Amerique,Trinite-et-tobago,2018,10,1000hl
+Amerique,Trinite-et-tobago,2019,11,1000hl
+Afrique,Tunisie,1995,1,1000hl
+Afrique,Tunisie,1996,1,1000hl
+Afrique,Tunisie,1997,1,1000hl
+Afrique,Tunisie,1998,1,1000hl
+Afrique,Tunisie,1999,1,1000hl
+Afrique,Tunisie,2000,1,1000hl
+Afrique,Tunisie,2001,1,1000hl
+Afrique,Tunisie,2002,1,1000hl
+Afrique,Tunisie,2003,1,1000hl
+Afrique,Tunisie,2004,1,1000hl
+Afrique,Tunisie,2005,1,1000hl
+Afrique,Tunisie,2006,1,1000hl
+Afrique,Tunisie,2010,1,1000hl
+Afrique,Tunisie,2011,1,1000hl
+Afrique,Tunisie,2012,1,1000hl
+Afrique,Tunisie,2013,1,1000hl
+Afrique,Tunisie,2014,2,1000hl
+Afrique,Tunisie,2015,1,1000hl
+Afrique,Tunisie,2016,2,1000hl
+Afrique,Tunisie,2017,1,1000hl
+Afrique,Tunisie,2018,2,1000hl
+Afrique,Tunisie,2019,2,1000hl
+Asie,Turkmenistan,1996,3,1000hl
+Asie,Turkmenistan,1997,1,1000hl
+Asie,Turkmenistan,1998,2,1000hl
+Asie,Turkmenistan,1999,1,1000hl
+Asie,Turkmenistan,2000,5,1000hl
+Asie,Turkmenistan,2001,4,1000hl
+Asie,Turkmenistan,2002,5,1000hl
+Asie,Turkmenistan,2003,6,1000hl
+Asie,Turkmenistan,2004,10,1000hl
+Asie,Turkmenistan,2005,8,1000hl
+Asie,Turkmenistan,2006,5,1000hl
+Asie,Turkmenistan,2007,2,1000hl
+Asie,Turkmenistan,2008,1,1000hl
+Asie,Turkmenistan,2009,1,1000hl
+Asie,Turkmenistan,2010,1,1000hl
+Asie,Turkmenistan,2011,1,1000hl
+Asie,Turkmenistan,2012,1,1000hl
+Asie,Turkmenistan,2013,1,1000hl
+Asie,Turkmenistan,2014,3,1000hl
+Asie,Turkmenistan,2015,2,1000hl
+Asie,Turkmenistan,2016,2,1000hl
+Asie,Turkmenistan,2017,2,1000hl
+Asie,Turkmenistan,2018,4,1000hl
+Asie,Turkmenistan,2019,3,1000hl
+Asie,Turquie,1996,2,1000hl
+Asie,Turquie,1997,2,1000hl
+Asie,Turquie,1998,2,1000hl
+Asie,Turquie,1999,2,1000hl
+Asie,Turquie,2000,2,1000hl
+Asie,Turquie,2001,2,1000hl
+Asie,Turquie,2002,2,1000hl
+Asie,Turquie,2003,1,1000hl
+Asie,Turquie,2004,9,1000hl
+Asie,Turquie,2005,14,1000hl
+Asie,Turquie,2006,16,1000hl
+Asie,Turquie,2007,12,1000hl
+Asie,Turquie,2008,15,1000hl
+Asie,Turquie,2009,11,1000hl
+Asie,Turquie,2010,17,1000hl
+Asie,Turquie,2011,18,1000hl
+Asie,Turquie,2012,22,1000hl
+Asie,Turquie,2013,19,1000hl
+Asie,Turquie,2014,27,1000hl
+Asie,Turquie,2015,22,1000hl
+Asie,Turquie,2016,20,1000hl
+Asie,Turquie,2017,24,1000hl
+Asie,Turquie,2018,18,1000hl
+Asie,Turquie,2019,12,1000hl
+Oceanie,Tuvalu,2011,1,1000hl
+Oceanie,Tuvalu,2012,1,1000hl
+Oceanie,Tuvalu,2013,1,1000hl
+Oceanie,Tuvalu,2014,1,1000hl
+Oceanie,Tuvalu,2015,1,1000hl
+Europe,Ukraine,1995,418,1000hl
+Europe,Ukraine,1996,130,1000hl
+Europe,Ukraine,1997,230,1000hl
+Europe,Ukraine,1998,193,1000hl
+Europe,Ukraine,1999,69,1000hl
+Europe,Ukraine,2000,58,1000hl
+Europe,Ukraine,2001,119,1000hl
+Europe,Ukraine,2002,114,1000hl
+Europe,Ukraine,2003,155,1000hl
+Europe,Ukraine,2004,113,1000hl
+Europe,Ukraine,2005,224,1000hl
+Europe,Ukraine,2006,438,1000hl
+Europe,Ukraine,2007,549,1000hl
+Europe,Ukraine,2008,409,1000hl
+Europe,Ukraine,2009,167,1000hl
+Europe,Ukraine,2010,327,1000hl
+Europe,Ukraine,2011,500,1000hl
+Europe,Ukraine,2012,333,1000hl
+Europe,Ukraine,2013,346,1000hl
+Europe,Ukraine,2014,307,1000hl
+Europe,Ukraine,2015,233,1000hl
+Europe,Ukraine,2016,431,1000hl
+Europe,Ukraine,2017,416,1000hl
+Europe,Ukraine,2018,379,1000hl
+Europe,Ukraine,2019,450,1000hl
+Amerique,Uruguay,1995,46,1000hl
+Amerique,Uruguay,1996,84,1000hl
+Amerique,Uruguay,1997,93,1000hl
+Amerique,Uruguay,1998,84,1000hl
+Amerique,Uruguay,1999,68,1000hl
+Amerique,Uruguay,2000,79,1000hl
+Amerique,Uruguay,2001,82,1000hl
+Amerique,Uruguay,2002,23,1000hl
+Amerique,Uruguay,2003,51,1000hl
+Amerique,Uruguay,2004,30,1000hl
+Amerique,Uruguay,2005,25,1000hl
+Amerique,Uruguay,2006,23,1000hl
+Amerique,Uruguay,2007,19,1000hl
+Amerique,Uruguay,2008,22,1000hl
+Amerique,Uruguay,2009,30,1000hl
+Amerique,Uruguay,2010,34,1000hl
+Amerique,Uruguay,2011,32,1000hl
+Amerique,Uruguay,2012,32,1000hl
+Amerique,Uruguay,2013,29,1000hl
+Amerique,Uruguay,2014,29,1000hl
+Amerique,Uruguay,2015,30,1000hl
+Amerique,Uruguay,2016,33,1000hl
+Amerique,Uruguay,2017,35,1000hl
+Amerique,Uruguay,2018,35,1000hl
+Amerique,Uruguay,2019,32,1000hl
+Oceanie,Vanuatu,1995,6,1000hl
+Oceanie,Vanuatu,1996,3,1000hl
+Oceanie,Vanuatu,1997,5,1000hl
+Oceanie,Vanuatu,1998,5,1000hl
+Oceanie,Vanuatu,1999,4,1000hl
+Oceanie,Vanuatu,2000,2,1000hl
+Oceanie,Vanuatu,2001,2,1000hl
+Oceanie,Vanuatu,2002,2,1000hl
+Oceanie,Vanuatu,2003,2,1000hl
+Oceanie,Vanuatu,2004,2,1000hl
+Oceanie,Vanuatu,2005,2,1000hl
+Oceanie,Vanuatu,2006,2,1000hl
+Oceanie,Vanuatu,2007,2,1000hl
+Oceanie,Vanuatu,2008,2,1000hl
+Oceanie,Vanuatu,2009,5,1000hl
+Oceanie,Vanuatu,2010,4,1000hl
+Oceanie,Vanuatu,2011,4,1000hl
+Oceanie,Vanuatu,2012,3,1000hl
+Oceanie,Vanuatu,2013,3,1000hl
+Oceanie,Vanuatu,2014,4,1000hl
+Oceanie,Vanuatu,2015,4,1000hl
+Oceanie,Vanuatu,2016,6,1000hl
+Oceanie,Vanuatu,2017,4,1000hl
+Oceanie,Vanuatu,2018,5,1000hl
+Oceanie,Vanuatu,2019,6,1000hl
+Amerique,Venezuela,1995,58,1000hl
+Amerique,Venezuela,1996,77,1000hl
+Amerique,Venezuela,1997,105,1000hl
+Amerique,Venezuela,1998,100,1000hl
+Amerique,Venezuela,1999,84,1000hl
+Amerique,Venezuela,2000,141,1000hl
+Amerique,Venezuela,2001,211,1000hl
+Amerique,Venezuela,2002,90,1000hl
+Amerique,Venezuela,2003,512,1000hl
+Amerique,Venezuela,2004,106,1000hl
+Amerique,Venezuela,2005,164,1000hl
+Amerique,Venezuela,2006,181,1000hl
+Amerique,Venezuela,2007,185,1000hl
+Amerique,Venezuela,2008,253,1000hl
+Amerique,Venezuela,2009,198,1000hl
+Amerique,Venezuela,2010,159,1000hl
+Amerique,Venezuela,2011,187,1000hl
+Amerique,Venezuela,2012,223,1000hl
+Amerique,Venezuela,2013,104,1000hl
+Amerique,Venezuela,2014,95,1000hl
+Amerique,Venezuela,2015,23,1000hl
+Amerique,Venezuela,2016,24,1000hl
+Amerique,Venezuela,2017,24,1000hl
+Amerique,Venezuela,2018,24,1000hl
+Amerique,Venezuela,2019,24,1000hl
+Asie,Vietnam,1995,7,1000hl
+Asie,Vietnam,1996,10,1000hl
+Asie,Vietnam,1997,17,1000hl
+Asie,Vietnam,1998,26,1000hl
+Asie,Vietnam,1999,25,1000hl
+Asie,Vietnam,2000,51,1000hl
+Asie,Vietnam,2001,29,1000hl
+Asie,Vietnam,2002,26,1000hl
+Asie,Vietnam,2003,33,1000hl
+Asie,Vietnam,2004,46,1000hl
+Asie,Vietnam,2005,53,1000hl
+Asie,Vietnam,2006,59,1000hl
+Asie,Vietnam,2007,82,1000hl
+Asie,Vietnam,2008,74,1000hl
+Asie,Vietnam,2009,88,1000hl
+Asie,Vietnam,2010,102,1000hl
+Asie,Vietnam,2011,124,1000hl
+Asie,Vietnam,2012,115,1000hl
+Asie,Vietnam,2013,53,1000hl
+Asie,Vietnam,2014,62,1000hl
+Asie,Vietnam,2015,76,1000hl
+Asie,Vietnam,2016,79,1000hl
+Asie,Vietnam,2017,87,1000hl
+Asie,Vietnam,2018,92,1000hl
+Asie,Vietnam,2019,96,1000hl
+Afrique,Zambie,1995,1,1000hl
+Afrique,Zambie,1996,6,1000hl
+Afrique,Zambie,1997,6,1000hl
+Afrique,Zambie,1998,6,1000hl
+Afrique,Zambie,1999,3,1000hl
+Afrique,Zambie,2000,3,1000hl
+Afrique,Zambie,2001,4,1000hl
+Afrique,Zambie,2002,2,1000hl
+Afrique,Zambie,2003,1,1000hl
+Afrique,Zambie,2004,6,1000hl
+Afrique,Zambie,2005,3,1000hl
+Afrique,Zambie,2006,8,1000hl
+Afrique,Zambie,2007,7,1000hl
+Afrique,Zambie,2008,9,1000hl
+Afrique,Zambie,2009,7,1000hl
+Afrique,Zambie,2010,6,1000hl
+Afrique,Zambie,2011,6,1000hl
+Afrique,Zambie,2012,13,1000hl
+Afrique,Zambie,2013,15,1000hl
+Afrique,Zambie,2014,47,1000hl
+Afrique,Zambie,2015,26,1000hl
+Afrique,Zambie,2016,47,1000hl
+Afrique,Zambie,2017,37,1000hl
+Afrique,Zambie,2018,33,1000hl
+Afrique,Zambie,2019,27,1000hl
+Afrique,Zimbabwe,1995,14,1000hl
+Afrique,Zimbabwe,1996,12,1000hl
+Afrique,Zimbabwe,1997,15,1000hl
+Afrique,Zimbabwe,1998,9,1000hl
+Afrique,Zimbabwe,1999,11,1000hl
+Afrique,Zimbabwe,2000,5,1000hl
+Afrique,Zimbabwe,2001,5,1000hl
+Afrique,Zimbabwe,2002,8,1000hl
+Afrique,Zimbabwe,2003,8,1000hl
+Afrique,Zimbabwe,2004,5,1000hl
+Afrique,Zimbabwe,2005,3,1000hl
+Afrique,Zimbabwe,2006,7,1000hl
+Afrique,Zimbabwe,2007,5,1000hl
+Afrique,Zimbabwe,2008,9,1000hl
+Afrique,Zimbabwe,2009,14,1000hl
+Afrique,Zimbabwe,2010,21,1000hl
+Afrique,Zimbabwe,2011,18,1000hl
+Afrique,Zimbabwe,2012,18,1000hl
+Afrique,Zimbabwe,2013,21,1000hl
+Afrique,Zimbabwe,2014,20,1000hl
+Afrique,Zimbabwe,2015,20,1000hl
+Afrique,Zimbabwe,2016,17,1000hl
+Afrique,Zimbabwe,2017,9,1000hl
+Afrique,Zimbabwe,2018,25,1000hl
+Afrique,Zimbabwe,2019,3,1000hl
+Afrique,Ile Maurice,1995,11,1000hl
+Afrique,Ile Maurice,1996,10,1000hl
+Afrique,Ile Maurice,1997,12,1000hl
+Afrique,Ile Maurice,1998,12,1000hl
+Afrique,Ile Maurice,1999,20,1000hl
+Afrique,Ile Maurice,2000,16,1000hl
+Afrique,Ile Maurice,2001,12,1000hl
+Afrique,Ile Maurice,2002,13,1000hl
+Afrique,Ile Maurice,2003,15,1000hl
+Afrique,Ile Maurice,2004,16,1000hl
+Afrique,Ile Maurice,2005,19,1000hl
+Afrique,Ile Maurice,2006,17,1000hl
+Afrique,Ile Maurice,2007,18,1000hl
+Afrique,Ile Maurice,2008,20,1000hl
+Afrique,Ile Maurice,2009,16,1000hl
+Afrique,Ile Maurice,2010,20,1000hl
+Afrique,Ile Maurice,2011,20,1000hl
+Afrique,Ile Maurice,2012,18,1000hl
+Afrique,Ile Maurice,2013,20,1000hl
+Afrique,Ile Maurice,2014,20,1000hl
+Afrique,Ile Maurice,2015,23,1000hl
+Afrique,Ile Maurice,2016,25,1000hl
+Afrique,Ile Maurice,2017,22,1000hl
+Afrique,Ile Maurice,2018,25,1000hl
+Afrique,Ile Maurice,2019,20,1000hl
+Oceanie,Iles Cook,1995,1,1000hl
+Oceanie,Iles Cook,1996,1,1000hl
+Oceanie,Iles Cook,1999,1,1000hl
+Oceanie,Iles Cook,2000,1,1000hl
+Oceanie,Iles Cook,2001,1,1000hl
+Oceanie,Iles Cook,2003,1,1000hl
+Oceanie,Iles Cook,2004,1,1000hl
+Oceanie,Iles Cook,2005,2,1000hl
+Oceanie,Iles Cook,2006,1,1000hl
+Oceanie,Iles Cook,2007,2,1000hl
+Oceanie,Iles Cook,2008,1,1000hl
+Oceanie,Iles Cook,2009,2,1000hl
+Oceanie,Iles Cook,2010,3,1000hl
+Oceanie,Iles Cook,2011,1,1000hl
+Oceanie,Iles Cook,2012,2,1000hl
+Oceanie,Iles Cook,2013,2,1000hl
+Oceanie,Iles Cook,2014,3,1000hl
+Oceanie,Iles Cook,2015,3,1000hl
+Oceanie,Iles Cook,2016,4,1000hl
+Oceanie,Iles Cook,2017,2,1000hl
+Oceanie,Iles Cook,2018,2,1000hl
+Oceanie,Iles Cook,2019,2,1000hl
+Europe,Iles Feroe,1995,2,1000hl
+Europe,Iles Feroe,1996,2,1000hl
+Europe,Iles Feroe,1997,2,1000hl
+Europe,Iles Feroe,1998,2,1000hl
+Europe,Iles Feroe,1999,2,1000hl
+Europe,Iles Feroe,2000,2,1000hl
+Europe,Iles Feroe,2001,2,1000hl
+Europe,Iles Feroe,2002,3,1000hl
+Europe,Iles Feroe,2003,3,1000hl
+Europe,Iles Feroe,2004,3,1000hl
+Europe,Iles Feroe,2005,3,1000hl
+Europe,Iles Feroe,2006,2,1000hl
+Europe,Iles Feroe,2007,3,1000hl
+Europe,Iles Feroe,2008,4,1000hl
+Europe,Iles Feroe,2009,5,1000hl
+Europe,Iles Feroe,2010,4,1000hl
+Europe,Iles Feroe,2011,4,1000hl
+Europe,Iles Feroe,2012,4,1000hl
+Europe,Iles Feroe,2013,4,1000hl
+Europe,Iles Feroe,2014,4,1000hl
+Europe,Iles Feroe,2015,5,1000hl
+Europe,Iles Feroe,2016,4,1000hl
+Europe,Iles Feroe,2017,5,1000hl
+Europe,Iles Feroe,2018,5,1000hl
+Europe,Iles Feroe,2019,5,1000hl
+Oceanie,Iles Salomon,1995,1,1000hl
+Oceanie,Iles Salomon,1996,1,1000hl
+Oceanie,Iles Salomon,1997,1,1000hl
+Oceanie,Iles Salomon,1998,1,1000hl
+Oceanie,Iles Salomon,1999,1,1000hl
+Oceanie,Iles Salomon,2004,1,1000hl
+Oceanie,Iles Salomon,2006,1,1000hl
+Oceanie,Iles Salomon,2007,1,1000hl
+Oceanie,Iles Salomon,2008,1,1000hl
+Oceanie,Iles Salomon,2009,1,1000hl
+Oceanie,Iles Salomon,2010,1,1000hl
+Oceanie,Iles Salomon,2012,1,1000hl
+Oceanie,Iles Salomon,2014,1,1000hl
+Oceanie,Iles Salomon,2015,2,1000hl
+Oceanie,Iles Salomon,2016,2,1000hl
+Oceanie,Iles Salomon,2017,2,1000hl
+Oceanie,Iles Salomon,2018,2,1000hl
+Oceanie,Iles Salomon,2019,1,1000hl
